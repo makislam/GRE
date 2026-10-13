@@ -1023,7 +1023,7 @@
 
   // ---------------------------------------------------------------- site shell & home
   function shell(active, inner) {
-    const nav = [['home', 'Home'], ['practice', 'Custom Practice'], ['study', 'Math Study'], ['vocab', 'Vocabulary'], ['history', 'Progress']];
+    const nav = [['home', 'Home'], ['practice', 'Custom Practice'], ['study', 'Math Study'], ['vocab', 'Vocabulary'], ['history', 'Progress'], ['sync', 'Save / Load']];
     return `<header class="topnav"><div class="topnav-in"><div class="logo" data-go="home">GRE <span>practice</span></div>
       <nav>${nav.map(([k, l]) => `<button data-go="${k}" class="${active === k ? 'on' : ''}">${l}</button>`).join('')}</nav></div></header>
       <div class="page">${inner}</div>`;
@@ -1032,7 +1032,7 @@
     const g = e.target.closest('[data-go]');
     if (!g) return false;
     const to = g.dataset.go;
-    ({ home: renderHome, practice: renderPractice, study: () => renderStudy(), vocab: () => renderVocab('cards'), history: renderHistory })[to]();
+    ({ home: renderHome, practice: renderPractice, study: () => renderStudy(), vocab: () => renderVocab('cards'), history: renderHistory, sync: () => window.GRESync && window.GRESync.open() })[to]();
     window.scrollTo(0, 0);
     return true;
   }
@@ -1208,7 +1208,7 @@
     const vocabP = store.get('vocabp', {});
     const mastered = D.vocab.filter(v => (vocabP[v.w] || {}).s >= 2).length;
     app().innerHTML = shell('history', `
-      <h1>Progress</h1><p class="lede">Everything is stored in this browser only (localStorage).</p>
+      <h1>Progress</h1><p class="lede">Stored in this browser. Use <b>Save / Load</b> in the top bar to export it and carry it to other devices.</p>
       <div class="scores">
         <div class="score"><div class="lbl">Best Verbal</div><div class="val">${best(vs)}</div><div class="sub">${vs.length} scored attempt${vs.length === 1 ? '' : 's'}${vs.length ? ' · latest ' + vs[0] : ''}</div></div>
         <div class="score"><div class="lbl">Best Quant</div><div class="val">${best(qs)}</div><div class="sub">${qs.length} scored attempt${qs.length === 1 ? '' : 's'}${qs.length ? ' · latest ' + qs[0] : ''}</div></div>
