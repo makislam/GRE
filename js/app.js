@@ -33,7 +33,7 @@
   const D = {
     tc: window.VERBAL_TC || [], se: window.VERBAL_SE || [], passages: window.VERBAL_PASSAGES || [],
     quant: window.QUANT_BANK || [], sets: window.QUANT_SETS || [], gen: window.QUANT_GEN || null,
-    vocab: window.VOCAB || [], prompts: window.ISSUE_PROMPTS || [], rubric: window.ISSUE_RUBRIC || []
+    vocab: window.VOCAB || [], study: window.MATH_STUDY || [], prompts: window.ISSUE_PROMPTS || [], rubric: window.ISSUE_RUBRIC || []
   };
   const PASSAGE = {}, QSET = {};
   D.passages.forEach(p => { PASSAGE[p.id] = p; });
@@ -1023,7 +1023,7 @@
 
   // ---------------------------------------------------------------- site shell & home
   function shell(active, inner) {
-    const nav = [['home', 'Home'], ['practice', 'Custom Practice'], ['vocab', 'Vocabulary'], ['history', 'Progress']];
+    const nav = [['home', 'Home'], ['practice', 'Custom Practice'], ['study', 'Math Study'], ['vocab', 'Vocabulary'], ['history', 'Progress']];
     return `<header class="topnav"><div class="topnav-in"><div class="logo" data-go="home">GRE <span>practice</span></div>
       <nav>${nav.map(([k, l]) => `<button data-go="${k}" class="${active === k ? 'on' : ''}">${l}</button>`).join('')}</nav></div></header>
       <div class="page">${inner}</div>`;
@@ -1032,7 +1032,7 @@
     const g = e.target.closest('[data-go]');
     if (!g) return false;
     const to = g.dataset.go;
-    ({ home: renderHome, practice: renderPractice, vocab: () => renderVocab('cards'), history: renderHistory })[to]();
+    ({ home: renderHome, practice: renderPractice, study: () => renderStudy(), vocab: () => renderVocab('cards'), history: renderHistory })[to]();
     window.scrollTo(0, 0);
     return true;
   }
@@ -1066,6 +1066,7 @@
       <div class="grid">
         <div class="card click" data-go="practice"><h3>Custom Practice</h3><p>Choose question types, topics, difficulty and length. See the answer and explanation after each question, or at the end.</p><button class="btn" data-go="practice">Build a set</button></div>
         <div class="card ${nMist ? 'click' : ''}" ${nMist ? 'data-act="mistakes"' : ''}><h3>Mistake Review</h3><p>${nMist ? `${nMist} question${nMist > 1 ? 's' : ''} you missed. Get one right and it leaves the list.` : 'Questions you miss show up here so you can retry them.'}</p><button class="btn" ${nMist ? '' : 'disabled'}>Retry mistakes</button></div>
+        <div class="card click" data-go="study"><h3>Math Study</h3><p>${D.study.length} short notes from the ETS Math Review and Math Conventions: arithmetic, algebra, geometry, data analysis, and what you may assume on the test.</p><button class="btn" data-go="study">Open notes</button></div>
         <div class="card click" data-go="vocab"><h3>Vocabulary</h3><p>Flashcards, quizzes and a searchable list for your ${D.vocab.length} words, with progress tracking.</p><button class="btn" data-go="vocab">Study words</button></div>
         <div class="card click" data-go="history"><h3>Progress</h3><p>Past scores, accuracy by question type and topic, and your saved essays.</p><button class="btn" data-go="history">View progress</button></div>
       </div>`);
@@ -1254,6 +1255,32 @@
   function deckSelect(id, val) {
     const c = d => deckWords(d).length;
     return `<select id="${id}">${[['all', 'All words'], ['l1', 'List 1'], ['l2', 'List 2'], ['star', 'Starred'], ['learning', 'Not yet mastered']].map(([k, l]) => `<option value="${k}" ${val === k ? 'selected' : ''}>${l} (${c(k)})</option>`).join('')}</select>`;
+  }
+
+  // ---------------------------------------------------------------- math study notes
+  function renderStudy(id) {
+    const items = D.study, done = store.get('studyDone', {});
+    const cur = items.find(s => s.id === id) || items.find(s => s.id === store.get('studyLast', '')) || items[0];
+    const groups = [];
+    items.forEach(s => { let g = groups.find(x => x.name === s.group); if (!g) groups.push(g = { name: s.group, items: [] }); g.items.push(s); });
+    const toc = groups.map(g => `<h4>${esc(g.name)}</h4>${g.items.map(s => `<button data-sid="${s.id}" class="${s === cur ? 'on' : ''} ${done[s.id] ? 'done' : ''}">${esc(s.title)}</button>`).join('')}`).join('');
+    const i = cur ? items.indexOf(cur) : 0;
+    app().innerHTML = shell('study', `<h1>Math Study</h1>
+      <p class="lede">Notes distilled from ETS's <i>Math Review</i> and <i>Math Conventions</i> for the Quantitative Reasoning measure. Open the full PDFs for worked examples and exercises:
+        <a href="gre_math_review.pdf" target="_blank" rel="noopener">Math Review</a> · <a href="gre_math_conventions.pdf" target="_blank" rel="noopener">Math Conventions</a>.</p>
+      ${cur ? `<div class="study-layout"><nav class="study-toc" aria-label="Study topics">${toc}</nav>
+        <article class="study-body"><span class="muted small">${esc(cur.group)} · ${esc(cur.pdf)}</span><h2>${esc(cur.title)}</h2>${cur.html}
+          <div class="study-nav"><button class="btn ghost small" data-sid="${i > 0 ? items[i - 1].id : ''}" ${i === 0 ? 'disabled' : ''}>← Previous</button>
+            <label class="small"><input type="checkbox" id="sdone" ${done[cur.id] ? 'checked' : ''}> Mark as reviewed</label>
+            <button class="btn small" data-sid="${i < items.length - 1 ? items[i + 1].id : ''}" ${i === items.length - 1 ? 'disabled' : ''}>Next →</button></div></article></div>` : '<p>No study notes loaded (data/math_study.js).</p>'}`);
+    if (cur) store.set('studyLast', cur.id);
+    app().onclick = e => {
+      if (navClick(e)) return;
+      const b = e.target.closest('[data-sid]');
+      if (b && b.dataset.sid) { renderStudy(b.dataset.sid); window.scrollTo(0, 0); }
+    };
+    const box = $('#sdone');
+    if (box) box.onchange = () => { const d = store.get('studyDone', {}); if (box.checked) d[cur.id] = 1; else delete d[cur.id]; store.set('studyDone', d); renderStudy(cur.id); };
   }
 
   function renderVocab(tab) {

@@ -40,6 +40,7 @@ data/writing.js        Issue prompts + scoring rubric
 data/verbal_tc_se.js   Text Completion + Sentence Equivalence
 data/verbal_rc.js      Reading Comprehension passages
 data/quant.js          Quant questions + data-interpretation sets
+data/math_study.js     Math Study notes (from the ETS Math Review + Math Conventions PDFs)
 ```
 
 To add questions, append objects in the same shape as the existing ones in the `data/` files.

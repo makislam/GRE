@@ -284,3 +284,25 @@ table.data caption { font-weight: 700; padding-bottom: 6px; }
   .stat-row .bar { grid-column: 1 / -1; grid-row: 2; }
   .page { padding: 20px 16px 50px; }
 }
+
+/* ---------- study notes ---------- */
+.study-layout { display: grid; grid-template-columns: 240px 1fr; gap: 24px; align-items: start; }
+.study-toc { position: sticky; top: 12px; max-height: calc(100vh - 24px); overflow: auto; background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); padding: 10px; }
+.study-toc h4 { margin: 10px 6px 4px; font-size: 12px; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); }
+.study-toc button { display: block; width: 100%; text-align: left; background: none; border: 0; padding: 6px 8px; border-radius: 6px; font-size: 14px; color: var(--ink); }
+.study-toc button:hover { background: var(--accent-soft); }
+.study-toc button.on { background: var(--accent-soft); color: var(--accent); font-weight: 600; }
+.study-toc button.done::after { content: " ✓"; color: var(--ok); }
+.study-body { background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); padding: 20px 24px; min-width: 0; }
+.study-body h2 { margin: 0 0 2px; }
+.study-body ul { padding-left: 20px; }
+.study-body li { margin: 6px 0; }
+.study-body .formula { display: block; margin: 6px 0; padding: 8px 12px; background: var(--accent-soft); border-radius: 8px; font-family: Cambria, "Times New Roman", serif; font-size: 16px; }
+.study-body span.formula { display: inline-block; margin: 0 2px; padding: 1px 8px; }
+.study-body .cols { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+.study-body h4 { margin: 8px 0 0; }
+.study-table { border-collapse: collapse; margin: 8px 0; }
+.study-table th, .study-table td { border: 1px solid var(--line); padding: 6px 10px; text-align: left; }
+.study-table th { background: var(--bg); }
+.study-nav { display: flex; justify-content: space-between; align-items: center; gap: 8px; margin-top: 20px; flex-wrap: wrap; }
+@media (max-width: 760px) { .study-layout { grid-template-columns: 1fr; } .study-toc { position: static; max-height: none; } .study-body .cols { grid-template-columns: 1fr; } }
