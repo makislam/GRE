@@ -29,9 +29,11 @@
     const local = snapshot(), ts = Object.assign({}, local.ts);
     let changed = false;
     Object.keys(remote.ts).forEach(k => {
-      if (!tracked(k) || (remote.ts[k] || 0) <= (local.ts[k] || 0)) return;
-      if (remote.data[k] != null) rawSet.call(ls, k, JSON.stringify(remote.data[k])); else rawDel.call(ls, k);
-      ts[k] = remote.ts[k]; changed = true;
+      if (!tracked(k)) return;
+      const [v, t] = window.GREMerge.mergeKey(k, local.data[k], local.ts[k], remote.data[k] == null ? null : remote.data[k], remote.ts[k]);
+      if (JSON.stringify(v) === JSON.stringify(local.data[k] == null ? null : local.data[k])) return;
+      if (v != null) rawSet.call(ls, k, JSON.stringify(v)); else rawDel.call(ls, k);
+      ts[k] = t; changed = true;
     });
     setTs(ts);
     return changed;

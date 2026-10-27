@@ -37,6 +37,8 @@ css/style.css          styles
 js/app.js              test engine, drills, vocab, history
 js/quantgen.js         procedural Quant question generators
 js/sync.js             progress save/load (server sync, export/import)
+js/progress-merge.js   merge rules shared by sync.js, server.js and save-progress.js
+save-progress.js/.cmd  merge an export into data/progress.json, commit and push
 data/vocab.js          vocabulary (window.VOCAB)
 data/writing.js        Issue prompts + scoring rubric
 data/verbal_tc_se.js   Text Completion + Sentence Equivalence
@@ -48,6 +50,13 @@ data/math_study.js     Math Study notes (from the ETS Math Review + Math Convent
 To add questions, append objects in the same shape as the existing ones in the `data/` files.
 
 All questions and prompts are original practice material. This project is not affiliated with or endorsed by ETS. GRE® is a registered trademark of ETS.
+
+## Saving progress to GitHub (opening index.html directly)
+
+1. In the site, open **Save & load progress → Export progress**. It downloads `progress.json` to Downloads.
+2. Double-click `save-progress.cmd` (or run `node save-progress.js`). It merges the newest `progress*.json` from Downloads into `data/progress.json`, commits it and pushes.
+
+Pass a path to use another export, or `--no-push` to only commit. Test history and seen questions are combined, so an export never removes tests already saved in the repo; everything else takes the newest change. To restore on another computer, **Import** `data/progress.json` from the repo.
 
 ## Running locally with auto-saved progress
 

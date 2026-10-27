@@ -23,14 +23,8 @@ const TYPES = { '.html': 'text/html; charset=utf-8', '.js': 'text/javascript; ch
 
 const readProgress = () => { try { return JSON.parse(fs.readFileSync(FILE, 'utf8')); } catch (e) { return { ts: {}, data: {} }; } };
 
-/* Per-key newest-timestamp-wins merge, so several devices can save without clobbering each other. */
-function merge(a, b) {
-  const out = { ts: Object.assign({}, a.ts), data: Object.assign({}, a.data) };
-  Object.keys(b.ts).forEach(k => {
-    if ((b.ts[k] || 0) > (out.ts[k] || 0)) { out.ts[k] = b.ts[k]; out.data[k] = b.data[k] == null ? null : b.data[k]; }
-  });
-  return out;
-}
+/* Per-key merge (see js/progress-merge.js), so several devices can save without clobbering each other. */
+const merge = require('./js/progress-merge.js').mergeSnapshots;
 const valid = o => o && typeof o === 'object' && o.ts && typeof o.ts === 'object' && o.data && typeof o.data === 'object';
 
 const git = (args, cb) => execFile('git', args, { cwd: ROOT }, cb);
