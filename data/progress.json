@@ -1,17 +1,4733 @@
 {
  "ts": {
   "gre.c": 99,
-  "gre.history": 1793117779523,
-  "gre.stats": 1793117779523,
-  "gre.seen": 1793117779523,
-  "gre.mistakes": 1793117779523,
-  "gre.seenPrompts": 1793117779523,
-  "gre.vocabp": 1793117779523,
-  "gre.active": 1793117779523
+  "gre.history": 1795029503801,
+  "gre.stats": 1795029503798,
+  "gre.seen": 1795029224889,
+  "gre.mistakes": 1795029503799,
+  "gre.seenPrompts": 1794944417611,
+  "gre.vocabp": 1795030127478,
+  "gre.active": 1795029503801,
+  "gre.studyLast": 1794953163161
  },
  "data": {
   "gre.c": 1,
   "gre.history": [
+   {
+    "id": "mwmi4cjdzfqzm",
+    "mode": "V",
+    "title": "Verbal Reasoning Test",
+    "date": 1795029503799,
+    "quit": true,
+    "sections": [
+     {
+      "answers": [
+       null,
+       null,
+       null,
+       null,
+       null,
+       null,
+       null,
+       null,
+       null,
+       null,
+       null,
+       null
+      ],
+      "marked": [
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false
+      ],
+      "times": [
+       166.00299999999996,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ],
+      "checked": [
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false
+      ],
+      "cur": 0,
+      "elapsed": 166.00299999999996,
+      "remaining": 913.9970000000006,
+      "measure": "V",
+      "idx": 1,
+      "level": 2,
+      "title": "Verbal Reasoning",
+      "items": [
+       {
+        "q": {
+         "id": "tc020",
+         "type": "tc",
+         "topic": "tc",
+         "difficulty": 3,
+         "text": "Critics who expected the director's adaptation to be {1} were surprised to find that, far from slavishly reproducing the novel, it rearranged the plot and invented several characters.",
+         "options": [
+          [
+           "iconoclastic",
+           "heterodox",
+           "inchoate",
+           "reverential",
+           "idiosyncratic"
+          ]
+         ],
+         "answer": [
+          3
+         ],
+         "explanation": "The critics were \"surprised\" to find it was not a slavish reproduction, so they had expected a faithful, deferential treatment: reverential. Iconoclastic, heterodox, and idiosyncratic describe what the film actually turned out to be, so they would remove the surprise; inchoate means unformed."
+        }
+       },
+       {
+        "q": {
+         "id": "tc037",
+         "type": "tc",
+         "topic": "tc",
+         "difficulty": 2,
+         "text": "The biographer avoids both {1} and denigration: she neither glosses over her subject's failings nor {2} his genuine achievements.",
+         "options": [
+          [
+           "hagiography",
+           "criticism",
+           "objectivity"
+          ],
+          [
+           "exaggerates",
+           "catalogues",
+           "belittles"
+          ]
+         ],
+         "answer": [
+          0,
+          2
+         ],
+         "explanation": "The colon maps each extreme onto a clause. Glossing over failings is the fault of hagiography (worshipful biography), and denigration corresponds to belittling achievements. Criticism is close to denigration, so it does not supply the opposite extreme; avoiding objectivity is not a virtue; exaggerating achievements would be a hagiographer's fault, not a denigrator's."
+        }
+       },
+       {
+        "q": {
+         "id": "tc040",
+         "type": "tc",
+         "topic": "tc",
+         "difficulty": 2,
+         "text": "Because the new instrument is far more sensitive than its predecessors, astronomers expect it to {1} a debate that earlier observations were too {2} to settle.",
+         "options": [
+          [
+           "resolve",
+           "prolong",
+           "ignite"
+          ],
+          [
+           "definitive",
+           "numerous",
+           "imprecise"
+          ]
+         ],
+         "answer": [
+          0,
+          2
+         ],
+         "explanation": "Greater sensitivity lets the instrument settle the debate: resolve. Earlier, less sensitive observations failed because they were imprecise. Prolong and ignite do not follow from better data; definitive observations would have settled the debate, and \"too numerous\" makes no sense."
+        }
+       },
+       {
+        "q": {
+         "id": "tc060",
+         "type": "tc",
+         "topic": "tc",
+         "difficulty": 2,
+         "text": "The negotiator's {1} manner (she rarely spoke, and never more than necessary) was often taken for {2}. Those who worked with her, however, knew that her silence was strategic: it {3} her counterparts into revealing more than they intended.",
+         "options": [
+          [
+           "garrulous",
+           "bombastic",
+           "laconic"
+          ],
+          [
+           "eloquence",
+           "timidity",
+           "candor"
+          ],
+          [
+           "deterred",
+           "lured",
+           "bullied"
+          ]
+         ],
+         "answer": [
+          2,
+          1,
+          1
+         ],
+         "explanation": "Rarely speaking and never more than necessary is laconic. \"However... strategic\" implies observers wrongly read the silence as weakness: timidity. Strategic silence lured counterparts into over-sharing. Garrulous and bombastic contradict silence; eloquence and candor are not misreadings of silence; deterred reverses the effect and bullied does not fit silence."
+        }
+       },
+       {
+        "q": {
+         "id": "p13q1",
+         "type": "rc-single",
+         "topic": "rc",
+         "difficulty": 2,
+         "prompt": "Which of the following best states the main point of the passage?",
+         "options": [
+          "Understanding the serial context of nineteenth-century novels illuminates features once regarded as flaws, though it does not settle questions of the novels’ merit.",
+          "Twentieth-century critics were correct that serial novels generally lack overall design.",
+          "Commercial pressure damaged most novels that were published in installments.",
+          "Nineteenth-century serial novels are best read in installments by modern readers.",
+          "Writers of serial novels planned their works meticulously in advance."
+         ],
+         "answer": [
+          0
+         ],
+         "explanation": "The passage accepts the scholarly reconstruction as “valuable” but warns that it “should not become a blanket defense.” The serial context is “a necessary starting point for judging these novels, not a substitute for judgment.” The second choice is the view the newer scholarship challenges. The third and fifth choices distort details, since the passage refers to “some” serial novels and “some writers.”"
+        },
+        "pid": "p13"
+       },
+       {
+        "q": {
+         "id": "p13q2",
+         "type": "rc-single",
+         "topic": "rc",
+         "difficulty": 1,
+         "prompt": "In the context of the passage, the word “number” (in “discussing each number with friends”) most nearly means",
+         "options": [
+          "numerical figure",
+          "installment",
+          "group of readers",
+          "sum paid for a subscription",
+          "musical piece"
+         ],
+         "answer": [
+          1
+         ],
+         "explanation": "The passage is about novels “issued monthly or weekly” in installments. Readers discussed each issue as it appeared, so “number” means a single installment of a serial publication."
+        },
+        "pid": "p13"
+       },
+       {
+        "q": {
+         "id": "p13q3",
+         "type": "rc-multi",
+         "topic": "rc",
+         "difficulty": 2,
+         "prompt": "According to the passage, recent scholarship explains which of the following features of serial novels as responses to the conditions of installment publication? Consider each of the choices separately and select all that apply.",
+         "options": [
+          "Recapitulations of earlier events",
+          "Recurring catchphrases attached to minor characters",
+          "Abrupt cliffhangers"
+         ],
+         "answer": [
+          0,
+          1,
+          2
+         ],
+         "explanation": "Recapitulations and recurring catchphrases “served to orient readers who had last encountered the story weeks before.” The cliffhanger was “a deliberate device for sustaining interest across the interval between installments.” All three are explained by the serial format."
+        },
+        "pid": "p13"
+       },
+       {
+        "q": {
+         "id": "p13q4",
+         "type": "rc-select",
+         "topic": "rc",
+         "difficulty": 3,
+         "prompt": "Select the sentence in the passage that distinguishes between accounting for a literary feature and vindicating it.",
+         "answer": [
+          10
+         ],
+         "explanation": "“To explain why a feature was present is not to establish that it was successful, and some serial novels were in fact shaped by commercial pressure in ways that their own authors regretted.” Its first clause separates explaining a feature from justifying it."
+        },
+        "pid": "p13"
+       },
+       {
+        "q": {
+         "id": "se034",
+         "type": "se",
+         "topic": "se",
+         "difficulty": 3,
+         "text": "The essay's argument is more {1} than its breezy style suggests: beneath the jokes lies a careful, closely reasoned case.",
+         "options": [
+          "facile",
+          "rigorous",
+          "glib",
+          "entertaining",
+          "cogent",
+          "controversial"
+         ],
+         "answer": [
+          1,
+          4
+         ],
+         "explanation": "\"Careful, closely reasoned\" defines the blank, contrasted with a \"breezy style\": rigorous and cogent. Facile and glib form a pair, but they describe what the breezy style misleadingly suggests. Entertaining describes the style, not the argument; controversial has no partner."
+        }
+       },
+       {
+        "q": {
+         "id": "se017",
+         "type": "se",
+         "topic": "se",
+         "difficulty": 2,
+         "text": "The professor's lectures were notoriously {1}, so packed with tangents and qualifications that students struggled to identify the main point.",
+         "options": [
+          "pithy",
+          "succinct",
+          "prolix",
+          "abstruse",
+          "verbose",
+          "engaging"
+         ],
+         "answer": [
+          2,
+          4
+         ],
+         "explanation": "Lectures packed with tangents are long-winded: prolix and verbose. Pithy and succinct form a pair meaning concise, the opposite. Abstruse (hard to understand) is tempting since students struggled, but it describes difficulty of content, not wordiness, and has no partner."
+        }
+       },
+       {
+        "q": {
+         "id": "p18q1",
+         "type": "rc-single",
+         "topic": "rc",
+         "difficulty": 3,
+         "prompt": "In the argument, the two portions in boldface play which of the following roles?",
+         "options": [
+          "The first is the argument’s main conclusion; the second is evidence offered in support of that conclusion.",
+          "The first is a claim that the argument rejects as false; the second is the argument’s main conclusion.",
+          "The first is a finding that supports an interpretation the argument endorses; the second is a consideration that weighs against that interpretation.",
+          "The first is a finding that the argument seeks to explain; the second is evidence offered in support of the argument’s prediction.",
+          "The first and the second are both offered as evidence for the analysts’ conclusion."
+         ],
+         "answer": [
+          3
+         ],
+         "explanation": "The first boldface is a fact the argument accepts and explains through falling rents rather than a “durable niche.” The second is a premise (“Since …”) supporting the main conclusion that the number of bookstores “is likely to decline.” The argument rejects the analysts’ interpretation rather than endorsing it, and the second boldface is a premise, not the conclusion."
+        },
+        "pid": "p18"
+       },
+       {
+        "q": {
+         "id": "p07q1",
+         "type": "rc-single",
+         "topic": "rc",
+         "difficulty": 2,
+         "prompt": "The second sentence of the passage (“The finding seems paradoxical …”) primarily serves to",
+         "options": [
+          "cast doubt on the reliability of the sociologists’ finding",
+          "explain why the finding might at first appear counterintuitive",
+          "present the author’s resolution of an apparent paradox",
+          "provide evidence that close friends are more motivated to help than acquaintances are",
+          "introduce a finding that contradicts the one reported in the first sentence"
+         ],
+         "answer": [
+          1
+         ],
+         "explanation": "The sentence explains why the finding looks puzzling: friends are “presumably more motivated to help.” The author never doubts the finding, and the resolution comes in later sentences. “Presumably” marks an assumption, not evidence, and no contradicting finding is introduced."
+        },
+        "pid": "p07"
+       }
+      ],
+      "limit": 1080,
+      "done": true
+     }
+    ],
+    "scores": {
+     "V": 130
+    }
+   },
+   {
+    "id": "mwmgjzr9g2rkv",
+    "mode": "Q",
+    "title": "Quantitative Reasoning Test",
+    "date": 1795029224889,
+    "quit": false,
+    "sections": [
+     {
+      "answers": [
+       [
+        2
+       ],
+       [
+        2
+       ],
+       [
+        3
+       ],
+       [
+        0
+       ],
+       [
+        3
+       ],
+       "41",
+       "1",
+       [
+        2,
+        4
+       ],
+       [
+        2
+       ],
+       [
+        2
+       ],
+       [
+        2
+       ],
+       [
+        0,
+        1,
+        2
+       ]
+      ],
+      "marked": [
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false
+      ],
+      "times": [
+       64.523,
+       16.989,
+       40.511999999999986,
+       96.47800000000002,
+       47.99799999999996,
+       38.00200000000002,
+       78.52000000000002,
+       73.487,
+       157.99700000000004,
+       224.01100000000005,
+       60.503000000000014,
+       71.98
+      ],
+      "checked": [
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false
+      ],
+      "cur": 11,
+      "elapsed": 972.5020000000001,
+      "remaining": 287.4980000000009,
+      "measure": "Q",
+      "idx": 1,
+      "level": 2,
+      "title": "Quantitative Reasoning",
+      "items": [
+       {
+        "q": {
+         "id": "gen-sd-qc-1zpj3h",
+         "type": "qc",
+         "topic": "data",
+         "difficulty": 1,
+         "meta": {
+          "S": [
+           7,
+           8,
+           13,
+           27,
+           29
+          ],
+          "T": [
+           13,
+           14,
+           19,
+           33,
+           35
+          ],
+          "kind": "shift",
+          "swap": false,
+          "gen": "sd-qc"
+         },
+         "info": "Data set <i>S</i>: 7, 8, 13, 27, 29<br>Each value of <i>T</i> is 6 more than the corresponding value of <i>S</i>.",
+         "quantityA": "The standard deviation of <i>S</i>",
+         "quantityB": "The standard deviation of <i>T</i>",
+         "answer": [
+          2
+         ],
+         "explanation": "<p>Adding a constant shifts every value but does not change the spread. (Population SDs: <i>S</i> &asymp; 9.39, <i>T</i> &asymp; 9.39.)</p><p><b>The two quantities are equal</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-sd-qc-20sigd",
+         "type": "qc",
+         "topic": "data",
+         "difficulty": 2,
+         "meta": {
+          "S": [
+           3,
+           7,
+           9,
+           26,
+           27
+          ],
+          "T": [
+           -3,
+           -7,
+           -9,
+           -26,
+           -27
+          ],
+          "kind": "negate",
+          "swap": false,
+          "gen": "sd-qc"
+         },
+         "info": "Data set <i>S</i>: 3, 7, 9, 26, 27<br>Each value of <i>T</i> is the negative of the corresponding value of <i>S</i>.",
+         "quantityA": "The standard deviation of <i>S</i>",
+         "quantityB": "The standard deviation of <i>T</i>",
+         "answer": [
+          2
+         ],
+         "explanation": "<p>Negating every value reflects the data; the distances from the mean are unchanged. (Population SDs: <i>S</i> &asymp; 10.07, <i>T</i> &asymp; 10.07.)</p><p><b>The two quantities are equal</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-geometry-qc-21t1ge",
+         "type": "qc",
+         "topic": "geometry",
+         "difficulty": 3,
+         "meta": {
+          "kind": "area",
+          "gen": "geometry-qc",
+          "p": 8,
+          "r": 10,
+          "more": false
+         },
+         "info": "Two sides of a triangle have lengths 8 and 10.",
+         "quantityA": "The area of the triangle",
+         "quantityB": "40",
+         "answer": [
+          3
+         ],
+         "explanation": "<p>Area = <span class='frac'><span>1</span><span>2</span></span>(8)(10) sin&thinsp;<i>C</i> &le; 40, with equality only for a right angle between those sides. So it could equal 40 or be less.</p><p><b>The relationship cannot be determined</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-algebra-qc-22qh19",
+         "type": "qc",
+         "topic": "algebra",
+         "difficulty": 2,
+         "meta": {
+          "template": 7,
+          "c": 6,
+          "k": 10,
+          "gen": "algebra-qc"
+         },
+         "info": "<i>a</i> &lt; <i>b</i> &lt; 0",
+         "quantityA": "<i>a</i><sup>2</sup>",
+         "quantityB": "<i>b</i><sup>2</sup>",
+         "answer": [
+          0
+         ],
+         "explanation": "<p><i>a</i> is farther from 0 than <i>b</i> (|<i>a</i>| &gt; |<i>b</i>|), so its square is larger.</p><p><b>Quantity A is greater</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-arithmetic-sequence-231i3o",
+         "type": "mc-single",
+         "topic": "algebra",
+         "difficulty": 1,
+         "meta": {
+          "a": 12,
+          "d": -1,
+          "n": 24,
+          "gen": "arithmetic-sequence"
+         },
+         "prompt": "The first term of an arithmetic sequence is 12, and each term after the first is 1 less than the previous term. What is the 24th term?",
+         "explanation": "<p><i>a</i><sub><i>n</i></sub> = <i>a</i><sub>1</sub> + (<i>n</i> &minus; 1)<i>d</i> = 12 + (23)(&minus;1) = <b>&minus;11</b>. Using <i>n</i> instead of <i>n</i> &minus; 1 is the classic off-by-one error.</p>",
+         "options": [
+          "&minus;24",
+          "&minus;13",
+          "&minus;12",
+          "&minus;11",
+          "&minus;10"
+         ],
+         "answer": [
+          3
+         ],
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-mean-missing-248f4f",
+         "type": "numeric",
+         "topic": "data",
+         "difficulty": 1,
+         "meta": {
+          "vals": [
+           23,
+           21,
+           23
+          ],
+          "m": 27,
+          "gen": "mean-missing"
+         },
+         "prompt": "The average (arithmetic mean) of the 4 numbers 23, 21, 23, and <i>x</i> is 27. What is the value of <i>x</i>?",
+         "answer": 41,
+         "explanation": "<p>The total must be 4 &times; 27 = 108. The known numbers sum to 67, so <i>x</i> = 108 &minus; 67 = <b>41</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-linear-system-25uweu",
+         "type": "numeric",
+         "topic": "algebra",
+         "difficulty": 2,
+         "meta": {
+          "a1": 3,
+          "b1": -6,
+          "c1": -9,
+          "a2": 5,
+          "b2": -5,
+          "c2": -5,
+          "gen": "linear-system"
+         },
+         "prompt": "If 3<i>x</i> &minus; 6<i>y</i> = &minus;9 and 5<i>x</i> &minus; 5<i>y</i> = &minus;5, what is the value of <i>x</i>?",
+         "answer": 1,
+         "explanation": "<p>Eliminate <i>y</i>: multiply the first equation by &minus;5 and the second by &minus;6, then subtract. This gives (15)<i>x</i> = 15, so <i>x</i> = <b>1</b> (and <i>y</i> = 2).</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-quadratic-roots-26xyb2",
+         "type": "mc-multi",
+         "topic": "algebra",
+         "difficulty": 1,
+         "meta": {
+          "A": 1,
+          "B": -12,
+          "C": 32,
+          "gen": "quadratic-roots"
+         },
+         "prompt": "Which of the following are solutions of the equation <i>x</i><sup>2</sup> &minus; 12<i>x</i> + 32 = 0?<br>Indicate <u>all</u> such values.",
+         "options": [
+          "&minus;8",
+          "<span class='frac'><span>1</span><span>8</span></span>",
+          "4",
+          "5",
+          "8",
+          "9"
+         ],
+         "answer": [
+          2,
+          4
+         ],
+         "explanation": "<p>Factor: (<i>x</i> &minus; 8)(<i>x</i> &minus; 4) = 0.</p><p>The solutions are <b>8 and 4</b>. The signs flip relative to the numbers in the factors, which is the trap in the negated options.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-gcd-lcm-27edlw",
+         "type": "mc-single",
+         "topic": "arithmetic",
+         "difficulty": 2,
+         "meta": {
+          "a": 48,
+          "b": 20,
+          "kind": "lcm",
+          "gen": "gcd-lcm"
+         },
+         "prompt": "What is the least common multiple of 48 and 20?",
+         "explanation": "<p>48 = 4 &times; 12 and 20 = 4 &times; 5, where 12 and 5 share no common factor. GCD = 4. LCM = 4 &times; 12 &times; 5 = 240.</p><p>The answer is <b>240</b>.</p>",
+         "options": [
+          "4",
+          "68",
+          "240",
+          "480",
+          "960"
+         ],
+         "answer": [
+          2
+         ],
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-median-mode-28ixtc",
+         "type": "mc-single",
+         "topic": "data",
+         "difficulty": 3,
+         "meta": {
+          "vals": [
+           26,
+           10,
+           0,
+           27,
+           19,
+           26,
+           25,
+           4,
+           -1,
+           24
+          ],
+          "gen": "median-mode"
+         },
+         "prompt": "For the list 26, 10, 0, 27, 19, 26, 25, 4, &minus;1, 24, what is the mean minus the median?",
+         "explanation": "<p>Sum = 160, so the mean is 160/10 = 16. Sorted: &minus;1, 0, 4, 10, 19, 24, 25, 26, 26, 27, so the median is (19 + 24)/2 = 21.5.</p><p>Mean &minus; median = <b>&minus;5.5</b>.</p>",
+         "options": [
+          "&minus;8",
+          "&minus;6.5",
+          "&minus;5.5",
+          "0",
+          "5.5"
+         ],
+         "answer": [
+          2
+         ],
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-special-right-triangle-291539",
+         "type": "mc-single",
+         "topic": "geometry",
+         "difficulty": 1,
+         "meta": {
+          "kind": "45leg",
+          "s": 10,
+          "m": 2,
+          "gen": "special-right-triangle"
+         },
+         "prompt": "An isosceles right triangle has legs of length 10. What is the length of its hypotenuse?",
+         "options": [
+          "10",
+          "9&radic;2",
+          "10&radic;2",
+          "10&radic;3",
+          "20"
+         ],
+         "answer": [
+          2
+         ],
+         "explanation": "<p>In a 45-45-90 triangle the sides are in the ratio 1 : 1 : &radic;2, so the hypotenuse is 10&radic;2.</p><p>Answer: <b>10&radic;2</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-triangle-third-side-2aq5hg",
+         "type": "mc-multi",
+         "topic": "geometry",
+         "difficulty": 2,
+         "meta": {
+          "a": 7,
+          "b": 12,
+          "opts": [
+           6,
+           18,
+           18.5,
+           19,
+           20
+          ],
+          "gen": "triangle-third-side"
+         },
+         "prompt": "Two sides of a triangle have lengths 7 and 12. Which of the following could be the length of the third side?<br>Indicate <u>all</u> such lengths.",
+         "options": [
+          "6",
+          "18",
+          "18.5",
+          "19",
+          "20"
+         ],
+         "answer": [
+          0,
+          1,
+          2
+         ],
+         "explanation": "<p>By the triangle inequality, the third side must be greater than 12 &minus; 7 = 5 and less than 7 + 12 = 19. The endpoints themselves are not allowed, because they would give a flat (degenerate) triangle.</p><p>Valid choices: <b>6, 18, 18.5</b>.</p>",
+         "generated": true
+        }
+       }
+      ],
+      "limit": 1260,
+      "done": true
+     },
+     {
+      "answers": [
+       [
+        0
+       ],
+       [
+        2
+       ],
+       [
+        3
+       ],
+       [
+        3
+       ],
+       [
+        1
+       ],
+       {
+        "n": "15",
+        "d": "2"
+       },
+       [
+        4
+       ],
+       [
+        3
+       ],
+       "72",
+       "720",
+       [
+        1
+       ],
+       [
+        4
+       ],
+       [
+        0,
+        1,
+        3,
+        4,
+        5
+       ],
+       [
+        1
+       ],
+       [
+        2
+       ]
+      ],
+      "marked": [
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       true,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false
+      ],
+      "times": [
+       213.505,
+       17.49,
+       29.998999999999995,
+       220.48199999999989,
+       109.03100000000006,
+       86.98700000000004,
+       158.51299999999998,
+       24.508,
+       304.9820000000001,
+       22.989000000000004,
+       25.503000000000004,
+       35.504000000000005,
+       102.50599999999999,
+       81.99399999999999,
+       76.99900000000002
+      ],
+      "checked": [
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false
+      ],
+      "cur": 14,
+      "elapsed": 1517.5039999999983,
+      "remaining": 42.49600000000324,
+      "measure": "Q",
+      "idx": 2,
+      "level": 3,
+      "title": "Quantitative Reasoning",
+      "items": [
+       {
+        "q": {
+         "id": "gen-exponent-qc-2b78o1",
+         "type": "qc",
+         "topic": "arithmetic",
+         "difficulty": 2,
+         "meta": {
+          "a": 12,
+          "c": 10,
+          "e": 10,
+          "gen": "exponent-qc"
+         },
+         "quantityA": "2<sup>12</sup> &times; 4<sup>10</sup>",
+         "quantityB": "8<sup>10</sup>",
+         "answer": [
+          0
+         ],
+         "explanation": "<p>Write everything as a power of 2. A = 2<sup>12</sup> &times; 2<sup>20</sup> = 2<sup>32</sup>. B = 2<sup>30</sup>.</p><p>Compare the exponents 32 and 30: <b>Quantity A is greater</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-geometry-qc-2c4atv",
+         "type": "qc",
+         "topic": "geometry",
+         "difficulty": 2,
+         "meta": {
+          "kind": "hyp",
+          "l1": 3,
+          "l2": 4,
+          "B": 5,
+          "gen": "geometry-qc"
+         },
+         "quantityA": "The length of the hypotenuse of a right triangle with legs 3 and 4",
+         "quantityB": "5",
+         "answer": [
+          2
+         ],
+         "explanation": "<p>A = &radic;(9 + 16) = &radic;25, and B = 5 = &radic;25.</p><p><b>The two quantities are equal</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-algebra-qc-2d7es4",
+         "type": "qc",
+         "topic": "algebra",
+         "difficulty": 2,
+         "meta": {
+          "template": 3,
+          "c": 3,
+          "k": 12,
+          "gen": "algebra-qc"
+         },
+         "info": "<i>x</i> is an integer.",
+         "quantityA": "<i>x</i><sup>2</sup>",
+         "quantityB": "<i>x</i>",
+         "answer": [
+          3
+         ],
+         "explanation": "<p>If <i>x</i> = 0 or 1, the quantities are equal. If <i>x</i> = 2, A is greater.</p><p><b>The relationship cannot be determined</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-prime-factor-qc-2e7j1w",
+         "type": "qc",
+         "topic": "arithmetic",
+         "difficulty": 3,
+         "meta": {
+          "kind": "twice",
+          "gen": "prime-factor-qc"
+         },
+         "info": "<i>n</i> is a positive integer.",
+         "quantityA": "The number of positive divisors of <i>n</i><sup>2</sup>",
+         "quantityB": "Twice the number of positive divisors of <i>n</i>",
+         "answer": [
+          3
+         ],
+         "explanation": "<p><i>n</i> = 1: A = 1 and B = 2, so B is greater. <i>n</i> = 2: A = 3 (divisors of 4) and B = 4. <i>n</i> = 6: A = 9 (divisors of 36) and B = 8, so A is greater.</p><p><b>The relationship cannot be determined</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-sd-qc-2f8glw",
+         "type": "qc",
+         "topic": "data",
+         "difficulty": 3,
+         "meta": {
+          "S": [
+           5,
+           13,
+           16,
+           21,
+           22
+          ],
+          "T": [
+           13,
+           16,
+           21
+          ],
+          "kind": "removeext",
+          "swap": true,
+          "gen": "sd-qc"
+         },
+         "info": "Data set <i>S</i>: 5, 13, 16, 21, 22<br><i>T</i> is formed by removing the least and greatest values from <i>S</i>.",
+         "quantityA": "The standard deviation of <i>T</i>",
+         "quantityB": "The standard deviation of <i>S</i>",
+         "answer": [
+          1
+         ],
+         "explanation": "<p>Removing the most extreme values reduces the spread. (Population SDs: <i>S</i> &asymp; 6.15, <i>T</i> &asymp; 3.3.)</p><p><b>Quantity B is greater</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-fraction-arithmetic-2g84cs",
+         "type": "fraction",
+         "topic": "arithmetic",
+         "difficulty": 3,
+         "meta": {
+          "a": [
+           1,
+           2
+          ],
+          "b": [
+           1,
+           2
+          ],
+          "c": [
+           1,
+           3
+          ],
+          "e": [
+           1,
+           5
+          ],
+          "gen": "fraction-arithmetic"
+         },
+         "prompt": "What is the value of <span class='frac'><span><span class='frac'><span>1</span><span>2</span></span> + <span class='frac'><span>1</span><span>2</span></span></span><span><span class='frac'><span>1</span><span>3</span></span> &minus; <span class='frac'><span>1</span><span>5</span></span></span></span>?",
+         "explanation": "<p>Numerator: <span class='frac'><span>1</span><span>2</span></span> + <span class='frac'><span>1</span><span>2</span></span> = 1. Denominator: <span class='frac'><span>1</span><span>3</span></span> &minus; <span class='frac'><span>1</span><span>5</span></span> = <span class='frac'><span>2</span><span>15</span></span>.</p><p>1 &divide; <span class='frac'><span>2</span><span>15</span></span> = 1 &times; <span class='frac'><span>15</span><span>2</span></span> = <b><span class='frac'><span>15</span><span>2</span></span></b>.</p>",
+         "answer": [
+          15,
+          2
+         ],
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-units-digit-2hx2ng",
+         "type": "mc-single",
+         "topic": "arithmetic",
+         "difficulty": 3,
+         "meta": {
+          "b1": 17,
+          "e1": 39,
+          "b2": 4,
+          "e2": 31,
+          "gen": "units-digit"
+         },
+         "prompt": "What is the units digit of 17<sup>39</sup> + 4<sup>31</sup>?",
+         "explanation": "<p>The units digits of powers repeat every 4. 17<sup>39</sup> ends in 3 (cycle 7, 9, 3, 1, remainder 3). 4<sup>31</sup> ends in 4 (cycle 4, 6, 4, 6, remainder 3).</p><p>3 + 4 = 7, so the units digit is <b>7</b>.</p>",
+         "options": [
+          "3",
+          "4",
+          "7",
+          "8",
+          "9"
+         ],
+         "answer": [
+          2
+         ],
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-box-solid-2iekq1",
+         "type": "mc-single",
+         "topic": "geometry",
+         "difficulty": 3,
+         "meta": {
+          "e": 5,
+          "kind": "cube-SA-from-V",
+          "gen": "box-solid"
+         },
+         "prompt": "The volume of a cube is 125. What is the total surface area of the cube?",
+         "explanation": "<p>The edge is the cube root of 125, which is 5. Surface area = 6<i>e</i><sup>2</sup> = 6(25) = <b>150</b>.</p>",
+         "options": [
+          "60",
+          "100",
+          "125",
+          "150",
+          "750"
+         ],
+         "answer": [
+          3
+         ],
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-weighted-average-2j8v3e",
+         "type": "numeric",
+         "topic": "data",
+         "difficulty": 3,
+         "meta": {
+          "n1": 6,
+          "a1": 85,
+          "a2": 98,
+          "comb": 97,
+          "gen": "weighted-average"
+         },
+         "prompt": "Group A has 6 members with an average (arithmetic mean) age of 85. Group B has an average age of 98. If the average age of the two groups combined is 97, how many members does Group B have?",
+         "answer": 72,
+         "explanation": "<p>6(85) + 98<i>n</i> = 97(6 + <i>n</i>), so 1<i>n</i> = 6(12) and <i>n</i> = <b>72</b>.</p><p>Balance view: the distances to the combined mean (12 and 1) are inversely proportional to the group sizes.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "ds04-q1",
+         "type": "numeric",
+         "topic": "data",
+         "difficulty": 1,
+         "prompt": "How many dollars per month does the household budget for food?",
+         "answer": 720,
+         "before": "$",
+         "explanation": "<p>15% of $4,800 = 0.15 &times; 4,800 = <b>$720</b>.</p>"
+        },
+        "sid": "ds04"
+       },
+       {
+        "q": {
+         "id": "ds04-q2",
+         "type": "mc-single",
+         "topic": "data",
+         "difficulty": 1,
+         "prompt": "What is the measure of the central angle of the sector representing Transportation?",
+         "options": [
+          "48&deg;",
+          "43.2&deg;",
+          "36&deg;",
+          "54&deg;",
+          "12&deg;"
+         ],
+         "answer": [
+          1
+         ],
+         "explanation": "<p>12% of 360&deg; = 0.12 &times; 360 = <b>43.2&deg;</b>.</p>"
+        },
+        "sid": "ds04"
+       },
+       {
+        "q": {
+         "id": "ds04-q3",
+         "type": "mc-single",
+         "topic": "data",
+         "difficulty": 2,
+         "prompt": "Suppose the household's housing cost increases by $240 per month and savings are reduced by $240 to cover it, with income unchanged. Savings would then be what percent of the monthly income?",
+         "options": [
+          "7.5%",
+          "2.5%",
+          "8%",
+          "10%",
+          "5%"
+         ],
+         "answer": [
+          4
+         ],
+         "explanation": "<p>Savings are now 10% of 4,800, or $480. After the reduction they are $240, and 240/4,800 = <b>5%</b>.</p>"
+        },
+        "sid": "ds04"
+       },
+       {
+        "q": {
+         "id": "gen-stats-multi-2k8o2p",
+         "type": "mc-multi",
+         "topic": "data",
+         "difficulty": 3,
+         "meta": {
+          "vals": [
+           4,
+           4,
+           19,
+           3,
+           14,
+           13,
+           5,
+           4
+          ],
+          "gen": "stats-multi"
+         },
+         "prompt": "For the data set 4, 4, 19, 3, 14, 13, 5, 4, which of the following statements are true?<br>Indicate <u>all</u> such statements.",
+         "options": [
+          "The mode is 4.",
+          "The mean is greater than the median.",
+          "If the greatest value were increased by 10, the median would increase.",
+          "The median is 4.5.",
+          "The mean is 8.25.",
+          "The range is 16."
+         ],
+         "answer": [
+          0,
+          1,
+          3,
+          4,
+          5
+         ],
+         "explanation": "<p>Sorted: 3, 4, 4, 4, 5, 13, 14, 19. Mean = 66/8 = 8.25; median = 4.5; mode = 4; range = 19 &minus; 3 = 16. Changing the greatest value does not move the middle values, so the median stays the same.</p><p>True statements: &ldquo;The mode is 4.&rdquo;; &ldquo;The mean is greater than the median.&rdquo;; &ldquo;The median is 4.5.&rdquo;; &ldquo;The mean is 8.25.&rdquo;; &ldquo;The range is 16.&rdquo;.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-median-mode-2lzqnn",
+         "type": "mc-single",
+         "topic": "data",
+         "difficulty": 3,
+         "meta": {
+          "vals": [
+           23,
+           -4,
+           -5,
+           6,
+           9,
+           1,
+           18,
+           6,
+           0,
+           16
+          ],
+          "gen": "median-mode"
+         },
+         "prompt": "For the list 23, &minus;4, &minus;5, 6, 9, 1, 18, 6, 0, 16, what is the mean minus the median?",
+         "explanation": "<p>Sum = 70, so the mean is 70/10 = 7. Sorted: &minus;5, &minus;4, 0, 1, 6, 6, 9, 16, 18, 23, so the median is (6 + 6)/2 = 6.</p><p>Mean &minus; median = <b>1</b>.</p>",
+         "options": [
+          "&minus;1",
+          "1",
+          "1.5",
+          "2",
+          "2.5"
+         ],
+         "answer": [
+          1
+         ],
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-units-digit-2me8so",
+         "type": "mc-single",
+         "topic": "arithmetic",
+         "difficulty": 3,
+         "meta": {
+          "b1": 3,
+          "e1": 44,
+          "b2": 23,
+          "e2": 28,
+          "gen": "units-digit"
+         },
+         "prompt": "What is the units digit of 3<sup>44</sup> + 23<sup>28</sup>?",
+         "explanation": "<p>The units digits of powers repeat every 4. 3<sup>44</sup> ends in 1 (cycle 3, 9, 7, 1, remainder 0). 23<sup>28</sup> ends in 1 (cycle 3, 9, 7, 1, remainder 0).</p><p>1 + 1 = 2, so the units digit is <b>2</b>.</p>",
+         "options": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "6"
+         ],
+         "answer": [
+          2
+         ],
+         "generated": true
+        }
+       }
+      ],
+      "limit": 1560,
+      "done": true
+     }
+    ],
+    "scores": {
+     "Q": 169
+    }
+   },
+   {
+    "id": "mwmf930pzycrf",
+    "mode": "Q",
+    "title": "Quantitative Reasoning Test",
+    "date": 1795026468553,
+    "quit": false,
+    "sections": [
+     {
+      "answers": [
+       [
+        1
+       ],
+       [
+        3
+       ],
+       [
+        1
+       ],
+       [
+        0
+       ],
+       [
+        0
+       ],
+       [
+        1,
+        4
+       ],
+       [
+        1,
+        4
+       ],
+       "15",
+       [
+        4
+       ],
+       "11",
+       [
+        3
+       ],
+       [
+        3
+       ]
+      ],
+      "marked": [
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false
+      ],
+      "times": [
+       38.508000000000024,
+       45.50000000000001,
+       15.997000000000003,
+       16.002000000000006,
+       29.493999999999996,
+       38.005,
+       45.50299999999999,
+       72.493,
+       28.00700000000001,
+       53.495,
+       44.002,
+       23.492000000000004
+      ],
+      "checked": [
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false
+      ],
+      "cur": 11,
+      "elapsed": 455.005999999999,
+      "remaining": 804.9939999999983,
+      "measure": "Q",
+      "idx": 1,
+      "level": 2,
+      "title": "Quantitative Reasoning",
+      "items": [
+       {
+        "q": {
+         "id": "gen-geometry-qc-1bstu6",
+         "type": "qc",
+         "topic": "geometry",
+         "difficulty": 1,
+         "meta": {
+          "kind": "perimeters",
+          "a": 5,
+          "b": 18,
+          "gen": "geometry-qc"
+         },
+         "quantityA": "The perimeter of a square with side length 5",
+         "quantityB": "The perimeter of an equilateral triangle with side length 18",
+         "answer": [
+          1
+         ],
+         "explanation": "<p>A = 4 &times; 5 = 20. B = 3 &times; 18 = 54.</p><p><b>Quantity B is greater</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-algebra-qc-1cbvb4",
+         "type": "qc",
+         "topic": "algebra",
+         "difficulty": 2,
+         "meta": {
+          "template": 6,
+          "c": 3,
+          "k": 12,
+          "gen": "algebra-qc"
+         },
+         "quantityA": "(<i>x</i> + 3)<sup>2</sup>",
+         "quantityB": "<i>x</i><sup>2</sup> + 9",
+         "answer": [
+          3
+         ],
+         "explanation": "<p>A &minus; B = 23<i>x</i>, which is positive, zero, or negative depending on the sign of <i>x</i>.</p><p><b>The relationship cannot be determined</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-exponent-qc-1d47ci",
+         "type": "qc",
+         "topic": "arithmetic",
+         "difficulty": 1,
+         "meta": {
+          "b": 2,
+          "n": 12,
+          "kind": "big",
+          "gen": "exponent-qc"
+         },
+         "quantityA": "2<sup>12</sup> + 2<sup>12</sup>",
+         "quantityB": "2<sup>24</sup>",
+         "answer": [
+          1
+         ],
+         "explanation": "<p>Quantity A = 2 &times; 2<sup>12</sup> = 2<sup>13</sup>. Quantity B has exponent 24 &gt; 13. Adding equal powers does not multiply the exponent.</p><p><b>Quantity B is greater</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-geometry-qc-1ecrpb",
+         "type": "qc",
+         "topic": "geometry",
+         "difficulty": 1,
+         "meta": {
+          "kind": "perimeters",
+          "a": 8,
+          "b": 9,
+          "gen": "geometry-qc"
+         },
+         "quantityA": "The perimeter of a square with side length 8",
+         "quantityB": "The perimeter of an equilateral triangle with side length 9",
+         "answer": [
+          0
+         ],
+         "explanation": "<p>A = 4 &times; 8 = 32. B = 3 &times; 9 = 27.</p><p><b>Quantity A is greater</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-circle-1fecu6",
+         "type": "mc-single",
+         "topic": "geometry",
+         "difficulty": 3,
+         "meta": {
+          "r": 11,
+          "th": 120,
+          "kind": "sector",
+          "gen": "circle"
+         },
+         "prompt": "A circle has radius 11. What is the area of the sector formed by a central angle of 120&deg;?",
+         "explanation": "<p>The fraction of the circle is <span class='frac'><span>120</span><span>360</span></span> = <span class='frac'><span>1</span><span>3</span></span>. Area = 121&pi;, so the sector area is <span class='frac'><span>1</span><span>3</span></span> &times; 121&pi; = <b><span class='frac'><span>121&pi;</span><span>3</span></span></b>.</p>",
+         "options": [
+          "<span class='frac'><span>121&pi;</span><span>3</span></span>",
+          "<span class='frac'><span>242&pi;</span><span>3</span></span>",
+          "121&pi;",
+          "<span class='frac'><span>484&pi;</span><span>3</span></span>",
+          "<span class='frac'><span>605&pi;</span><span>3</span></span>"
+         ],
+         "answer": [
+          0
+         ],
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-quadratic-roots-1gbb4o",
+         "type": "mc-multi",
+         "topic": "algebra",
+         "difficulty": 2,
+         "meta": {
+          "A": 1,
+          "B": -2,
+          "C": -3,
+          "gen": "quadratic-roots"
+         },
+         "prompt": "Which of the following are solutions of the equation <i>x</i><sup>2</sup> &minus; 2<i>x</i> &minus; 3 = 0?<br>Indicate <u>all</u> such values.",
+         "options": [
+          "&minus;3",
+          "&minus;1",
+          "0",
+          "2",
+          "3"
+         ],
+         "answer": [
+          1,
+          4
+         ],
+         "explanation": "<p>Factor: (<i>x</i> + 1)(<i>x</i> &minus; 3) = 0.</p><p>The solutions are <b>&minus;1 and 3</b>. The signs flip relative to the numbers in the factors, which is the trap in the negated options.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-quadratic-roots-1hg5h1",
+         "type": "mc-multi",
+         "topic": "algebra",
+         "difficulty": 2,
+         "meta": {
+          "A": 1,
+          "B": 3,
+          "C": -40,
+          "gen": "quadratic-roots"
+         },
+         "prompt": "Which of the following are solutions of the equation <i>x</i><sup>2</sup> + 3<i>x</i> &minus; 40 = 0?<br>Indicate <u>all</u> such values.",
+         "options": [
+          "&minus;40",
+          "&minus;8",
+          "&minus;7",
+          "3",
+          "5",
+          "6"
+         ],
+         "answer": [
+          1,
+          4
+         ],
+         "explanation": "<p>Factor: (<i>x</i> &minus; 5)(<i>x</i> + 8) = 0.</p><p>The solutions are <b>5 and &minus;8</b>. The signs flip relative to the numbers in the factors, which is the trap in the negated options.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-mean-missing-1ijyss",
+         "type": "numeric",
+         "topic": "data",
+         "difficulty": 2,
+         "meta": {
+          "n": 8,
+          "m1": 57,
+          "m2": 63,
+          "gen": "mean-missing"
+         },
+         "prompt": "The average (arithmetic mean) of 8 numbers is 57. When one of the numbers is removed, the average of the remaining numbers is 63. What number was removed?",
+         "answer": 15,
+         "explanation": "<p>Original sum: 8 &times; 57 = 456. New sum: 7 &times; 63 = 441. Removed number: 456 &minus; 441 = <b>15</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-percent-change-1jd6lg",
+         "type": "mc-single",
+         "topic": "arithmetic",
+         "difficulty": 2,
+         "meta": {
+          "a": 40,
+          "b": 10,
+          "s1": -1,
+          "s2": -1,
+          "gen": "percent-change"
+         },
+         "prompt": "The value of an investment decreased by 40% in one year and then decreased by 10% the next year. What was the net percent change over the two years?",
+         "explanation": "<p>Multiply the growth factors: 0.6 &times; 0.9 = 0.54.</p><p>So the net change is <b>a decrease of 46%</b>. Percent changes cannot simply be added, because the second change applies to a different base.</p>",
+         "options": [
+          "A decrease of 54%",
+          "A decrease of 51%",
+          "A decrease of 50%",
+          "A decrease of 48.5%",
+          "A decrease of 46%"
+         ],
+         "answer": [
+          4
+         ],
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-ratio-share-1ko305",
+         "type": "numeric",
+         "topic": "arithmetic",
+         "difficulty": 2,
+         "meta": {
+          "x": 1,
+          "y": 4,
+          "z": 7,
+          "tot": 132,
+          "which": 0,
+          "gen": "ratio-share"
+         },
+         "prompt": "A box contains only red, blue, and green marbles in the ratio 1 : 4 : 7. If there are 132 marbles in the box, how many are red?",
+         "answer": 11,
+         "explanation": "<p>Total parts: 12. Each part is 132 &divide; 12 = 11 marbles. Red: 1 &times; 11 = <b>11</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-percent-change-1lspro",
+         "type": "mc-single",
+         "topic": "arithmetic",
+         "difficulty": 1,
+         "meta": {
+          "P": 120,
+          "r": 30,
+          "up": true,
+          "gen": "percent-change"
+         },
+         "prompt": "The price of an item increases from $120 by 30%. What is the new price?",
+         "explanation": "<p>The change is 30% of $120 = $36. New price = $120 + $36 = <b>$156</b>.</p><p>Equivalently, multiply by 1.3.</p>",
+         "options": [
+          "$36",
+          "$84",
+          "$150",
+          "$156",
+          "$192"
+         ],
+         "answer": [
+          3
+         ],
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-remainder-1m50t6",
+         "type": "mc-single",
+         "topic": "arithmetic",
+         "difficulty": 1,
+         "meta": {
+          "N": 624,
+          "m": 10,
+          "gen": "remainder"
+         },
+         "prompt": "What is the remainder when 624 is divided by 10?",
+         "explanation": "<p>624 = 10 &times; 62 + 4, so the remainder is <b>4</b>. (62 is the quotient, not the remainder.)</p>",
+         "options": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "62"
+         ],
+         "answer": [
+          3
+         ],
+         "generated": true
+        }
+       }
+      ],
+      "limit": 1260,
+      "done": true
+     },
+     {
+      "answers": [
+       [
+        2
+       ],
+       [
+        2
+       ],
+       [
+        0
+       ],
+       [
+        1
+       ],
+       [
+        1
+       ],
+       [
+        0
+       ],
+       [
+        3
+       ],
+       [
+        0
+       ],
+       [
+        0,
+        1,
+        2
+       ],
+       "720",
+       [
+        1
+       ],
+       [
+        4
+       ],
+       {
+        "n": "2",
+        "d": "9"
+       },
+       [
+        0
+       ],
+       "3"
+      ],
+      "marked": [
+       true,
+       true,
+       false,
+       false,
+       false,
+       false,
+       true,
+       false,
+       false,
+       false,
+       false,
+       false,
+       true,
+       false,
+       false
+      ],
+      "times": [
+       179.0019999999999,
+       69.01000000000002,
+       32.49799999999999,
+       48.004000000000005,
+       47.5,
+       33.506,
+       524.9870000000008,
+       22.500000000000004,
+       23.497,
+       35.022999999999996,
+       97.48600000000002,
+       76.99300000000002,
+       52.007,
+       141.51099999999988,
+       36.99599999999999
+      ],
+      "checked": [
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false
+      ],
+      "cur": 14,
+      "elapsed": 1431.0079999999996,
+      "remaining": 128.99199999999593,
+      "measure": "Q",
+      "idx": 2,
+      "level": 3,
+      "title": "Quantitative Reasoning",
+      "items": [
+       {
+        "q": {
+         "id": "gen-prime-factor-qc-1nltzx",
+         "type": "qc",
+         "topic": "arithmetic",
+         "difficulty": 2,
+         "meta": {
+          "X": 852,
+          "Y": 1666,
+          "kind": "div",
+          "gen": "prime-factor-qc"
+         },
+         "quantityA": "The number of positive divisors of 852",
+         "quantityB": "The number of positive divisors of 1666",
+         "answer": [
+          2
+         ],
+         "explanation": "<p>852 = 2<sup>2</sup> &times; 3 &times; 71, which gives (2 + 1)(1 + 1)(1 + 1) = 12. 1666 = 2 &times; 7<sup>2</sup> &times; 17, which gives (1 + 1)(2 + 1)(1 + 1) = 12.</p><p><b>The two quantities are equal</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-prime-factor-qc-1otn8f",
+         "type": "qc",
+         "topic": "arithmetic",
+         "difficulty": 3,
+         "meta": {
+          "kind": "mult",
+          "gen": "prime-factor-qc",
+          "k": 10
+         },
+         "info": "<i>n</i> is a positive integer.",
+         "quantityA": "The number of distinct prime factors of <i>n</i>",
+         "quantityB": "The number of distinct prime factors of 10<i>n</i>",
+         "answer": [
+          3
+         ],
+         "explanation": "<p>If <i>n</i> = 10, both quantities equal 2. If <i>n</i> = 1, Quantity A is 0 and Quantity B is 2. Since 10<i>n</i> has every prime factor of <i>n</i> and possibly more, B &ge; A, but the two can be equal. <b>The relationship cannot be determined</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-sd-qc-1prlrw",
+         "type": "qc",
+         "topic": "data",
+         "difficulty": 3,
+         "meta": {
+          "S": [
+           1,
+           23,
+           23,
+           27,
+           29
+          ],
+          "T": [
+           23,
+           23,
+           27
+          ],
+          "kind": "removeext",
+          "swap": true,
+          "gen": "sd-qc"
+         },
+         "info": "Data set <i>S</i>: 1, 23, 23, 27, 29<br><i>T</i> is formed by removing the least and greatest values from <i>S</i>.",
+         "quantityA": "The standard deviation of <i>T</i>",
+         "quantityB": "The standard deviation of <i>S</i>",
+         "answer": [
+          1
+         ],
+         "explanation": "<p>Removing the most extreme values reduces the spread. (Population SDs: <i>S</i> &asymp; 10.07, <i>T</i> &asymp; 1.89.)</p><p><b>Quantity B is greater</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-algebra-qc-1qwyqr",
+         "type": "qc",
+         "topic": "algebra",
+         "difficulty": 2,
+         "meta": {
+          "template": 4,
+          "c": 8,
+          "k": 8,
+          "gen": "algebra-qc"
+         },
+         "info": "&minus;1 &lt; <i>x</i> &lt; 0",
+         "quantityA": "<span class='frac'><span>1</span><span><i>x</i></span></span>",
+         "quantityB": "<i>x</i>",
+         "answer": [
+          1
+         ],
+         "explanation": "<p>For &minus;1 &lt; <i>x</i> &lt; 0, <span class='frac'><span>1</span><span><i>x</i></span></span> &lt; &minus;1 &lt; <i>x</i> (e.g., <i>x</i> = &minus;0.5 gives &minus;2).</p><p><b>Quantity B is greater</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-exponent-qc-1rkgl",
+         "type": "qc",
+         "topic": "arithmetic",
+         "difficulty": 2,
+         "meta": {
+          "a": 3,
+          "c": 4,
+          "e": 4,
+          "gen": "exponent-qc"
+         },
+         "quantityA": "2<sup>3</sup> &times; 4<sup>4</sup>",
+         "quantityB": "8<sup>4</sup>",
+         "answer": [
+          1
+         ],
+         "explanation": "<p>Write everything as a power of 2. A = 2<sup>3</sup> &times; 2<sup>8</sup> = 2<sup>11</sup>. B = 2<sup>12</sup>.</p><p>Compare the exponents 11 and 12: <b>Quantity B is greater</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-normal-distribution-1s48wa",
+         "type": "mc-single",
+         "topic": "data",
+         "difficulty": 3,
+         "meta": {
+          "mu": 50,
+          "sg": 20,
+          "lo": -99,
+          "hi": -2,
+          "N": 400,
+          "p": 2.5,
+          "gen": "normal-distribution"
+         },
+         "prompt": "The measurements of 400 items are approximately normally distributed with mean 50 and standard deviation 20. Approximately how many of the items have measurements less than 10?",
+         "options": [
+          "10",
+          "190",
+          "200",
+          "326",
+          "390"
+         ],
+         "answer": [
+          0
+         ],
+         "explanation": "<p>Convert to standard deviations from the mean: 10 is &minus;2 SD.</p><p>Using the approximate normal percentages (34% between the mean and 1 SD, 13.5% between 1 and 2 SD, 2.5% beyond 2 SD on each side), the region holds about 2.5%, and 2.5% of 400 is <b>10</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-special-right-triangle-1tlddx",
+         "type": "mc-single",
+         "topic": "geometry",
+         "difficulty": 2,
+         "meta": {
+          "kind": "30short",
+          "s": 10,
+          "m": 5,
+          "gen": "special-right-triangle"
+         },
+         "prompt": "In a 30&deg;-60&deg;-90&deg; triangle, the side opposite the 30&deg; angle has length 10. What is the length of the side opposite the 60&deg; angle?",
+         "options": [
+          "10",
+          "10&radic;2",
+          "9&radic;3",
+          "10&radic;3",
+          "20"
+         ],
+         "answer": [
+          3
+         ],
+         "explanation": "<p>The sides are in the ratio 1 : &radic;3 : 2, so the side opposite 60&deg; is 10&radic;3.</p><p>Answer: <b>10&radic;3</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-gcd-lcm-1uoqbb",
+         "type": "mc-single",
+         "topic": "arithmetic",
+         "difficulty": 2,
+         "meta": {
+          "a": 70,
+          "b": 21,
+          "kind": "lcm",
+          "gen": "gcd-lcm"
+         },
+         "prompt": "What is the least common multiple of 70 and 21?",
+         "explanation": "<p>70 = 7 &times; 10 and 21 = 7 &times; 3, where 10 and 3 share no common factor. GCD = 7. LCM = 7 &times; 10 &times; 3 = 210.</p><p>The answer is <b>210</b>.</p>",
+         "options": [
+          "7",
+          "91",
+          "105",
+          "210",
+          "1470"
+         ],
+         "answer": [
+          3
+         ],
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-triangle-third-side-1v6dyp",
+         "type": "mc-multi",
+         "topic": "geometry",
+         "difficulty": 3,
+         "meta": {
+          "a": 10,
+          "b": 13,
+          "opts": [
+           3,
+           3.5,
+           22,
+           23,
+           23.5,
+           24
+          ],
+          "gen": "triangle-third-side"
+         },
+         "prompt": "Two sides of a triangle have lengths 10 and 13. Which of the following could be the length of the third side?<br>Indicate <u>all</u> such lengths.",
+         "options": [
+          "3",
+          "3.5",
+          "22",
+          "23",
+          "23.5",
+          "24"
+         ],
+         "answer": [
+          1,
+          2
+         ],
+         "explanation": "<p>By the triangle inequality, the third side must be greater than 13 &minus; 10 = 3 and less than 10 + 13 = 23. The endpoints themselves are not allowed, because they would give a flat (degenerate) triangle.</p><p>Valid choices: <b>3.5, 22</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "ds04-q1",
+         "type": "numeric",
+         "topic": "data",
+         "difficulty": 1,
+         "prompt": "How many dollars per month does the household budget for food?",
+         "answer": 720,
+         "before": "$",
+         "explanation": "<p>15% of $4,800 = 0.15 &times; 4,800 = <b>$720</b>.</p>"
+        },
+        "sid": "ds04"
+       },
+       {
+        "q": {
+         "id": "ds04-q2",
+         "type": "mc-single",
+         "topic": "data",
+         "difficulty": 1,
+         "prompt": "What is the measure of the central angle of the sector representing Transportation?",
+         "options": [
+          "48&deg;",
+          "43.2&deg;",
+          "36&deg;",
+          "54&deg;",
+          "12&deg;"
+         ],
+         "answer": [
+          1
+         ],
+         "explanation": "<p>12% of 360&deg; = 0.12 &times; 360 = <b>43.2&deg;</b>.</p>"
+        },
+        "sid": "ds04"
+       },
+       {
+        "q": {
+         "id": "ds04-q3",
+         "type": "mc-single",
+         "topic": "data",
+         "difficulty": 2,
+         "prompt": "Suppose the household's housing cost increases by $240 per month and savings are reduced by $240 to cover it, with income unchanged. Savings would then be what percent of the monthly income?",
+         "options": [
+          "7.5%",
+          "2.5%",
+          "8%",
+          "10%",
+          "5%"
+         ],
+         "answer": [
+          4
+         ],
+         "explanation": "<p>Savings are now 10% of 4,800, or $480. After the reduction they are $240, and 240/4,800 = <b>5%</b>.</p>"
+        },
+        "sid": "ds04"
+       },
+       {
+        "q": {
+         "id": "gen-dice-probability-1wowxr",
+         "type": "fraction",
+         "topic": "data",
+         "difficulty": 3,
+         "meta": {
+          "d": 3,
+          "gen": "dice-probability"
+         },
+         "prompt": "Two fair six-sided dice, with faces numbered 1 through 6, are rolled. Given that the sum is at least 10, what is the probability that the two dice show the same number?",
+         "answer": [
+          1,
+          3
+         ],
+         "explanation": "<p>Restrict to the 6 equally likely outcomes in which the sum is at least 10. Of these, 2 have the two dice show the same number.</p><p>Probability = <span class='frac'><span>2</span><span>6</span></span> = <b><span class='frac'><span>1</span><span>3</span></span></b>. Ordered pairs matter: (2, 5) and (5, 2) are different outcomes.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-arithmetic-sequence-1xeuf7",
+         "type": "mc-single",
+         "topic": "algebra",
+         "difficulty": 3,
+         "meta": {
+          "a": 20,
+          "d": 7,
+          "n": 18,
+          "gen": "arithmetic-sequence"
+         },
+         "prompt": "What is the sum of the first 18 terms of the arithmetic sequence 20, 27, 34, &hellip;?",
+         "explanation": "<p>The 18th term is 20 + (17)(7) = 139. Sum = <span class='frac'><span><i>n</i>(first + last)</span><span>2</span></span> = <span class='frac'><span>18(20 + 139)</span><span>2</span></span> = <b>1431</b>.</p>",
+         "options": [
+          "1431",
+          "1438",
+          "1570",
+          "2502",
+          "2862"
+         ],
+         "answer": [
+          0
+         ],
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-pythagorean-1yddqp",
+         "type": "numeric",
+         "topic": "geometry",
+         "difficulty": 3,
+         "meta": {
+          "l": 1,
+          "w": 2,
+          "h": 2,
+          "gen": "pythagorean"
+         },
+         "prompt": "A rectangular box has length 1, width 2, and height 2. What is the distance between two opposite vertices of the box (the length of a space diagonal)?",
+         "answer": 3,
+         "explanation": "<p>Space diagonal = &radic;(<i>l</i><sup>2</sup> + <i>w</i><sup>2</sup> + <i>h</i><sup>2</sup>) = &radic;(1 + 4 + 4) = &radic;9 = <b>3</b>.</p>",
+         "generated": true
+        }
+       }
+      ],
+      "limit": 1560,
+      "done": true
+     }
+    ],
+    "scores": {
+     "Q": 165
+    }
+   },
+   {
+    "id": "mwl93f0bur0ps",
+    "mode": "Q",
+    "title": "Quantitative Reasoning Test",
+    "date": 1794955771354,
+    "quit": false,
+    "sections": [
+     {
+      "answers": [
+       [
+        3
+       ],
+       [
+        2
+       ],
+       [
+        1
+       ],
+       [
+        1
+       ],
+       [
+        3
+       ],
+       [
+        4
+       ],
+       "11",
+       [
+        0,
+        1,
+        2,
+        4
+       ],
+       [
+        4
+       ],
+       "23",
+       [
+        1,
+        4
+       ],
+       [
+        0
+       ]
+      ],
+      "marked": [
+       false,
+       true,
+       true,
+       false,
+       false,
+       false,
+       false,
+       true,
+       false,
+       false,
+       false,
+       false
+      ],
+      "times": [
+       274.50099999999986,
+       214.99699999999999,
+       119.99799999999998,
+       38.004,
+       12.500000000000002,
+       57.993,
+       108.00099999999996,
+       164.0210000000001,
+       13.992999999999999,
+       24,
+       48.50300000000002,
+       72.01200000000001
+      ],
+      "checked": [
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false
+      ],
+      "cur": 11,
+      "elapsed": 1158.5070000000003,
+      "remaining": 101.49300000000062,
+      "measure": "Q",
+      "idx": 1,
+      "level": 2,
+      "title": "Quantitative Reasoning",
+      "items": [
+       {
+        "q": {
+         "id": "gen-prime-factor-qc-nhdq9",
+         "type": "qc",
+         "topic": "arithmetic",
+         "difficulty": 3,
+         "meta": {
+          "kind": "twice",
+          "gen": "prime-factor-qc"
+         },
+         "info": "<i>n</i> is a positive integer.",
+         "quantityA": "The number of positive divisors of <i>n</i><sup>2</sup>",
+         "quantityB": "Twice the number of positive divisors of <i>n</i>",
+         "answer": [
+          3
+         ],
+         "explanation": "<p><i>n</i> = 1: A = 1 and B = 2, so B is greater. <i>n</i> = 2: A = 3 (divisors of 4) and B = 4. <i>n</i> = 6: A = 9 (divisors of 36) and B = 8, so A is greater.</p><p><b>The relationship cannot be determined</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-prime-factor-qc-omlpx",
+         "type": "qc",
+         "topic": "arithmetic",
+         "difficulty": 2,
+         "meta": {
+          "X": 1995,
+          "Y": 1936,
+          "kind": "div",
+          "gen": "prime-factor-qc"
+         },
+         "quantityA": "The number of positive divisors of 1995",
+         "quantityB": "The number of positive divisors of 1936",
+         "answer": [
+          0
+         ],
+         "explanation": "<p>1995 = 3 &times; 5 &times; 7 &times; 19, which gives (1 + 1)(1 + 1)(1 + 1)(1 + 1) = 16. 1936 = 2<sup>4</sup> &times; 11<sup>2</sup>, which gives (4 + 1)(2 + 1) = 15.</p><p><b>Quantity A is greater</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-prime-factor-qc-p434q",
+         "type": "qc",
+         "topic": "arithmetic",
+         "difficulty": 2,
+         "meta": {
+          "X": 381,
+          "Y": 399,
+          "kind": "div",
+          "gen": "prime-factor-qc"
+         },
+         "quantityA": "The number of positive divisors of 381",
+         "quantityB": "The number of positive divisors of 399",
+         "answer": [
+          1
+         ],
+         "explanation": "<p>381 = 3 &times; 127, which gives (1 + 1)(1 + 1) = 4. 399 = 3 &times; 7 &times; 19, which gives (1 + 1)(1 + 1)(1 + 1) = 8.</p><p><b>Quantity B is greater</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-geometry-qc-qsab8",
+         "type": "qc",
+         "topic": "geometry",
+         "difficulty": 1,
+         "meta": {
+          "kind": "circle-square",
+          "r": 6,
+          "s": 12,
+          "gen": "geometry-qc"
+         },
+         "quantityA": "The area of a circle with radius 6",
+         "quantityB": "The area of a square with side length 12",
+         "answer": [
+          1
+         ],
+         "explanation": "<p>A = 36&pi; &asymp; 113.1. B = 144.</p><p><b>Quantity B is greater</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-circle-rx8t9",
+         "type": "mc-single",
+         "topic": "geometry",
+         "difficulty": 2,
+         "meta": {
+          "r": 11,
+          "kind": "A-from-C",
+          "gen": "circle"
+         },
+         "prompt": "The circumference of a circle is 22&pi;. What is the area of the circle?",
+         "explanation": "<p>2&pi;<i>r</i> = 22&pi;, so <i>r</i> = 11. Area = &pi;<i>r</i><sup>2</sup> = <b>121&pi;</b>. (Using the diameter in place of the radius gives 484&pi;.)</p>",
+         "options": [
+          "22&pi;",
+          "<span class='frac'><span>121&pi;</span><span>4</span></span>",
+          "<span class='frac'><span>121&pi;</span><span>2</span></span>",
+          "121&pi;",
+          "484&pi;"
+         ],
+         "answer": [
+          3
+         ],
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-median-mode-sx4j8",
+         "type": "mc-single",
+         "topic": "data",
+         "difficulty": 2,
+         "meta": {
+          "vals": [
+           26,
+           14,
+           28,
+           17,
+           1,
+           8,
+           16,
+           23,
+           13,
+           7
+          ],
+          "gen": "median-mode"
+         },
+         "prompt": "What is the median of the following list of numbers?<br>26, 14, 28, 17, 1, 8, 16, 23, 13, 7",
+         "explanation": "<p>Sort the list: 1, 7, 8, 13, 14, 16, 17, 23, 26, 28. With 10 values, the median is the average of the 5th and 6th values: (14 + 16)/2 = <b>15</b>. Remember to sort first; the middle of the unsorted list is a trap.</p>",
+         "options": [
+          "4.5",
+          "13.5",
+          "14",
+          "14.5",
+          "15"
+         ],
+         "answer": [
+          4
+         ],
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-pythagorean-tshw7",
+         "type": "numeric",
+         "topic": "geometry",
+         "difficulty": 3,
+         "meta": {
+          "l": 2,
+          "w": 6,
+          "h": 9,
+          "gen": "pythagorean"
+         },
+         "prompt": "A rectangular box has length 2, width 6, and height 9. What is the distance between two opposite vertices of the box (the length of a space diagonal)?",
+         "answer": 11,
+         "explanation": "<p>Space diagonal = &radic;(<i>l</i><sup>2</sup> + <i>w</i><sup>2</sup> + <i>h</i><sup>2</sup>) = &radic;(4 + 36 + 81) = &radic;121 = <b>11</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-primes-multi-uae8r",
+         "type": "mc-multi",
+         "topic": "arithmetic",
+         "difficulty": 3,
+         "meta": {
+          "list": [
+           101,
+           103,
+           233,
+           237,
+           241
+          ],
+          "gen": "primes-multi"
+         },
+         "prompt": "Which of the following numbers are prime?<br>Indicate <u>all</u> such numbers.",
+         "options": [
+          "101",
+          "103",
+          "233",
+          "237",
+          "241"
+         ],
+         "answer": [
+          0,
+          1,
+          2,
+          4
+         ],
+         "explanation": "<ul><li>101 is prime (no prime factor up to &radic;101 &asymp; 10).</li><li>103 is prime (no prime factor up to &radic;103 &asymp; 10).</li><li>233 is prime (no prime factor up to &radic;233 &asymp; 15).</li><li>237 = 3 &times; 79, so it is not prime.</li><li>241 is prime (no prime factor up to &radic;241 &asymp; 15).</li></ul>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-normal-distribution-vi1g9",
+         "type": "mc-single",
+         "topic": "data",
+         "difficulty": 1,
+         "meta": {
+          "mu": 100,
+          "sg": 15,
+          "lo": -1,
+          "hi": 1,
+          "N": 0,
+          "p": 68,
+          "gen": "normal-distribution"
+         },
+         "prompt": "The values of a large population are approximately normally distributed with mean 100 and standard deviation 15. Approximately what percent of the values are between 85 and 115?",
+         "options": [
+          "32%",
+          "34%",
+          "68%",
+          "81.5%",
+          "84%"
+         ],
+         "answer": [
+          2
+         ],
+         "explanation": "<p>Convert to standard deviations from the mean: 85 is &minus;1 SD; 115 is +1 SD.</p><p>Using the approximate normal percentages (34% between the mean and 1 SD, 13.5% between 1 and 2 SD, 2.5% beyond 2 SD on each side), the region holds about 68%, so the answer is <b>68%</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-function-eval-wigas",
+         "type": "numeric",
+         "topic": "algebra",
+         "difficulty": 1,
+         "meta": {
+          "a": 1,
+          "b": 7,
+          "c": 5,
+          "k": 2,
+          "gen": "function-eval"
+         },
+         "prompt": "If <i>f</i>(<i>x</i>) = <i>x</i><sup>2</sup> + 7<i>x</i> + 5, what is the value of <i>f</i>(2)?",
+         "answer": 23,
+         "explanation": "<p><i>f</i>(2) = 1(2)<sup>2</sup> + (7)(2) + (5) = 4 + (14) + (5) = <b>23</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-quadratic-roots-xwq5c",
+         "type": "mc-multi",
+         "topic": "algebra",
+         "difficulty": 2,
+         "meta": {
+          "A": 1,
+          "B": 1,
+          "C": -30,
+          "gen": "quadratic-roots"
+         },
+         "prompt": "Which of the following are solutions of the equation <i>x</i><sup>2</sup> + <i>x</i> &minus; 30 = 0?<br>Indicate <u>all</u> such values.",
+         "options": [
+          "&minus;30",
+          "&minus;6",
+          "<span class='frac'><span>1</span><span>5</span></span>",
+          "1",
+          "5"
+         ],
+         "answer": [
+          1,
+          4
+         ],
+         "explanation": "<p>Factor: (<i>x</i> &minus; 5)(<i>x</i> + 6) = 0.</p><p>The solutions are <b>5 and &minus;6</b>. The signs flip relative to the numbers in the factors, which is the trap in the negated options.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-arithmetic-sequence-y3xn5",
+         "type": "mc-single",
+         "topic": "algebra",
+         "difficulty": 1,
+         "meta": {
+          "a": 14,
+          "d": -5,
+          "n": 38,
+          "gen": "arithmetic-sequence"
+         },
+         "prompt": "The first term of an arithmetic sequence is 14, and each term after the first is 5 less than the previous term. What is the 38th term?",
+         "explanation": "<p><i>a</i><sub><i>n</i></sub> = <i>a</i><sub>1</sub> + (<i>n</i> &minus; 1)<i>d</i> = 14 + (37)(&minus;5) = <b>&minus;171</b>. Using <i>n</i> instead of <i>n</i> &minus; 1 is the classic off-by-one error.</p>",
+         "options": [
+          "&minus;171",
+          "&minus;166",
+          "&minus;161",
+          "&minus;156",
+          "532"
+         ],
+         "answer": [
+          0
+         ],
+         "generated": true
+        }
+       }
+      ],
+      "limit": 1260,
+      "done": true
+     },
+     {
+      "answers": [
+       [
+        3
+       ],
+       [
+        3
+       ],
+       [
+        3
+       ],
+       [
+        3
+       ],
+       [
+        1
+       ],
+       "16",
+       [
+        0
+       ],
+       [
+        1
+       ],
+       [
+        0,
+        2,
+        4
+       ],
+       [
+        1
+       ],
+       "39",
+       [
+        1,
+        2
+       ],
+       [
+        4
+       ],
+       [
+        4
+       ],
+       "180"
+      ],
+      "marked": [
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       true,
+       false,
+       true
+      ],
+      "times": [
+       89.99500000000003,
+       64.515,
+       56.01,
+       66.48099999999998,
+       34.007,
+       102.505,
+       59.49700000000003,
+       33.489,
+       66.50600000000003,
+       44.5,
+       19.996999999999993,
+       13.502999999999998,
+       65.50699999999999,
+       72.49600000000001,
+       92.52000000000007
+      ],
+      "checked": [
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false
+      ],
+      "cur": 14,
+      "elapsed": 886.5129999999989,
+      "remaining": 673.4870000000003,
+      "measure": "Q",
+      "idx": 2,
+      "level": 3,
+      "title": "Quantitative Reasoning",
+      "items": [
+       {
+        "q": {
+         "id": "gen-prime-factor-qc-z66sv",
+         "type": "qc",
+         "topic": "arithmetic",
+         "difficulty": 3,
+         "meta": {
+          "kind": "square",
+          "gen": "prime-factor-qc"
+         },
+         "info": "<i>n</i> is a positive integer.",
+         "quantityA": "The number of distinct prime factors of <i>n</i><sup>2</sup>",
+         "quantityB": "The number of distinct prime factors of <i>n</i>",
+         "answer": [
+          2
+         ],
+         "explanation": "<p>Squaring changes only the exponents in the prime factorization, never which primes appear. The quantities are <b>equal</b> for every <i>n</i> (both are 0 when <i>n</i> = 1).</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-exponent-qc-107bki",
+         "type": "qc",
+         "topic": "arithmetic",
+         "difficulty": 3,
+         "meta": {
+          "template": 3,
+          "gen": "exponent-qc"
+         },
+         "info": "<i>n</i> is an integer greater than 2.",
+         "quantityA": "2<sup><i>n</i></sup>",
+         "quantityB": "<i>n</i><sup>2</sup>",
+         "answer": [
+          3
+         ],
+         "explanation": "<p><i>n</i> = 3: 8 vs 9 (B is greater). <i>n</i> = 4: 16 vs 16 (equal). <i>n</i> = 5: 32 vs 25 (A is greater).</p><p><b>The relationship cannot be determined</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-exponent-qc-119j3q",
+         "type": "qc",
+         "topic": "arithmetic",
+         "difficulty": 3,
+         "meta": {
+          "template": 0,
+          "gen": "exponent-qc"
+         },
+         "info": "<i>n</i> is a positive integer.",
+         "quantityA": "2<sup><i>n</i> + 1</sup>",
+         "quantityB": "2<sup><i>n</i></sup> + 2",
+         "answer": [
+          3
+         ],
+         "explanation": "<p>A &minus; B = 2<sup><i>n</i></sup> &minus; 2. When <i>n</i> = 1 this is 0 (equal); when <i>n</i> &ge; 2 it is positive (A is greater).</p><p><b>The relationship cannot be determined</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-geometry-qc-12uhe",
+         "type": "qc",
+         "topic": "geometry",
+         "difficulty": 3,
+         "meta": {
+          "kind": "area",
+          "gen": "geometry-qc",
+          "p": 11,
+          "r": 7,
+          "more": false
+         },
+         "info": "Two sides of a triangle have lengths 11 and 7.",
+         "quantityA": "The area of the triangle",
+         "quantityB": "38.5",
+         "answer": [
+          3
+         ],
+         "explanation": "<p>Area = <span class='frac'><span>1</span><span>2</span></span>(11)(7) sin&thinsp;<i>C</i> &le; 38.5, with equality only for a right angle between those sides. So it could equal 38.5 or be less.</p><p><b>The relationship cannot be determined</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-geometry-qc-13cto1",
+         "type": "qc",
+         "topic": "geometry",
+         "difficulty": 2,
+         "meta": {
+          "kind": "circumference",
+          "d": 8,
+          "B": 26,
+          "gen": "geometry-qc"
+         },
+         "quantityA": "The circumference of a circle with diameter 8",
+         "quantityB": "26",
+         "answer": [
+          1
+         ],
+         "explanation": "<p>A = 8&pi; &asymp; 25.133.</p><p><b>Quantity B is greater</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-divisor-count-14ps2z",
+         "type": "numeric",
+         "topic": "arithmetic",
+         "difficulty": 2,
+         "meta": {
+          "n": 216,
+          "kind": "all",
+          "gen": "divisor-count"
+         },
+         "prompt": "How many positive divisors does 216 have?",
+         "answer": 16,
+         "explanation": "<p>216 = 2<sup>3</sup> &times; 3<sup>3</sup>. Add 1 to each exponent and multiply: (3 + 1)(3 + 1) = <b>16</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-percent-change-15ig89",
+         "type": "mc-single",
+         "topic": "arithmetic",
+         "difficulty": 2,
+         "meta": {
+          "a": 30,
+          "b": 30,
+          "s1": 1,
+          "s2": -1,
+          "gen": "percent-change"
+         },
+         "prompt": "The value of an investment increased by 30% in one year and then decreased by 30% the next year. What was the net percent change over the two years?",
+         "explanation": "<p>Multiply the growth factors: 1.3 &times; 0.7 = 0.91.</p><p>So the net change is <b>a decrease of 9%</b>. Percent changes cannot simply be added, because the second change applies to a different base.</p>",
+         "options": [
+          "A decrease of 9%",
+          "A decrease of 6.5%",
+          "A decrease of 4%",
+          "No change",
+          "An increase of 9%"
+         ],
+         "answer": [
+          0
+         ],
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-remainder-161jz5",
+         "type": "mc-single",
+         "topic": "arithmetic",
+         "difficulty": 1,
+         "meta": {
+          "N": 727,
+          "m": 9,
+          "gen": "remainder"
+         },
+         "prompt": "What is the remainder when 727 is divided by 9?",
+         "explanation": "<p>727 = 9 &times; 80 + 7, so the remainder is <b>7</b>. (80 is the quotient, not the remainder.)</p>",
+         "options": [
+          "2",
+          "7",
+          "8",
+          "9",
+          "80"
+         ],
+         "answer": [
+          1
+         ],
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-stats-multi-17jzjh",
+         "type": "mc-multi",
+         "topic": "data",
+         "difficulty": 3,
+         "meta": {
+          "vals": [
+           1,
+           1,
+           6,
+           14,
+           20,
+           16,
+           5,
+           1
+          ],
+          "gen": "stats-multi"
+         },
+         "prompt": "For the data set 1, 1, 6, 14, 20, 16, 5, 1, which of the following statements are true?<br>Indicate <u>all</u> such statements.",
+         "options": [
+          "The mean is 8.",
+          "If the greatest value were increased by 10, the median would increase.",
+          "The median is 6.5.",
+          "The mode is 6.",
+          "The mean is greater than the median.",
+          "The range is 20."
+         ],
+         "answer": [
+          0,
+          4
+         ],
+         "explanation": "<p>Sorted: 1, 1, 1, 5, 6, 14, 16, 20. Mean = 64/8 = 8; median = 5.5; mode = 1; range = 20 &minus; 1 = 19. Changing the greatest value does not move the middle values, so the median stays the same.</p><p>True statements: &ldquo;The mean is 8.&rdquo;; &ldquo;The mean is greater than the median.&rdquo;.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "ds08-q1",
+         "type": "mc-single",
+         "topic": "data",
+         "difficulty": 1,
+         "prompt": "What is the ratio of the number of female members of the Drama club to the number of female members of the Chess club?",
+         "options": [
+          "5 to 2",
+          "25 to 12",
+          "12 to 25",
+          "5 to 3",
+          "2 to 1"
+         ],
+         "answer": [
+          1
+         ],
+         "explanation": "<p>Drama has 25 female members and Chess has 12, so the ratio is <b>25 to 12</b>.</p>"
+        },
+        "sid": "ds08"
+       },
+       {
+        "q": {
+         "id": "ds08-q2",
+         "type": "numeric",
+         "topic": "data",
+         "difficulty": 1,
+         "prompt": "What percent of the members of the Robotics club are female? Round to the nearest whole percent.",
+         "answer": 39,
+         "after": "%",
+         "explanation": "<p>Robotics has 22 + 14 = 36 members. 14/36 &asymp; 0.389, which is <b>39%</b>.</p>"
+        },
+        "sid": "ds08"
+       },
+       {
+        "q": {
+         "id": "ds08-q3",
+         "type": "mc-multi",
+         "topic": "data",
+         "difficulty": 1,
+         "prompt": "Which clubs have more than 30 members?<br>Indicate <u>all</u> such clubs.",
+         "options": [
+          "Chess",
+          "Drama",
+          "Robotics"
+         ],
+         "answer": [
+          1,
+          2
+         ],
+         "explanation": "<p>Chess: 18 + 12 = 30, which is not more than 30. Drama: 35. Robotics: 36. The answer is <b>Drama and Robotics</b>.</p>"
+        },
+        "sid": "ds08"
+       },
+       {
+        "q": {
+         "id": "gen-counting-188cxm",
+         "type": "mc-single",
+         "topic": "data",
+         "difficulty": 3,
+         "meta": {
+          "n": 5,
+          "kind": "together",
+          "gen": "counting"
+         },
+         "prompt": "In how many ways can 5 people stand in a row if two particular people, Jo and Kai, must stand next to each other?",
+         "explanation": "<p>Treat Jo and Kai as one block: (4)! arrangements, times 2 orders within the block = 48.</p><p>Answer: <b>48</b>.</p>",
+         "options": [
+          "12",
+          "24",
+          "38",
+          "43",
+          "48"
+         ],
+         "answer": [
+          4
+         ],
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-normal-distribution-192c2q",
+         "type": "mc-single",
+         "topic": "data",
+         "difficulty": 2,
+         "meta": {
+          "mu": 200,
+          "sg": 25,
+          "lo": -2,
+          "hi": 99,
+          "N": 0,
+          "p": 97.5,
+          "gen": "normal-distribution"
+         },
+         "prompt": "The values of a large population are approximately normally distributed with mean 200 and standard deviation 25. Approximately what percent of the values are greater than 150?",
+         "options": [
+          "2.5%",
+          "5%",
+          "13.5%",
+          "34%",
+          "97.5%"
+         ],
+         "answer": [
+          4
+         ],
+         "explanation": "<p>Convert to standard deviations from the mean: 150 is &minus;2 SD.</p><p>Using the approximate normal percentages (34% between the mean and 1 SD, 13.5% between 1 and 2 SD, 2.5% beyond 2 SD on each side), the region holds about 97.5%, so the answer is <b>97.5%</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-polygon-angles-1asjuy",
+         "type": "numeric",
+         "topic": "geometry",
+         "difficulty": 3,
+         "meta": {
+          "n": 20,
+          "kind": "diagonals",
+          "gen": "polygon-angles"
+         },
+         "prompt": "How many diagonals does a convex polygon with 20 sides have?",
+         "answer": 170,
+         "explanation": "<p>Each vertex connects by a diagonal to <i>n</i> &minus; 3 others, and each diagonal is counted twice: <span class='frac'><span>20 &times; 17</span><span>2</span></span> = <b>170</b>.</p>",
+         "generated": true
+        }
+       }
+      ],
+      "limit": 1560,
+      "done": true
+     }
+    ],
+    "scores": {
+     "Q": 165
+    }
+   },
+   {
+    "id": "mwl3k6s95wl4h",
+    "mode": "full",
+    "title": "Full-Length Practice Test",
+    "date": 1794950186812,
+    "quit": false,
+    "sections": [
+     {
+      "measure": "AW",
+      "title": "Analytical Writing",
+      "prompt": {
+       "id": "i07",
+       "type": "agree",
+       "prompt": "Most important discoveries are the result of persistence rather than brilliance.",
+       "instructions": "Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position."
+      },
+      "essay": "There are typically two general schools of thought when it comes to success. One which praises the natural talent and genius of a successful party and the other which looks directly at their hard work, resiliance, and persistence. I think, however, that it is not simply black and white: that one or the other leads to success but instead, it is typically a combination of the two with one of these factors emphasized after the success is had in the naratives formed. \n\nTo start, I will discuss the baseline requirement of intelligence. Intelligence can be defined in a couple different ways but, one definition which encapsulates it is that intelligence and brilliance allows you to see the world clearly, percieving different problems, and understanding the path to solution. For the wonderful inventions in the world, someone had to understand the problem that exists to therefore then propose a solution to the problem. You need a foresight in order to see that and without, you would carry on with the status quo. For the second part of understanding the path forward, intelligence allows for you to take different concepts or ideas, and mold them into a workable solution for the problem at hand. It can be argued that for all of this, without grit and work, these ideas simply stay as ideas. I will concede this which points to why it is not a black and white issue, but one of both.\n\nTo dig into this point deeper, we can do a case study of some of the most brilliant founders in history. Jensen Huang, the founder of Nvidia, was once quoted saying \"if I knew how hard it would be to start Nvidia, I wouldn't have done it\". He had all the intelligence to start a company that would revolutionize AI and gaming, but, there were many issues that he encountered along the way, which without grit and persistence, would have caused Nvidia to fail. Jensen's grit was so tough that he even pawned off his wedding ring to help Nvidia stay afloat. Great ideas have potential and take up 20% of the effort for 80% of the reward, but it is the transition from idea to discovery which takes up the other 80% effort for only a 20% return. \n\nIn addition to a baseline requirement of intelligence which is required for the understanding of problems and the path forward, intelligence is required for problem solving along the way. Persistence means that the person consistently works on the problem and doesn't give up; however, if one never tries the right solution, time will run out and the invention will fail. Given a problem space, there are likely thousands of different paths that can be taken to attempt and solve the issues in discovery. Time is often of the essense in these discoveries and with limited budget, working on the wrong things often leads to the end of the runway. A similar concept can be found in machine learning in gradient descent. In order to optimize for the most optimal solution, you find the direction of the gradient of the error and move in the opposite direction. This takes computing power and in the case of an inventor, it can be understood as their brilliance. \n\nA skeptic might argue against this with the countless stories of how people discovery things on accident. Take for example, Isaac Newton and the discovery of gravity with an Apple falling down. He never had the original idea for gravity but instead perceived it through observation. But I would argue that this is the definition of intelligence. Observing and interpreting the world in a correct manner. In addition, Newton had to use his intelligence and brilliance to hypothesize what might have gone on, and then had enough persistence to formalize the theories and make the math all work out. \n\nNo one simply comes up with an idea and has it work on the first try. Invention and discovery are always more nuanced than that. This is why discoveries truly depend on both persistence and brilliance rather than just one or the other. Brilliance cannot be displayed without persistence and persistence is useless without brilliance. ",
+      "limit": 1800,
+      "remaining": 498.4950000000009,
+      "elapsed": 1301.5049999999962,
+      "items": [],
+      "done": true,
+      "selfScore": 4
+     },
+     {
+      "answers": [
+       [
+        0
+       ],
+       [
+        0
+       ],
+       [
+        3
+       ],
+       [
+        0
+       ],
+       [
+        0,
+        1,
+        3
+       ],
+       [
+        1
+       ],
+       "8",
+       [
+        0
+       ],
+       [
+        0
+       ],
+       {
+        "n": "3",
+        "d": "8"
+       },
+       [
+        1
+       ],
+       [
+        2
+       ]
+      ],
+      "marked": [
+       false,
+       false,
+       false,
+       true,
+       false,
+       false,
+       false,
+       false,
+       true,
+       false,
+       false,
+       false
+      ],
+      "times": [
+       67.00399999999998,
+       38.502999999999986,
+       169.0109999999999,
+       43.50700000000001,
+       46.49800000000001,
+       51.50100000000001,
+       130.50799999999998,
+       49.98899999999999,
+       95.51099999999997,
+       13.993000000000002,
+       265.51099999999985,
+       101.00699999999996
+      ],
+      "checked": [
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false
+      ],
+      "cur": 11,
+      "elapsed": 1085.0129999999988,
+      "remaining": 174.98699999999846,
+      "measure": "Q",
+      "idx": 1,
+      "level": 2,
+      "title": "Quantitative Reasoning",
+      "items": [
+       {
+        "q": {
+         "id": "gen-prime-factor-qc-1nvbe",
+         "type": "qc",
+         "topic": "arithmetic",
+         "difficulty": 2,
+         "meta": {
+          "X": 1806,
+          "Y": 322,
+          "kind": "div",
+          "gen": "prime-factor-qc"
+         },
+         "quantityA": "The number of positive divisors of 1806",
+         "quantityB": "The number of positive divisors of 322",
+         "answer": [
+          0
+         ],
+         "explanation": "<p>1806 = 2 &times; 3 &times; 7 &times; 43, which gives (1 + 1)(1 + 1)(1 + 1)(1 + 1) = 16. 322 = 2 &times; 7 &times; 23, which gives (1 + 1)(1 + 1)(1 + 1) = 8.</p><p><b>Quantity A is greater</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-exponent-qc-2izei",
+         "type": "qc",
+         "topic": "arithmetic",
+         "difficulty": 3,
+         "meta": {
+          "template": 1,
+          "gen": "exponent-qc"
+         },
+         "info": "<i>n</i> is an integer greater than 1.",
+         "quantityA": "2<sup><i>n</i> + 1</sup>",
+         "quantityB": "2<sup><i>n</i></sup> + 2",
+         "answer": [
+          0
+         ],
+         "explanation": "<p>A &minus; B = 2<sup><i>n</i></sup> &minus; 2, which is at least 2 when <i>n</i> &ge; 2.</p><p><b>Quantity A is greater</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-geometry-qc-39oqx",
+         "type": "qc",
+         "topic": "geometry",
+         "difficulty": 3,
+         "meta": {
+          "kind": "area",
+          "gen": "geometry-qc",
+          "p": 4,
+          "r": 3,
+          "more": false
+         },
+         "info": "Two sides of a triangle have lengths 4 and 3.",
+         "quantityA": "The area of the triangle",
+         "quantityB": "6",
+         "answer": [
+          3
+         ],
+         "explanation": "<p>Area = <span class='frac'><span>1</span><span>2</span></span>(4)(3) sin&thinsp;<i>C</i> &le; 6, with equality only for a right angle between those sides. So it could equal 6 or be less.</p><p><b>The relationship cannot be determined</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-prime-factor-qc-47zu9",
+         "type": "qc",
+         "topic": "arithmetic",
+         "difficulty": 2,
+         "meta": {
+          "X": 1042,
+          "Y": 1987,
+          "kind": "div",
+          "gen": "prime-factor-qc"
+         },
+         "quantityA": "The number of positive divisors of 1042",
+         "quantityB": "The number of positive divisors of 1987",
+         "answer": [
+          0
+         ],
+         "explanation": "<p>1042 = 2 &times; 521, which gives (1 + 1)(1 + 1) = 4. 1987 = 1987, which gives (1 + 1) = 2.</p><p><b>Quantity A is greater</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-stats-multi-5eg8q",
+         "type": "mc-multi",
+         "topic": "data",
+         "difficulty": 1,
+         "meta": {
+          "vals": [
+           18,
+           18,
+           17,
+           5,
+           18
+          ],
+          "gen": "stats-multi"
+         },
+         "prompt": "For the data set 18, 18, 17, 5, 18, which of the following statements are true?<br>Indicate <u>all</u> such statements.",
+         "options": [
+          "The median is 18.",
+          "The range is 13.",
+          "The mean is greater than the median.",
+          "The mode is 18."
+         ],
+         "answer": [
+          0,
+          1,
+          3
+         ],
+         "explanation": "<p>Sorted: 5, 17, 18, 18, 18. Mean = 76/5 = 15.2; median = 18; mode = 18; range = 18 &minus; 5 = 13.</p><p>True statements: &ldquo;The median is 18.&rdquo;; &ldquo;The range is 13.&rdquo;; &ldquo;The mode is 18.&rdquo;.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-normal-distribution-6p12n",
+         "type": "mc-single",
+         "topic": "data",
+         "difficulty": 2,
+         "meta": {
+          "mu": 200,
+          "sg": 15,
+          "lo": -99,
+          "hi": 1,
+          "N": 0,
+          "p": 84,
+          "gen": "normal-distribution"
+         },
+         "prompt": "The values of a large population are approximately normally distributed with mean 200 and standard deviation 15. Approximately what percent of the values are less than 215?",
+         "options": [
+          "5%",
+          "68%",
+          "84%",
+          "95%",
+          "97.5%"
+         ],
+         "answer": [
+          2
+         ],
+         "explanation": "<p>Convert to standard deviations from the mean: 215 is +1 SD.</p><p>Using the approximate normal percentages (34% between the mean and 1 SD, 13.5% between 1 and 2 SD, 2.5% beyond 2 SD on each side), the region holds about 84%, so the answer is <b>84%</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-divisor-count-716ks",
+         "type": "numeric",
+         "topic": "arithmetic",
+         "difficulty": 2,
+         "meta": {
+          "n": 135,
+          "kind": "all",
+          "gen": "divisor-count"
+         },
+         "prompt": "How many positive divisors does 135 have?",
+         "answer": 8,
+         "explanation": "<p>135 = 3<sup>3</sup> &times; 5. Add 1 to each exponent and multiply: (3 + 1)(1 + 1) = <b>8</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-remainder-810vl",
+         "type": "mc-single",
+         "topic": "arithmetic",
+         "difficulty": 2,
+         "meta": {
+          "m": 7,
+          "r": 3,
+          "k": 5,
+          "c": 1,
+          "gen": "remainder"
+         },
+         "prompt": "When the positive integer <i>n</i> is divided by 7, the remainder is 3. What is the remainder when 5<i>n</i> + 1 is divided by 7?",
+         "explanation": "<p>Write <i>n</i> = 7<i>q</i> + 3. Then 5<i>n</i> + 1 = 35<i>q</i> + 16.</p><p>The first term is a multiple of 7, so the remainder comes from 16 &divide; 7, which is <b>2</b>.</p>",
+         "options": [
+          "2",
+          "3",
+          "4",
+          "6",
+          "16"
+         ],
+         "answer": [
+          0
+         ],
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-units-digit-9ijn6",
+         "type": "mc-single",
+         "topic": "arithmetic",
+         "difficulty": 2,
+         "meta": {
+          "b": 47,
+          "e": 54,
+          "gen": "units-digit"
+         },
+         "prompt": "What is the units digit of 47<sup>54</sup>?",
+         "explanation": "<p>Only the units digit 7 matters. Its powers end in a repeating cycle of length 4: 7, 9, 3, 1.</p><p>54 leaves remainder 2 when divided by 4, so the units digit is <b>9</b>.</p>",
+         "options": [
+          "3",
+          "4",
+          "7",
+          "8",
+          "9"
+         ],
+         "answer": [
+          4
+         ],
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "q-b29",
+         "type": "fraction",
+         "topic": "algebra",
+         "difficulty": 1,
+         "prompt": "What is the slope of the line that passes through the points (2, 5) and (10, 8)?",
+         "answer": [
+          3,
+          8
+         ],
+         "explanation": "<p>Slope = <span class='frac'><span>8 &minus; 5</span><span>10 &minus; 2</span></span> = <b><span class='frac'><span>3</span><span>8</span></span></b>.</p>"
+        }
+       },
+       {
+        "q": {
+         "id": "gen-arithmetic-sequence-aeumv",
+         "type": "mc-single",
+         "topic": "algebra",
+         "difficulty": 3,
+         "meta": {
+          "a": -7,
+          "d": 7,
+          "n": 37,
+          "gen": "arithmetic-sequence"
+         },
+         "prompt": "What is the sum of the first 37 terms of the arithmetic sequence &minus;7, 0, 7, &hellip;?",
+         "explanation": "<p>The 37th term is &minus;7 + (36)(7) = 245. Sum = <span class='frac'><span><i>n</i>(first + last)</span><span>2</span></span> = <span class='frac'><span>37(&minus;7 + 245)</span><span>2</span></span> = <b>4403</b>.</p>",
+         "options": [
+          "4284",
+          "4403",
+          "4648",
+          "8806",
+          "9065"
+         ],
+         "answer": [
+          1
+         ],
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-triangle-third-side-btg5n",
+         "type": "mc-multi",
+         "topic": "geometry",
+         "difficulty": 1,
+         "meta": {
+          "a": 6,
+          "b": 9,
+          "opts": [
+           3,
+           4,
+           7,
+           11,
+           16,
+           17
+          ],
+          "gen": "triangle-third-side"
+         },
+         "prompt": "Two sides of a triangle have lengths 6 and 9. Which of the following could be the length of the third side?<br>Indicate <u>all</u> such lengths.",
+         "options": [
+          "3",
+          "4",
+          "7",
+          "11",
+          "16",
+          "17"
+         ],
+         "answer": [
+          1,
+          2,
+          3
+         ],
+         "explanation": "<p>By the triangle inequality, the third side must be greater than 9 &minus; 6 = 3 and less than 6 + 9 = 15. The endpoints themselves are not allowed, because they would give a flat (degenerate) triangle.</p><p>Valid choices: <b>4, 7, 11</b>.</p>",
+         "generated": true
+        }
+       }
+      ],
+      "limit": 1260,
+      "done": true
+     },
+     {
+      "answers": [
+       [
+        0
+       ],
+       [
+        1,
+        1
+       ],
+       [
+        1,
+        1
+       ],
+       [
+        1,
+        2,
+        2
+       ],
+       [
+        4
+       ],
+       [
+        0
+       ],
+       [
+        12
+       ],
+       [
+        0,
+        2
+       ],
+       [
+        1,
+        5
+       ],
+       [
+        4,
+        5
+       ],
+       [
+        3
+       ],
+       [
+        4
+       ]
+      ],
+      "marked": [
+       true,
+       true,
+       true,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       true,
+       true,
+       false
+      ],
+      "times": [
+       74.00299999999997,
+       118.50499999999994,
+       26.993999999999996,
+       73.01100000000001,
+       103.48899999999998,
+       13.001999999999999,
+       81.00000000000003,
+       19.5,
+       22.01,
+       65.98300000000002,
+       151.99899999999988,
+       154.5089999999999
+      ],
+      "checked": [
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false
+      ],
+      "cur": 11,
+      "elapsed": 907.5110000000002,
+      "remaining": 172.48899999999892,
+      "measure": "V",
+      "idx": 1,
+      "level": 2,
+      "title": "Verbal Reasoning",
+      "items": [
+       {
+        "q": {
+         "id": "tc010",
+         "type": "tc",
+         "topic": "tc",
+         "difficulty": 2,
+         "text": "Many readers found the novelist's later prose {1}; where her early stories had been spare and exact, her final books sprawl across hundreds of pages of digression.",
+         "options": [
+          [
+           "austere",
+           "prolix",
+           "terse",
+           "cogent",
+           "pithy"
+          ]
+         ],
+         "answer": [
+          1
+         ],
+         "explanation": "The semicolon introduces an explanation: the later books \"sprawl\" with \"digression,\" in contrast to the early \"spare and exact\" stories. Prolix (tediously wordy) fits. Austere, terse, and pithy describe the early style, not the later; cogent concerns persuasiveness, not length."
+        }
+       },
+       {
+        "q": {
+         "id": "tc043",
+         "type": "tc",
+         "topic": "tc",
+         "difficulty": 3,
+         "text": "Though he cultivated a reputation for {1}, the critic was in fact deeply {2}: his supposedly fearless reviews invariably flattered whichever writer happened to hold the most influential post.",
+         "options": [
+          [
+           "independence",
+           "sycophancy",
+           "diffidence"
+          ],
+          [
+           "iconoclastic",
+           "servile",
+           "disinterested"
+          ]
+         ],
+         "answer": [
+          0,
+          1
+         ],
+         "explanation": "\"Supposedly fearless\" shows the reputation was for independence; \"in fact\" reverses it, and flattering the powerful reveals him to be servile. Sycophancy is the reality, not the reputation; diffidence does not match \"fearless\"; iconoclastic and disinterested match the false reputation, not the truth."
+        }
+       },
+       {
+        "q": {
+         "id": "tc048",
+         "type": "tc",
+         "topic": "tc",
+         "difficulty": 3,
+         "text": "The general's reputation for {1} rests largely on a single famous retreat, which admirers interpret as prudence; his detractors, however, see in that same episode evidence of a {2} temperament.",
+         "options": [
+          [
+           "temerity",
+           "caution",
+           "flamboyance"
+          ],
+          [
+           "rash",
+           "magnanimous",
+           "pusillanimous"
+          ]
+         ],
+         "answer": [
+          1,
+          2
+         ],
+         "explanation": "A retreat that admirers call \"prudence\" builds a reputation for caution. \"However\" introduces the detractors' negative reading of the same retreat: cowardice, or a pusillanimous temperament. Temerity (recklessness) and rash contradict a retreat; flamboyance and magnanimous do not fit the episode."
+        }
+       },
+       {
+        "q": {
+         "id": "tc059",
+         "type": "tc",
+         "topic": "tc",
+         "difficulty": 2,
+         "text": "Early accounts of the expedition were {1}, presenting its leader as a flawless hero. Later chroniclers, more {2}, noted his frequent miscalculations, though they too were reluctant to {3} the genuine courage he displayed.",
+         "options": [
+          [
+           "scathing",
+           "hagiographic",
+           "dispassionate"
+          ],
+          [
+           "reverent",
+           "credulous",
+           "skeptical"
+          ],
+          [
+           "impugn",
+           "acknowledge",
+           "celebrate"
+          ]
+         ],
+         "answer": [
+          1,
+          2,
+          0
+         ],
+         "explanation": "Presenting someone as a flawless hero is hagiographic. Chroniclers who noted his errors were more skeptical. \"Though they too\" signals that even they respected him: they were reluctant to impugn (cast doubt on) his courage. Reluctance to acknowledge or celebrate it would contradict \"genuine courage\" and the respectful \"too.\""
+        }
+       },
+       {
+        "q": {
+         "id": "p14q1",
+         "type": "rc-single",
+         "topic": "rc",
+         "difficulty": 1,
+         "prompt": "The primary purpose of the passage is to",
+         "options": [
+          "argue that the island rule applies equally to all groups of animals",
+          "explain why birds do not follow the island rule",
+          "refute the proposed explanations of island gigantism",
+          "present fossil evidence that elephants once lived on Mediterranean islands",
+          "describe a biological pattern, explanations offered for it, and doubts about its generality"
+         ],
+         "answer": [
+          4
+         ],
+         "explanation": "The first paragraph describes the pattern, the second gives explanations, and the third raises doubts about how general it is. The first choice contradicts the third paragraph. The passage reports that birds show a weak trend without explaining why, it presents the explanations without refuting them, and the fossils are only an example."
+        },
+        "pid": "p14"
+       },
+       {
+        "q": {
+         "id": "p14q2",
+         "type": "rc-single",
+         "topic": "rc",
+         "difficulty": 1,
+         "prompt": "According to the passage, the absence of large predators on islands",
+         "options": [
+          "is a factor that may influence body size in both large and small animals",
+          "causes small animals to become smaller over time",
+          "was first documented through fossil evidence",
+          "explains why birds do not follow the island rule",
+          "increases competition among small species"
+         ],
+         "answer": [
+          0
+         ],
+         "explanation": "The absence of predators is cited for large animals (it “removes one of the main advantages of great size”) and again for small ones (“the same absence of predators may relax the pressure to remain small”). For small animals it allows them to grow larger, not smaller, and the passage says competition is reduced, not increased."
+        },
+        "pid": "p14"
+       },
+       {
+        "q": {
+         "id": "p14q3",
+         "type": "rc-select",
+         "topic": "rc",
+         "difficulty": 1,
+         "prompt": "Select the sentence in the passage that suggests a possible source of bias in the evidence originally used to support the island rule.",
+         "answer": [
+          12
+         ],
+         "explanation": "“Critics also note that early descriptions of the rule drew heavily on striking fossil examples, which may have been noticed precisely because they were extreme.” If extreme cases were the ones noticed, the early evidence was skewed toward them."
+        },
+        "pid": "p14"
+       },
+       {
+        "q": {
+         "id": "p14q4",
+         "type": "rc-multi",
+         "topic": "rc",
+         "difficulty": 1,
+         "prompt": "Which of the following can be inferred from the passage? Consider each of the choices separately and select all that apply.",
+         "options": [
+          "On the mainland, small animals may face pressure to remain small enough to hide from predators.",
+          "Island populations of all species eventually reach the same absolute body size.",
+          "The island rule appears to hold more consistently for mammals than for turtles."
+         ],
+         "answer": [
+          0,
+          2
+         ],
+         "explanation": "The first choice follows because the absence of island predators “may relax the pressure to remain small enough to hide,” which implies the pressure exists where predators are present. The third follows because the trend “is strong in … mammals, but weak or absent in … turtles.” The second distorts the claim that populations “converge on a size intermediate between the extremes,” which is a size relative to each group, not a single absolute size shared by all species."
+        },
+        "pid": "p14"
+       },
+       {
+        "q": {
+         "id": "se005",
+         "type": "se",
+         "topic": "se",
+         "difficulty": 1,
+         "text": "The reviewer {1} the film as a shallow, cynical exercise in marketing.",
+         "options": [
+          "lauded",
+          "disparaged",
+          "extolled",
+          "summarized",
+          "produced",
+          "denigrated"
+         ],
+         "answer": [
+          1,
+          5
+         ],
+         "explanation": "Calling the film \"shallow\" and \"cynical\" is harsh criticism: disparaged and denigrated. Lauded and extolled are a pair meaning praised, the opposite. Summarized and produced lack partners and do not fit the evaluative tone."
+        }
+       },
+       {
+        "q": {
+         "id": "se026",
+         "type": "se",
+         "topic": "se",
+         "difficulty": 2,
+         "text": "The poet's early verse, with its {1} imagery and elaborate rhymes, gave way in later years to a spare, almost conversational style.",
+         "options": [
+          "austere",
+          "stark",
+          "vivid",
+          "obscure",
+          "florid",
+          "ornate"
+         ],
+         "answer": [
+          4,
+          5
+         ],
+         "explanation": "Paired with \"elaborate rhymes\" and contrasted with the later \"spare\" style, the imagery must be highly decorated: florid and ornate. Austere and stark form a pair describing the later style. Vivid fits loosely but has no partner and does not capture the contrast with spareness."
+        }
+       },
+       {
+        "q": {
+         "id": "p18q1",
+         "type": "rc-single",
+         "topic": "rc",
+         "difficulty": 3,
+         "prompt": "In the argument, the two portions in boldface play which of the following roles?",
+         "options": [
+          "The first is the argument’s main conclusion; the second is evidence offered in support of that conclusion.",
+          "The first is a claim that the argument rejects as false; the second is the argument’s main conclusion.",
+          "The first is a finding that supports an interpretation the argument endorses; the second is a consideration that weighs against that interpretation.",
+          "The first is a finding that the argument seeks to explain; the second is evidence offered in support of the argument’s prediction.",
+          "The first and the second are both offered as evidence for the analysts’ conclusion."
+         ],
+         "answer": [
+          3
+         ],
+         "explanation": "The first boldface is a fact the argument accepts and explains through falling rents rather than a “durable niche.” The second is a premise (“Since …”) supporting the main conclusion that the number of bookstores “is likely to decline.” The argument rejects the analysts’ interpretation rather than endorsing it, and the second boldface is a premise, not the conclusion."
+        },
+        "pid": "p18"
+       },
+       {
+        "q": {
+         "id": "p02q1",
+         "type": "rc-single",
+         "topic": "rc",
+         "difficulty": 1,
+         "prompt": "Which of the following best expresses the main idea of the passage?",
+         "options": [
+          "Dutch still lifes were intended primarily as warnings against the austerity of Calvinist doctrine.",
+          "Seventeenth-century Dutch buyers generally preferred maps and tavern scenes to still lifes.",
+          "Art historians have consistently misidentified the symbols that appear in Dutch still lifes.",
+          "The popularity of Dutch still lifes declined once buyers recognized their moral content.",
+          "Evidence about how still lifes were bought and displayed complicates the view that they functioned chiefly as moral allegories."
+         ],
+         "answer": [
+          4
+         ],
+         "explanation": "The passage sets out the allegorical reading and then argues that market evidence “sits uneasily” with it, suggesting owners valued the works for virtuosity and luxury. The first choice gets the allegorical reading wrong. The passage does not say that buyers preferred maps, that historians misidentified symbols, or that the genre lost popularity."
+        },
+        "pid": "p02"
+       }
+      ],
+      "limit": 1080,
+      "done": true
+     },
+     {
+      "answers": [
+       [
+        0
+       ],
+       [
+        1
+       ],
+       [
+        1
+       ],
+       [
+        1
+       ],
+       [
+        0
+       ],
+       [
+        4
+       ],
+       "51.244515",
+       {
+        "n": "765454",
+        "d": "900000"
+       },
+       [
+        3
+       ],
+       [
+        0
+       ],
+       "19.7",
+       [
+        3
+       ],
+       [
+        1
+       ],
+       [
+        4
+       ],
+       [
+        0
+       ]
+      ],
+      "marked": [
+       true,
+       true,
+       false,
+       true,
+       true,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false
+      ],
+      "times": [
+       134.518,
+       48,
+       23.004999999999995,
+       100.49600000000004,
+       44.996,
+       60.00500000000001,
+       244.49600000000007,
+       432.0129999999996,
+       64.98899999999999,
+       37.50800000000001,
+       30.491,
+       13.006000000000004,
+       80.005,
+       77.99800000000008,
+       38.49399999999999
+      ],
+      "checked": [
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false
+      ],
+      "cur": 14,
+      "elapsed": 1453.009999999994,
+      "remaining": 106.99000000000721,
+      "measure": "Q",
+      "idx": 2,
+      "level": 3,
+      "title": "Quantitative Reasoning",
+      "items": [
+       {
+        "q": {
+         "id": "gen-prime-factor-qc-c6axs",
+         "type": "qc",
+         "topic": "arithmetic",
+         "difficulty": 1,
+         "meta": {
+          "X": 84,
+          "Y": 247,
+          "kind": "prime",
+          "gen": "prime-factor-qc"
+         },
+         "quantityA": "The number of distinct prime factors of 84",
+         "quantityB": "The number of distinct prime factors of 247",
+         "answer": [
+          0
+         ],
+         "explanation": "<p>84 = 2<sup>2</sup> &times; 3 &times; 7, which gives 3. 247 = 13 &times; 19, which gives 2.</p><p><b>Quantity A is greater</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-prime-factor-qc-dzrzu",
+         "type": "qc",
+         "topic": "arithmetic",
+         "difficulty": 3,
+         "meta": {
+          "kind": "mult",
+          "gen": "prime-factor-qc",
+          "k": 30
+         },
+         "info": "<i>n</i> is a positive integer.",
+         "quantityA": "The number of distinct prime factors of <i>n</i>",
+         "quantityB": "The number of distinct prime factors of 30<i>n</i>",
+         "answer": [
+          3
+         ],
+         "explanation": "<p>If <i>n</i> = 30, both quantities equal 3. If <i>n</i> = 1, Quantity A is 0 and Quantity B is 3. Since 30<i>n</i> has every prime factor of <i>n</i> and possibly more, B &ge; A, but the two can be equal. <b>The relationship cannot be determined</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-geometry-qc-ea18c",
+         "type": "qc",
+         "topic": "geometry",
+         "difficulty": 2,
+         "meta": {
+          "kind": "circumference",
+          "d": 14,
+          "B": 44,
+          "gen": "geometry-qc"
+         },
+         "quantityA": "The circumference of a circle with diameter 14",
+         "quantityB": "44",
+         "answer": [
+          1
+         ],
+         "explanation": "<p>A = 14&pi; &asymp; 43.982.</p><p><b>Quantity B is greater</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-exponent-qc-fgjww",
+         "type": "qc",
+         "topic": "arithmetic",
+         "difficulty": 2,
+         "meta": {
+          "a": 7,
+          "c": 9,
+          "e": 9,
+          "gen": "exponent-qc"
+         },
+         "quantityA": "2<sup>7</sup> &times; 4<sup>9</sup>",
+         "quantityB": "8<sup>9</sup>",
+         "answer": [
+          1
+         ],
+         "explanation": "<p>Write everything as a power of 2. A = 2<sup>7</sup> &times; 2<sup>18</sup> = 2<sup>25</sup>. B = 2<sup>27</sup>.</p><p>Compare the exponents 25 and 27: <b>Quantity B is greater</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-sd-qc-gjzti",
+         "type": "qc",
+         "topic": "data",
+         "difficulty": 3,
+         "meta": {
+          "S": [
+           11,
+           19,
+           23,
+           24,
+           28
+          ],
+          "T": [
+           11,
+           19,
+           23,
+           24,
+           28,
+           21
+          ],
+          "kind": "addmean",
+          "swap": false,
+          "gen": "sd-qc"
+         },
+         "info": "Data set <i>S</i>: 11, 19, 23, 24, 28<br><i>T</i> consists of the values of <i>S</i> together with one additional value, 21.",
+         "quantityA": "The standard deviation of <i>S</i>",
+         "quantityB": "The standard deviation of <i>T</i>",
+         "answer": [
+          0
+         ],
+         "explanation": "<p>Adding a value equal to the mean adds a zero deviation and increases the count, so the standard deviation decreases. (Population SDs: <i>S</i> &asymp; 5.76, <i>T</i> &asymp; 5.26.)</p><p><b>Quantity A is greater</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-arithmetic-sequence-hv9xt",
+         "type": "mc-single",
+         "topic": "algebra",
+         "difficulty": 3,
+         "meta": {
+          "a": 2,
+          "d": -1,
+          "n": 16,
+          "gen": "arithmetic-sequence"
+         },
+         "prompt": "What is the sum of the first 16 terms of the arithmetic sequence 2, 1, 0, &hellip;?",
+         "explanation": "<p>The 16th term is 2 + (15)(&minus;1) = &minus;13. Sum = <span class='frac'><span><i>n</i>(first + last)</span><span>2</span></span> = <span class='frac'><span>16(2 + &minus;13)</span><span>2</span></span> = <b>&minus;88</b>.</p>",
+         "options": [
+          "&minus;208",
+          "&minus;176",
+          "&minus;101",
+          "&minus;90",
+          "&minus;88"
+         ],
+         "answer": [
+          4
+         ],
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-coordinate-ikfxh",
+         "type": "numeric",
+         "topic": "algebra",
+         "difficulty": 3,
+         "meta": {
+          "P": [
+           [
+            -6,
+            -5
+           ],
+           [
+            4,
+            -4
+           ],
+           [
+            6,
+            6
+           ]
+          ],
+          "kind": "area",
+          "gen": "coordinate"
+         },
+         "prompt": "What is the area of the triangle with vertices (&minus;6, &minus;5), (4, &minus;4), and (6, 6) in the <i>xy</i>-plane?",
+         "answer": 49,
+         "explanation": "<p>Enclose the triangle in a 12-by-11 rectangle and subtract the right triangles around it. Alternatively, use the shoelace formula: area = <span class='frac'><span>1</span><span>2</span></span>|<i>x</i><sub>1</sub>(<i>y</i><sub>2</sub> &minus; <i>y</i><sub>3</sub>) + <i>x</i><sub>2</sub>(<i>y</i><sub>3</sub> &minus; <i>y</i><sub>1</sub>) + <i>x</i><sub>3</sub>(<i>y</i><sub>1</sub> &minus; <i>y</i><sub>2</sub>)| = <span class='frac'><span>1</span><span>2</span></span>(98) = <b>49</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "q-a30",
+         "type": "fraction",
+         "topic": "arithmetic",
+         "difficulty": 3,
+         "prompt": "What is the value of <span class='frac'><span>1</span><span>1&times;2</span></span> + <span class='frac'><span>1</span><span>2&times;3</span></span> + <span class='frac'><span>1</span><span>3&times;4</span></span> + &hellip; + <span class='frac'><span>1</span><span>9&times;10</span></span>?",
+         "answer": [
+          9,
+          10
+         ],
+         "explanation": "<p>Each term splits as <span class='frac'><span>1</span><span><i>k</i>(<i>k</i>+1)</span></span> = <span class='frac'><span>1</span><span><i>k</i></span></span> &minus; <span class='frac'><span>1</span><span><i>k</i>+1</span></span>. The sum telescopes:</p><p>(1 &minus; <span class='frac'><span>1</span><span>2</span></span>) + (<span class='frac'><span>1</span><span>2</span></span> &minus; <span class='frac'><span>1</span><span>3</span></span>) + &hellip; + (<span class='frac'><span>1</span><span>9</span></span> &minus; <span class='frac'><span>1</span><span>10</span></span>) = 1 &minus; <span class='frac'><span>1</span><span>10</span></span> = <b><span class='frac'><span>9</span><span>10</span></span></b>.</p>"
+        }
+       },
+       {
+        "q": {
+         "id": "gen-triangle-third-side-jldy",
+         "type": "mc-multi",
+         "topic": "geometry",
+         "difficulty": 2,
+         "meta": {
+          "a": 6,
+          "b": 12,
+          "opts": [
+           5,
+           6,
+           7,
+           12,
+           17,
+           17.5
+          ],
+          "gen": "triangle-third-side"
+         },
+         "prompt": "Two sides of a triangle have lengths 6 and 12. Which of the following could be the length of the third side?<br>Indicate <u>all</u> such lengths.",
+         "options": [
+          "5",
+          "6",
+          "7",
+          "12",
+          "17",
+          "17.5"
+         ],
+         "answer": [
+          2,
+          3,
+          4,
+          5
+         ],
+         "explanation": "<p>By the triangle inequality, the third side must be greater than 12 &minus; 6 = 6 and less than 6 + 12 = 18. The endpoints themselves are not allowed, because they would give a flat (degenerate) triangle.</p><p>Valid choices: <b>7, 12, 17, 17.5</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "ds02-q1",
+         "type": "mc-single",
+         "topic": "data",
+         "difficulty": 2,
+         "prompt": "For which month was the percent increase in sales over the previous month the greatest?",
+         "options": [
+          "February",
+          "March",
+          "April",
+          "May",
+          "June"
+         ],
+         "answer": [
+          0
+         ],
+         "explanation": "<p>Feb: 6/12 = 50%. Mar: decrease. Apr: 7/15 &asymp; 46.7%. May: 5/22 &asymp; 22.7%. Jun: decrease. The greatest is <b>February</b>. April had the largest increase in units (7 thousand), but it started from a larger base.</p>"
+        },
+        "sid": "ds02"
+       },
+       {
+        "q": {
+         "id": "ds02-q2",
+         "type": "numeric",
+         "topic": "data",
+         "difficulty": 2,
+         "prompt": "What was the average (arithmetic mean) monthly sales, in thousands of units, for the six months shown? Round to the nearest tenth.",
+         "answer": 19.7,
+         "after": "thousand units",
+         "explanation": "<p>Total = 12 + 18 + 15 + 22 + 27 + 24 = 118. 118/6 &asymp; 19.67, which rounds to <b>19.7</b>.</p>"
+        },
+        "sid": "ds02"
+       },
+       {
+        "q": {
+         "id": "ds02-q3",
+         "type": "mc-single",
+         "topic": "data",
+         "difficulty": 2,
+         "prompt": "What is the median of the six monthly sales figures, in thousands of units?",
+         "options": [
+          "22",
+          "19.5",
+          "18",
+          "20",
+          "24"
+         ],
+         "answer": [
+          3
+         ],
+         "explanation": "<p>Sorted: 12, 15, 18, 22, 24, 27. Median = (18 + 22)/2 = <b>20</b>. (19.5 is the midrange.)</p>"
+        },
+        "sid": "ds02"
+       },
+       {
+        "q": {
+         "id": "gen-box-solid-km9vr",
+         "type": "mc-single",
+         "topic": "geometry",
+         "difficulty": 2,
+         "meta": {
+          "l": 11,
+          "w": 2,
+          "h": 6,
+          "kind": "surface",
+          "gen": "box-solid"
+         },
+         "prompt": "What is the total surface area of a rectangular box with dimensions 11 by 2 by 6?",
+         "explanation": "<p>SA = 2(<i>lw</i> + <i>lh</i> + <i>wh</i>) = 2(22 + 66 + 12) = <b>200</b>. (Forgetting the factor of 2 gives 100.)</p>",
+         "options": [
+          "100",
+          "200",
+          "220",
+          "240",
+          "244"
+         ],
+         "answer": [
+          1
+         ],
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-units-digit-l673d",
+         "type": "mc-single",
+         "topic": "arithmetic",
+         "difficulty": 2,
+         "meta": {
+          "b": 69,
+          "e": 19,
+          "gen": "units-digit"
+         },
+         "prompt": "What is the units digit of 69<sup>19</sup>?",
+         "explanation": "<p>Only the units digit 9 matters. Its powers end in a repeating cycle of length 4: 9, 1, 9, 1.</p><p>19 leaves remainder 3 when divided by 4, so the units digit is <b>9</b>.</p>",
+         "options": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "9"
+         ],
+         "answer": [
+          4
+         ],
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-counting-mvb0p",
+         "type": "mc-single",
+         "topic": "data",
+         "difficulty": 1,
+         "meta": {
+          "n": 10,
+          "kind": "handshake",
+          "gen": "counting"
+         },
+         "prompt": "At a meeting, each of 10 people shakes hands exactly once with each of the other people. How many handshakes take place?",
+         "explanation": "<p>Each handshake is a pair of people: C(10, 2) = <span class='frac'><span>10 &times; 9</span><span>2</span></span> = <b>45</b>. (90 counts every handshake twice.)</p>",
+         "options": [
+          "45",
+          "55",
+          "90",
+          "100",
+          "120"
+         ],
+         "answer": [
+          0
+         ],
+         "generated": true
+        }
+       }
+      ],
+      "limit": 1560,
+      "done": true
+     },
+     {
+      "answers": [
+       [
+        4
+       ],
+       [
+        0
+       ],
+       [
+        0,
+        0
+       ],
+       [
+        0,
+        2,
+        1
+       ],
+       [
+        2,
+        1,
+        2
+       ],
+       [
+        4
+       ],
+       [
+        0
+       ],
+       [
+        12
+       ],
+       [
+        0,
+        2
+       ],
+       [
+        3,
+        5
+       ],
+       [
+        0,
+        2
+       ],
+       [
+        0,
+        5
+       ],
+       [
+        1
+       ],
+       [
+        0
+       ],
+       [
+        3
+       ]
+      ],
+      "marked": [
+       false,
+       true,
+       true,
+       true,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false
+      ],
+      "times": [
+       16.500999999999998,
+       132.004,
+       44.01300000000001,
+       65.49700000000001,
+       44.001999999999995,
+       17.507999999999992,
+       14.989999999999998,
+       12.001,
+       8.504,
+       28.000999999999998,
+       54.01499999999998,
+       29.990000000000006,
+       47.003999999999984,
+       101.505,
+       49.004
+      ],
+      "checked": [
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false
+      ],
+      "cur": 14,
+      "elapsed": 675.506000000001,
+      "remaining": 704.4939999999997,
+      "measure": "V",
+      "idx": 2,
+      "level": 2,
+      "title": "Verbal Reasoning",
+      "items": [
+       {
+        "q": {
+         "id": "tc015",
+         "type": "tc",
+         "topic": "tc",
+         "difficulty": 2,
+         "text": "Biologists once regarded the trait as {1}, a mere byproduct of other adaptations, but new studies suggest it plays a central role in mate selection.",
+         "options": [
+          [
+           "vital",
+           "adaptive",
+           "heritable",
+           "conspicuous",
+           "incidental"
+          ]
+         ],
+         "answer": [
+          4
+         ],
+         "explanation": "The appositive \"a mere byproduct\" defines the blank, and \"but... central role\" confirms the contrast: incidental. Vital and adaptive describe the new view, not the old; heritable and conspicuous do not match \"mere byproduct.\""
+        }
+       },
+       {
+        "q": {
+         "id": "tc001",
+         "type": "tc",
+         "topic": "tc",
+         "difficulty": 1,
+         "text": "Although the senator was known for long-winded speeches, her remarks at the ceremony were surprisingly {1}, lasting barely two minutes.",
+         "options": [
+          [
+           "prolix",
+           "laconic",
+           "florid",
+           "garrulous",
+           "digressive"
+          ]
+         ],
+         "answer": [
+          1
+         ],
+         "explanation": "\"Although\" sets up a contrast with \"long-winded,\" and \"barely two minutes\" confirms brevity, so the blank needs a word meaning using few words: laconic. Prolix, florid, garrulous, and digressive all describe the long-windedness the sentence says was absent."
+        }
+       },
+       {
+        "q": {
+         "id": "tc041",
+         "type": "tc",
+         "topic": "tc",
+         "difficulty": 2,
+         "text": "The diplomat had a gift for {1}: asked a direct question, she would produce an answer so carefully {2} that both sides could claim she had endorsed their position.",
+         "options": [
+          [
+           "candor",
+           "equivocation",
+           "bluntness"
+          ],
+          [
+           "hedged",
+           "pointed",
+           "incriminating"
+          ]
+         ],
+         "answer": [
+          1,
+          0
+         ],
+         "explanation": "An answer that lets both sides claim her endorsement is deliberately ambiguous: equivocation, produced by carefully hedged phrasing. Candor and bluntness would commit her to one side; pointed and incriminating answers would not satisfy both sides."
+        }
+       },
+       {
+        "q": {
+         "id": "tc056",
+         "type": "tc",
+         "topic": "tc",
+         "difficulty": 2,
+         "text": "Historians long portrayed the regional governor as a {1} administrator who enriched himself at public expense. Recently discovered ledgers, however, suggest a man of unusual {2}: he refused gifts, recorded every expense, and died nearly {3}.",
+         "options": [
+          [
+           "scrupulous",
+           "venal",
+           "indolent"
+          ],
+          [
+           "cupidity",
+           "indolence",
+           "probity"
+          ],
+          [
+           "affluent",
+           "destitute",
+           "celebrated"
+          ]
+         ],
+         "answer": [
+          1,
+          2,
+          1
+         ],
+         "explanation": "Enriching himself at public expense makes him venal (corrupt). \"However\" reverses this: refusing gifts shows probity (integrity). A man who never profited from office died nearly destitute. Cupidity (greed) fits the old portrait, not the new; affluent contradicts his honesty; celebrated is unsupported."
+        }
+       },
+       {
+        "q": {
+         "id": "tc065",
+         "type": "tc",
+         "topic": "tc",
+         "difficulty": 3,
+         "text": "Few scientists today would defend the theory in its original form, yet it would be a mistake to regard it as merely {1}. Its central insight (that organisms actively shape the environments to which they adapt) was {2} rather than refuted by subsequent research, which retained the idea while discarding the {3} mechanism its originator proposed to explain it.",
+         "options": [
+          [
+           "prescient",
+           "influential",
+           "obsolete"
+          ],
+          [
+           "discredited",
+           "absorbed",
+           "anticipated"
+          ],
+          [
+           "corroborated",
+           "empirical",
+           "erroneous"
+          ]
+         ],
+         "answer": [
+          2,
+          1,
+          2
+         ],
+         "explanation": "\"Few would defend it... yet it would be a mistake\" means it should not be dismissed as merely obsolete. \"Rather than refuted\" and \"retained the idea\" call for absorbed. A mechanism that was discarded and that no one now defends was erroneous. Prescient and influential are not dismissive; discredited means refuted; anticipated reverses chronology; a corroborated mechanism would not be discarded."
+        }
+       },
+       {
+        "q": {
+         "id": "p14q1",
+         "type": "rc-single",
+         "topic": "rc",
+         "difficulty": 1,
+         "prompt": "The primary purpose of the passage is to",
+         "options": [
+          "argue that the island rule applies equally to all groups of animals",
+          "explain why birds do not follow the island rule",
+          "refute the proposed explanations of island gigantism",
+          "present fossil evidence that elephants once lived on Mediterranean islands",
+          "describe a biological pattern, explanations offered for it, and doubts about its generality"
+         ],
+         "answer": [
+          4
+         ],
+         "explanation": "The first paragraph describes the pattern, the second gives explanations, and the third raises doubts about how general it is. The first choice contradicts the third paragraph. The passage reports that birds show a weak trend without explaining why, it presents the explanations without refuting them, and the fossils are only an example."
+        },
+        "pid": "p14"
+       },
+       {
+        "q": {
+         "id": "p14q2",
+         "type": "rc-single",
+         "topic": "rc",
+         "difficulty": 1,
+         "prompt": "According to the passage, the absence of large predators on islands",
+         "options": [
+          "is a factor that may influence body size in both large and small animals",
+          "causes small animals to become smaller over time",
+          "was first documented through fossil evidence",
+          "explains why birds do not follow the island rule",
+          "increases competition among small species"
+         ],
+         "answer": [
+          0
+         ],
+         "explanation": "The absence of predators is cited for large animals (it “removes one of the main advantages of great size”) and again for small ones (“the same absence of predators may relax the pressure to remain small”). For small animals it allows them to grow larger, not smaller, and the passage says competition is reduced, not increased."
+        },
+        "pid": "p14"
+       },
+       {
+        "q": {
+         "id": "p14q3",
+         "type": "rc-select",
+         "topic": "rc",
+         "difficulty": 1,
+         "prompt": "Select the sentence in the passage that suggests a possible source of bias in the evidence originally used to support the island rule.",
+         "answer": [
+          12
+         ],
+         "explanation": "“Critics also note that early descriptions of the rule drew heavily on striking fossil examples, which may have been noticed precisely because they were extreme.” If extreme cases were the ones noticed, the early evidence was skewed toward them."
+        },
+        "pid": "p14"
+       },
+       {
+        "q": {
+         "id": "p14q4",
+         "type": "rc-multi",
+         "topic": "rc",
+         "difficulty": 1,
+         "prompt": "Which of the following can be inferred from the passage? Consider each of the choices separately and select all that apply.",
+         "options": [
+          "On the mainland, small animals may face pressure to remain small enough to hide from predators.",
+          "Island populations of all species eventually reach the same absolute body size.",
+          "The island rule appears to hold more consistently for mammals than for turtles."
+         ],
+         "answer": [
+          0,
+          2
+         ],
+         "explanation": "The first choice follows because the absence of island predators “may relax the pressure to remain small enough to hide,” which implies the pressure exists where predators are present. The third follows because the trend “is strong in … mammals, but weak or absent in … turtles.” The second distorts the claim that populations “converge on a size intermediate between the extremes,” which is a size relative to each group, not a single absolute size shared by all species."
+        },
+        "pid": "p14"
+       },
+       {
+        "q": {
+         "id": "se028",
+         "type": "se",
+         "topic": "se",
+         "difficulty": 2,
+         "text": "Initially a minor movement, the protest {1} into a national campaign within months.",
+         "options": [
+          "dwindled",
+          "burgeoned",
+          "waned",
+          "evolved",
+          "fragmented",
+          "mushroomed"
+         ],
+         "answer": [
+          1,
+          5
+         ],
+         "explanation": "Going from minor to national within months is rapid growth: burgeoned and mushroomed. Dwindled and waned form a pair meaning shrank. Evolved fits grammatically but lacks the sense of rapid growth and has no partner; fragmented contradicts a unified national campaign."
+        }
+       },
+       {
+        "q": {
+         "id": "se045",
+         "type": "se",
+         "topic": "se",
+         "difficulty": 3,
+         "text": "The once-{1} critic has mellowed with age; his recent reviews are notable for their generosity toward young writers.",
+         "options": [
+          "magnanimous",
+          "indulgent",
+          "acerbic",
+          "prolific",
+          "obscure",
+          "caustic"
+         ],
+         "answer": [
+          2,
+          5
+         ],
+         "explanation": "\"Once\" and \"has mellowed\" imply he used to be harsh: acerbic and caustic. Magnanimous and indulgent form a pair that describes his current generosity, not his former manner. Prolific and obscure lack partners and are unrelated to mellowing."
+        }
+       },
+       {
+        "q": {
+         "id": "se022",
+         "type": "se",
+         "topic": "se",
+         "difficulty": 2,
+         "text": "The new evidence {1} the defendant's alibi, making his conviction far less likely.",
+         "options": [
+          "corroborated",
+          "undermined",
+          "impugned",
+          "fabricated",
+          "ignored",
+          "substantiated"
+         ],
+         "answer": [
+          0,
+          5
+         ],
+         "explanation": "Evidence that makes conviction less likely supports the alibi: corroborated and substantiated. Undermined and impugned form a pair, but weakening the alibi would make conviction more likely. Fabricated and ignored lack partners."
+        }
+       },
+       {
+        "q": {
+         "id": "p19q1",
+         "type": "rc-single",
+         "topic": "rc",
+         "difficulty": 2,
+         "prompt": "Which of the following, if true, most helps to resolve the apparent discrepancy described above?",
+         "options": [
+          "A competing airline also reduced its fares on the route between Arden and Brell.",
+          "To accommodate the additional passengers, the airline added several daily flights to the route, and the cost of operating those flights exceeded the additional revenue they generated.",
+          "Most of the new passengers had previously traveled between Arden and Brell by train.",
+          "The airline’s profits on its other routes rose during the same period.",
+          "Before the fare cut, the route between Arden and Brell had been among the airline’s most profitable."
+         ],
+         "answer": [
+          1
+         ],
+         "explanation": "Profit can fall while revenue rises only if costs rose by more. Extra flights that cost more than the revenue they brought in explain the outcome. A competitor’s fare cut, the passengers’ previous mode of travel, and other routes’ profits do not explain why this route’s costs exceeded its revenue gain. The route’s earlier profitability does not explain the decline either."
+        },
+        "pid": "p19"
+       },
+       {
+        "q": {
+         "id": "p05q1",
+         "type": "rc-single",
+         "topic": "rc",
+         "difficulty": 1,
+         "prompt": "The primary purpose of the passage is to",
+         "options": [
+          "describe a view that revises the traditional account of the sources of early modern economic growth",
+          "argue that new machines played no role in early modern economic growth",
+          "compare the economies of northwestern Europe with those of other regions",
+          "explain why early modern families preferred purchased goods to homemade ones",
+          "criticize historians who emphasize the behavior of households"
+         ],
+         "answer": [
+          0
+         ],
+         "explanation": "The passage summarizes the traditional, production-centered account and then presents a view that puts an earlier change in household behavior ahead of it. The second choice is too extreme, since the revision adds a precondition and does not deny that machines mattered. The passage makes no comparison between regions, and it reports the household-centered view without criticizing it."
+        },
+        "pid": "p05"
+       },
+       {
+        "q": {
+         "id": "p05q2",
+         "type": "rc-single",
+         "topic": "rc",
+         "difficulty": 1,
+         "prompt": "According to the view described in the passage, the household transformation involved",
+         "options": [
+          "families abandoning market work in favor of producing their own goods",
+          "the introduction of new machines into domestic production",
+          "a decline in demand for imported goods such as sugar",
+          "a shift in how family members allocated their time",
+          "the replacement of household labor by factory labor"
+         ],
+         "answer": [
+          3
+         ],
+         "explanation": "Families “reallocated their time away from leisure and household self-provisioning and toward market work.” The first choice reverses that direction. Machines and factories belong to the traditional account, and demand for goods such as sugar rose."
+        },
+        "pid": "p05"
+       }
+      ],
+      "limit": 1380,
+      "done": true
+     }
+    ],
+    "scores": {
+     "V": 157,
+     "Q": 162
+    }
+   },
    {
     "id": "mvqtco9l3qdww",
     "mode": "V",
@@ -4604,60 +9320,60 @@
   ],
   "gre.stats": {
    "tc": {
-    "c": 18,
-    "t": 27
+    "c": 20,
+    "t": 40
    },
    "rc-single": {
-    "c": 23,
-    "t": 24
+    "c": 32,
+    "t": 37
    },
    "rc-select": {
-    "c": 3,
-    "t": 7
+    "c": 5,
+    "t": 10
    },
    "rc-multi": {
-    "c": 8,
-    "t": 8
-   },
-   "se": {
-    "c": 8,
-    "t": 15
-   },
-   "qc": {
-    "c": 20,
-    "t": 27
-   },
-   "topic:algebra": {
-    "c": 18,
-    "t": 19
-   },
-   "topic:arithmetic": {
-    "c": 11,
-    "t": 18
-   },
-   "topic:data": {
-    "c": 22,
-    "t": 26
-   },
-   "topic:geometry": {
     "c": 10,
-    "t": 18
-   },
-   "mc-multi": {
-    "c": 9,
     "t": 11
    },
+   "se": {
+    "c": 11,
+    "t": 22
+   },
+   "qc": {
+    "c": 51,
+    "t": 63
+   },
+   "topic:algebra": {
+    "c": 34,
+    "t": 36
+   },
+   "topic:arithmetic": {
+    "c": 39,
+    "t": 54
+   },
+   "topic:data": {
+    "c": 50,
+    "t": 59
+   },
+   "topic:geometry": {
+    "c": 28,
+    "t": 40
+   },
+   "mc-multi": {
+    "c": 18,
+    "t": 24
+   },
    "mc-single": {
-    "c": 22,
-    "t": 28
+    "c": 56,
+    "t": 67
    },
    "numeric": {
-    "c": 10,
-    "t": 14
+    "c": 24,
+    "t": 30
    },
    "fraction": {
-    "c": 0,
-    "t": 1
+    "c": 2,
+    "t": 5
    }
   },
   "gre.seen": {
@@ -4671,7 +9387,7 @@
    "p15q4": 1,
    "se014": 1,
    "se041": 1,
-   "p19q1": 1,
+   "p19q1": 2,
    "p07q1": 1,
    "tc024": 1,
    "tc012": 1,
@@ -4876,7 +9592,134 @@
    "se027": 1,
    "p17q1": 1,
    "p06q1": 1,
-   "p06q2": 1
+   "p06q2": 1,
+   "gen-prime-factor-qc-1nvbe": 1,
+   "gen-exponent-qc-2izei": 1,
+   "gen-geometry-qc-39oqx": 1,
+   "gen-prime-factor-qc-47zu9": 1,
+   "gen-stats-multi-5eg8q": 1,
+   "gen-normal-distribution-6p12n": 1,
+   "gen-divisor-count-716ks": 1,
+   "gen-remainder-810vl": 1,
+   "gen-units-digit-9ijn6": 1,
+   "q-b29": 1,
+   "gen-arithmetic-sequence-aeumv": 1,
+   "gen-triangle-third-side-btg5n": 1,
+   "tc010": 1,
+   "tc043": 1,
+   "tc048": 1,
+   "tc059": 1,
+   "p14q1": 2,
+   "p14q2": 2,
+   "p14q3": 2,
+   "p14q4": 2,
+   "se005": 1,
+   "se026": 1,
+   "p18q1": 1,
+   "p02q1": 1,
+   "gen-prime-factor-qc-c6axs": 1,
+   "gen-prime-factor-qc-dzrzu": 1,
+   "gen-geometry-qc-ea18c": 1,
+   "gen-exponent-qc-fgjww": 1,
+   "gen-sd-qc-gjzti": 1,
+   "gen-arithmetic-sequence-hv9xt": 1,
+   "gen-coordinate-ikfxh": 1,
+   "q-a30": 1,
+   "gen-triangle-third-side-jldy": 1,
+   "ds02-q1": 1,
+   "ds02-q2": 1,
+   "ds02-q3": 1,
+   "gen-box-solid-km9vr": 1,
+   "gen-units-digit-l673d": 1,
+   "gen-counting-mvb0p": 1,
+   "tc015": 1,
+   "tc001": 1,
+   "tc041": 1,
+   "tc056": 1,
+   "tc065": 1,
+   "se028": 1,
+   "se045": 1,
+   "se022": 1,
+   "p05q1": 1,
+   "p05q2": 1,
+   "gen-prime-factor-qc-nhdq9": 1,
+   "gen-prime-factor-qc-omlpx": 1,
+   "gen-prime-factor-qc-p434q": 1,
+   "gen-geometry-qc-qsab8": 1,
+   "gen-circle-rx8t9": 1,
+   "gen-median-mode-sx4j8": 1,
+   "gen-pythagorean-tshw7": 1,
+   "gen-primes-multi-uae8r": 1,
+   "gen-normal-distribution-vi1g9": 1,
+   "gen-function-eval-wigas": 1,
+   "gen-quadratic-roots-xwq5c": 1,
+   "gen-arithmetic-sequence-y3xn5": 1,
+   "gen-prime-factor-qc-z66sv": 1,
+   "gen-exponent-qc-107bki": 1,
+   "gen-exponent-qc-119j3q": 1,
+   "gen-geometry-qc-12uhe": 1,
+   "gen-geometry-qc-13cto1": 1,
+   "gen-divisor-count-14ps2z": 1,
+   "gen-percent-change-15ig89": 1,
+   "gen-remainder-161jz5": 1,
+   "gen-stats-multi-17jzjh": 1,
+   "ds08-q1": 1,
+   "ds08-q2": 1,
+   "ds08-q3": 1,
+   "gen-counting-188cxm": 1,
+   "gen-normal-distribution-192c2q": 1,
+   "gen-polygon-angles-1asjuy": 1,
+   "gen-geometry-qc-1bstu6": 1,
+   "gen-algebra-qc-1cbvb4": 1,
+   "gen-exponent-qc-1d47ci": 1,
+   "gen-geometry-qc-1ecrpb": 1,
+   "gen-circle-1fecu6": 1,
+   "gen-quadratic-roots-1gbb4o": 1,
+   "gen-quadratic-roots-1hg5h1": 1,
+   "gen-mean-missing-1ijyss": 1,
+   "gen-percent-change-1jd6lg": 1,
+   "gen-ratio-share-1ko305": 1,
+   "gen-percent-change-1lspro": 1,
+   "gen-remainder-1m50t6": 1,
+   "gen-prime-factor-qc-1nltzx": 1,
+   "gen-prime-factor-qc-1otn8f": 1,
+   "gen-sd-qc-1prlrw": 1,
+   "gen-algebra-qc-1qwyqr": 1,
+   "gen-exponent-qc-1rkgl": 1,
+   "gen-normal-distribution-1s48wa": 1,
+   "gen-special-right-triangle-1tlddx": 1,
+   "gen-gcd-lcm-1uoqbb": 1,
+   "gen-triangle-third-side-1v6dyp": 1,
+   "ds04-q1": 2,
+   "ds04-q2": 2,
+   "ds04-q3": 2,
+   "gen-dice-probability-1wowxr": 1,
+   "gen-arithmetic-sequence-1xeuf7": 1,
+   "gen-pythagorean-1yddqp": 1,
+   "gen-sd-qc-1zpj3h": 1,
+   "gen-sd-qc-20sigd": 1,
+   "gen-geometry-qc-21t1ge": 1,
+   "gen-algebra-qc-22qh19": 1,
+   "gen-arithmetic-sequence-231i3o": 1,
+   "gen-mean-missing-248f4f": 1,
+   "gen-linear-system-25uweu": 1,
+   "gen-quadratic-roots-26xyb2": 1,
+   "gen-gcd-lcm-27edlw": 1,
+   "gen-median-mode-28ixtc": 1,
+   "gen-special-right-triangle-291539": 1,
+   "gen-triangle-third-side-2aq5hg": 1,
+   "gen-exponent-qc-2b78o1": 1,
+   "gen-geometry-qc-2c4atv": 1,
+   "gen-algebra-qc-2d7es4": 1,
+   "gen-prime-factor-qc-2e7j1w": 1,
+   "gen-sd-qc-2f8glw": 1,
+   "gen-fraction-arithmetic-2g84cs": 1,
+   "gen-units-digit-2hx2ng": 1,
+   "gen-box-solid-2iekq1": 1,
+   "gen-weighted-average-2j8v3e": 1,
+   "gen-stats-multi-2k8o2p": 1,
+   "gen-median-mode-2lzqnn": 1,
+   "gen-units-digit-2me8so": 1
   },
   "gre.mistakes": {
    "tc039": {
@@ -5657,7 +10500,7 @@
      "explanation": "The passage is about novels “issued monthly or weekly” in installments. Readers discussed each issue as it appeared, so “number” means a single installment of a serial publication."
     },
     "pid": "p13",
-    "t": 1793114900513
+    "t": 1795029503798
    },
    "tc030": {
     "q": {
@@ -5723,11 +10566,1012 @@
      "explanation": "Switching positions week to week is vacillation, or wavering. Intransigence and obduracy form a pair meaning stubborn inflexibility, the opposite. Silence contradicts taking public positions; eloquence lacks a partner."
     },
     "t": 1793116186925
+   },
+   "gen-normal-distribution-6p12n": {
+    "q": {
+     "id": "gen-normal-distribution-6p12n",
+     "type": "mc-single",
+     "topic": "data",
+     "difficulty": 2,
+     "meta": {
+      "mu": 200,
+      "sg": 15,
+      "lo": -99,
+      "hi": 1,
+      "N": 0,
+      "p": 84,
+      "gen": "normal-distribution"
+     },
+     "prompt": "The values of a large population are approximately normally distributed with mean 200 and standard deviation 15. Approximately what percent of the values are less than 215?",
+     "options": [
+      "5%",
+      "68%",
+      "84%",
+      "95%",
+      "97.5%"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "<p>Convert to standard deviations from the mean: 215 is +1 SD.</p><p>Using the approximate normal percentages (34% between the mean and 1 SD, 13.5% between 1 and 2 SD, 2.5% beyond 2 SD on each side), the region holds about 84%, so the answer is <b>84%</b>.</p>",
+     "generated": true
+    },
+    "t": 1794946828433
+   },
+   "gen-units-digit-9ijn6": {
+    "q": {
+     "id": "gen-units-digit-9ijn6",
+     "type": "mc-single",
+     "topic": "arithmetic",
+     "difficulty": 2,
+     "meta": {
+      "b": 47,
+      "e": 54,
+      "gen": "units-digit"
+     },
+     "prompt": "What is the units digit of 47<sup>54</sup>?",
+     "explanation": "<p>Only the units digit 7 matters. Its powers end in a repeating cycle of length 4: 7, 9, 3, 1.</p><p>54 leaves remainder 2 when divided by 4, so the units digit is <b>9</b>.</p>",
+     "options": [
+      "3",
+      "4",
+      "7",
+      "8",
+      "9"
+     ],
+     "answer": [
+      4
+     ],
+     "generated": true
+    },
+    "t": 1794946828433
+   },
+   "gen-triangle-third-side-btg5n": {
+    "q": {
+     "id": "gen-triangle-third-side-btg5n",
+     "type": "mc-multi",
+     "topic": "geometry",
+     "difficulty": 1,
+     "meta": {
+      "a": 6,
+      "b": 9,
+      "opts": [
+       3,
+       4,
+       7,
+       11,
+       16,
+       17
+      ],
+      "gen": "triangle-third-side"
+     },
+     "prompt": "Two sides of a triangle have lengths 6 and 9. Which of the following could be the length of the third side?<br>Indicate <u>all</u> such lengths.",
+     "options": [
+      "3",
+      "4",
+      "7",
+      "11",
+      "16",
+      "17"
+     ],
+     "answer": [
+      1,
+      2,
+      3
+     ],
+     "explanation": "<p>By the triangle inequality, the third side must be greater than 9 &minus; 6 = 3 and less than 6 + 9 = 15. The endpoints themselves are not allowed, because they would give a flat (degenerate) triangle.</p><p>Valid choices: <b>4, 7, 11</b>.</p>",
+     "generated": true
+    },
+    "t": 1794946828433
+   },
+   "tc010": {
+    "q": {
+     "id": "tc010",
+     "type": "tc",
+     "topic": "tc",
+     "difficulty": 2,
+     "text": "Many readers found the novelist's later prose {1}; where her early stories had been spare and exact, her final books sprawl across hundreds of pages of digression.",
+     "options": [
+      [
+       "austere",
+       "prolix",
+       "terse",
+       "cogent",
+       "pithy"
+      ]
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "The semicolon introduces an explanation: the later books \"sprawl\" with \"digression,\" in contrast to the early \"spare and exact\" stories. Prolix (tediously wordy) fits. Austere, terse, and pithy describe the early style, not the later; cogent concerns persuasiveness, not length."
+    },
+    "t": 1794947794600
+   },
+   "tc043": {
+    "q": {
+     "id": "tc043",
+     "type": "tc",
+     "topic": "tc",
+     "difficulty": 3,
+     "text": "Though he cultivated a reputation for {1}, the critic was in fact deeply {2}: his supposedly fearless reviews invariably flattered whichever writer happened to hold the most influential post.",
+     "options": [
+      [
+       "independence",
+       "sycophancy",
+       "diffidence"
+      ],
+      [
+       "iconoclastic",
+       "servile",
+       "disinterested"
+      ]
+     ],
+     "answer": [
+      0,
+      1
+     ],
+     "explanation": "\"Supposedly fearless\" shows the reputation was for independence; \"in fact\" reverses it, and flattering the powerful reveals him to be servile. Sycophancy is the reality, not the reputation; diffidence does not match \"fearless\"; iconoclastic and disinterested match the false reputation, not the truth."
+    },
+    "t": 1794947794600
+   },
+   "tc048": {
+    "q": {
+     "id": "tc048",
+     "type": "tc",
+     "topic": "tc",
+     "difficulty": 3,
+     "text": "The general's reputation for {1} rests largely on a single famous retreat, which admirers interpret as prudence; his detractors, however, see in that same episode evidence of a {2} temperament.",
+     "options": [
+      [
+       "temerity",
+       "caution",
+       "flamboyance"
+      ],
+      [
+       "rash",
+       "magnanimous",
+       "pusillanimous"
+      ]
+     ],
+     "answer": [
+      1,
+      2
+     ],
+     "explanation": "A retreat that admirers call \"prudence\" builds a reputation for caution. \"However\" introduces the detractors' negative reading of the same retreat: cowardice, or a pusillanimous temperament. Temerity (recklessness) and rash contradict a retreat; flamboyance and magnanimous do not fit the episode."
+    },
+    "t": 1794947794600
+   },
+   "tc059": {
+    "q": {
+     "id": "tc059",
+     "type": "tc",
+     "topic": "tc",
+     "difficulty": 2,
+     "text": "Early accounts of the expedition were {1}, presenting its leader as a flawless hero. Later chroniclers, more {2}, noted his frequent miscalculations, though they too were reluctant to {3} the genuine courage he displayed.",
+     "options": [
+      [
+       "scathing",
+       "hagiographic",
+       "dispassionate"
+      ],
+      [
+       "reverent",
+       "credulous",
+       "skeptical"
+      ],
+      [
+       "impugn",
+       "acknowledge",
+       "celebrate"
+      ]
+     ],
+     "answer": [
+      1,
+      2,
+      0
+     ],
+     "explanation": "Presenting someone as a flawless hero is hagiographic. Chroniclers who noted his errors were more skeptical. \"Though they too\" signals that even they respected him: they were reluctant to impugn (cast doubt on) his courage. Reluctance to acknowledge or celebrate it would contradict \"genuine courage\" and the respectful \"too.\""
+    },
+    "t": 1794947794600
+   },
+   "gen-prime-factor-qc-dzrzu": {
+    "q": {
+     "id": "gen-prime-factor-qc-dzrzu",
+     "type": "qc",
+     "topic": "arithmetic",
+     "difficulty": 3,
+     "meta": {
+      "kind": "mult",
+      "gen": "prime-factor-qc",
+      "k": 30
+     },
+     "info": "<i>n</i> is a positive integer.",
+     "quantityA": "The number of distinct prime factors of <i>n</i>",
+     "quantityB": "The number of distinct prime factors of 30<i>n</i>",
+     "answer": [
+      3
+     ],
+     "explanation": "<p>If <i>n</i> = 30, both quantities equal 3. If <i>n</i> = 1, Quantity A is 0 and Quantity B is 3. Since 30<i>n</i> has every prime factor of <i>n</i> and possibly more, B &ge; A, but the two can be equal. <b>The relationship cannot be determined</b>.</p>",
+     "generated": true
+    },
+    "t": 1794949457315
+   },
+   "gen-coordinate-ikfxh": {
+    "q": {
+     "id": "gen-coordinate-ikfxh",
+     "type": "numeric",
+     "topic": "algebra",
+     "difficulty": 3,
+     "meta": {
+      "P": [
+       [
+        -6,
+        -5
+       ],
+       [
+        4,
+        -4
+       ],
+       [
+        6,
+        6
+       ]
+      ],
+      "kind": "area",
+      "gen": "coordinate"
+     },
+     "prompt": "What is the area of the triangle with vertices (&minus;6, &minus;5), (4, &minus;4), and (6, 6) in the <i>xy</i>-plane?",
+     "answer": 49,
+     "explanation": "<p>Enclose the triangle in a 12-by-11 rectangle and subtract the right triangles around it. Alternatively, use the shoelace formula: area = <span class='frac'><span>1</span><span>2</span></span>|<i>x</i><sub>1</sub>(<i>y</i><sub>2</sub> &minus; <i>y</i><sub>3</sub>) + <i>x</i><sub>2</sub>(<i>y</i><sub>3</sub> &minus; <i>y</i><sub>1</sub>) + <i>x</i><sub>3</sub>(<i>y</i><sub>1</sub> &minus; <i>y</i><sub>2</sub>)| = <span class='frac'><span>1</span><span>2</span></span>(98) = <b>49</b>.</p>",
+     "generated": true
+    },
+    "t": 1794949457315
+   },
+   "q-a30": {
+    "q": {
+     "id": "q-a30",
+     "type": "fraction",
+     "topic": "arithmetic",
+     "difficulty": 3,
+     "prompt": "What is the value of <span class='frac'><span>1</span><span>1&times;2</span></span> + <span class='frac'><span>1</span><span>2&times;3</span></span> + <span class='frac'><span>1</span><span>3&times;4</span></span> + &hellip; + <span class='frac'><span>1</span><span>9&times;10</span></span>?",
+     "answer": [
+      9,
+      10
+     ],
+     "explanation": "<p>Each term splits as <span class='frac'><span>1</span><span><i>k</i>(<i>k</i>+1)</span></span> = <span class='frac'><span>1</span><span><i>k</i></span></span> &minus; <span class='frac'><span>1</span><span><i>k</i>+1</span></span>. The sum telescopes:</p><p>(1 &minus; <span class='frac'><span>1</span><span>2</span></span>) + (<span class='frac'><span>1</span><span>2</span></span> &minus; <span class='frac'><span>1</span><span>3</span></span>) + &hellip; + (<span class='frac'><span>1</span><span>9</span></span> &minus; <span class='frac'><span>1</span><span>10</span></span>) = 1 &minus; <span class='frac'><span>1</span><span>10</span></span> = <b><span class='frac'><span>9</span><span>10</span></span></b>.</p>"
+    },
+    "t": 1794949457315
+   },
+   "gen-triangle-third-side-jldy": {
+    "q": {
+     "id": "gen-triangle-third-side-jldy",
+     "type": "mc-multi",
+     "topic": "geometry",
+     "difficulty": 2,
+     "meta": {
+      "a": 6,
+      "b": 12,
+      "opts": [
+       5,
+       6,
+       7,
+       12,
+       17,
+       17.5
+      ],
+      "gen": "triangle-third-side"
+     },
+     "prompt": "Two sides of a triangle have lengths 6 and 12. Which of the following could be the length of the third side?<br>Indicate <u>all</u> such lengths.",
+     "options": [
+      "5",
+      "6",
+      "7",
+      "12",
+      "17",
+      "17.5"
+     ],
+     "answer": [
+      2,
+      3,
+      4,
+      5
+     ],
+     "explanation": "<p>By the triangle inequality, the third side must be greater than 12 &minus; 6 = 6 and less than 6 + 12 = 18. The endpoints themselves are not allowed, because they would give a flat (degenerate) triangle.</p><p>Valid choices: <b>7, 12, 17, 17.5</b>.</p>",
+     "generated": true
+    },
+    "t": 1794949457315
+   },
+   "tc001": {
+    "q": {
+     "id": "tc001",
+     "type": "tc",
+     "topic": "tc",
+     "difficulty": 1,
+     "text": "Although the senator was known for long-winded speeches, her remarks at the ceremony were surprisingly {1}, lasting barely two minutes.",
+     "options": [
+      [
+       "prolix",
+       "laconic",
+       "florid",
+       "garrulous",
+       "digressive"
+      ]
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "\"Although\" sets up a contrast with \"long-winded,\" and \"barely two minutes\" confirms brevity, so the blank needs a word meaning using few words: laconic. Prolix, florid, garrulous, and digressive all describe the long-windedness the sentence says was absent."
+    },
+    "t": 1794950186812
+   },
+   "tc041": {
+    "q": {
+     "id": "tc041",
+     "type": "tc",
+     "topic": "tc",
+     "difficulty": 2,
+     "text": "The diplomat had a gift for {1}: asked a direct question, she would produce an answer so carefully {2} that both sides could claim she had endorsed their position.",
+     "options": [
+      [
+       "candor",
+       "equivocation",
+       "bluntness"
+      ],
+      [
+       "hedged",
+       "pointed",
+       "incriminating"
+      ]
+     ],
+     "answer": [
+      1,
+      0
+     ],
+     "explanation": "An answer that lets both sides claim her endorsement is deliberately ambiguous: equivocation, produced by carefully hedged phrasing. Candor and bluntness would commit her to one side; pointed and incriminating answers would not satisfy both sides."
+    },
+    "t": 1794950186812
+   },
+   "tc056": {
+    "q": {
+     "id": "tc056",
+     "type": "tc",
+     "topic": "tc",
+     "difficulty": 2,
+     "text": "Historians long portrayed the regional governor as a {1} administrator who enriched himself at public expense. Recently discovered ledgers, however, suggest a man of unusual {2}: he refused gifts, recorded every expense, and died nearly {3}.",
+     "options": [
+      [
+       "scrupulous",
+       "venal",
+       "indolent"
+      ],
+      [
+       "cupidity",
+       "indolence",
+       "probity"
+      ],
+      [
+       "affluent",
+       "destitute",
+       "celebrated"
+      ]
+     ],
+     "answer": [
+      1,
+      2,
+      1
+     ],
+     "explanation": "Enriching himself at public expense makes him venal (corrupt). \"However\" reverses this: refusing gifts shows probity (integrity). A man who never profited from office died nearly destitute. Cupidity (greed) fits the old portrait, not the new; affluent contradicts his honesty; celebrated is unsupported."
+    },
+    "t": 1794950186812
+   },
+   "se028": {
+    "q": {
+     "id": "se028",
+     "type": "se",
+     "topic": "se",
+     "difficulty": 2,
+     "text": "Initially a minor movement, the protest {1} into a national campaign within months.",
+     "options": [
+      "dwindled",
+      "burgeoned",
+      "waned",
+      "evolved",
+      "fragmented",
+      "mushroomed"
+     ],
+     "answer": [
+      1,
+      5
+     ],
+     "explanation": "Going from minor to national within months is rapid growth: burgeoned and mushroomed. Dwindled and waned form a pair meaning shrank. Evolved fits grammatically but lacks the sense of rapid growth and has no partner; fragmented contradicts a unified national campaign."
+    },
+    "t": 1794950186812
+   },
+   "se045": {
+    "q": {
+     "id": "se045",
+     "type": "se",
+     "topic": "se",
+     "difficulty": 3,
+     "text": "The once-{1} critic has mellowed with age; his recent reviews are notable for their generosity toward young writers.",
+     "options": [
+      "magnanimous",
+      "indulgent",
+      "acerbic",
+      "prolific",
+      "obscure",
+      "caustic"
+     ],
+     "answer": [
+      2,
+      5
+     ],
+     "explanation": "\"Once\" and \"has mellowed\" imply he used to be harsh: acerbic and caustic. Magnanimous and indulgent form a pair that describes his current generosity, not his former manner. Prolific and obscure lack partners and are unrelated to mellowing."
+    },
+    "t": 1794950186812
+   },
+   "gen-prime-factor-qc-omlpx": {
+    "q": {
+     "id": "gen-prime-factor-qc-omlpx",
+     "type": "qc",
+     "topic": "arithmetic",
+     "difficulty": 2,
+     "meta": {
+      "X": 1995,
+      "Y": 1936,
+      "kind": "div",
+      "gen": "prime-factor-qc"
+     },
+     "quantityA": "The number of positive divisors of 1995",
+     "quantityB": "The number of positive divisors of 1936",
+     "answer": [
+      0
+     ],
+     "explanation": "<p>1995 = 3 &times; 5 &times; 7 &times; 19, which gives (1 + 1)(1 + 1)(1 + 1)(1 + 1) = 16. 1936 = 2<sup>4</sup> &times; 11<sup>2</sup>, which gives (4 + 1)(2 + 1) = 15.</p><p><b>Quantity A is greater</b>.</p>",
+     "generated": true
+    },
+    "t": 1794954883390
+   },
+   "gen-normal-distribution-vi1g9": {
+    "q": {
+     "id": "gen-normal-distribution-vi1g9",
+     "type": "mc-single",
+     "topic": "data",
+     "difficulty": 1,
+     "meta": {
+      "mu": 100,
+      "sg": 15,
+      "lo": -1,
+      "hi": 1,
+      "N": 0,
+      "p": 68,
+      "gen": "normal-distribution"
+     },
+     "prompt": "The values of a large population are approximately normally distributed with mean 100 and standard deviation 15. Approximately what percent of the values are between 85 and 115?",
+     "options": [
+      "32%",
+      "34%",
+      "68%",
+      "81.5%",
+      "84%"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "<p>Convert to standard deviations from the mean: 85 is &minus;1 SD; 115 is +1 SD.</p><p>Using the approximate normal percentages (34% between the mean and 1 SD, 13.5% between 1 and 2 SD, 2.5% beyond 2 SD on each side), the region holds about 68%, so the answer is <b>68%</b>.</p>",
+     "generated": true
+    },
+    "t": 1794954883390
+   },
+   "gen-prime-factor-qc-z66sv": {
+    "q": {
+     "id": "gen-prime-factor-qc-z66sv",
+     "type": "qc",
+     "topic": "arithmetic",
+     "difficulty": 3,
+     "meta": {
+      "kind": "square",
+      "gen": "prime-factor-qc"
+     },
+     "info": "<i>n</i> is a positive integer.",
+     "quantityA": "The number of distinct prime factors of <i>n</i><sup>2</sup>",
+     "quantityB": "The number of distinct prime factors of <i>n</i>",
+     "answer": [
+      2
+     ],
+     "explanation": "<p>Squaring changes only the exponents in the prime factorization, never which primes appear. The quantities are <b>equal</b> for every <i>n</i> (both are 0 when <i>n</i> = 1).</p>",
+     "generated": true
+    },
+    "t": 1794955771353
+   },
+   "gen-stats-multi-17jzjh": {
+    "q": {
+     "id": "gen-stats-multi-17jzjh",
+     "type": "mc-multi",
+     "topic": "data",
+     "difficulty": 3,
+     "meta": {
+      "vals": [
+       1,
+       1,
+       6,
+       14,
+       20,
+       16,
+       5,
+       1
+      ],
+      "gen": "stats-multi"
+     },
+     "prompt": "For the data set 1, 1, 6, 14, 20, 16, 5, 1, which of the following statements are true?<br>Indicate <u>all</u> such statements.",
+     "options": [
+      "The mean is 8.",
+      "If the greatest value were increased by 10, the median would increase.",
+      "The median is 6.5.",
+      "The mode is 6.",
+      "The mean is greater than the median.",
+      "The range is 20."
+     ],
+     "answer": [
+      0,
+      4
+     ],
+     "explanation": "<p>Sorted: 1, 1, 1, 5, 6, 14, 16, 20. Mean = 64/8 = 8; median = 5.5; mode = 1; range = 20 &minus; 1 = 19. Changing the greatest value does not move the middle values, so the median stays the same.</p><p>True statements: &ldquo;The mean is 8.&rdquo;; &ldquo;The mean is greater than the median.&rdquo;.</p>",
+     "generated": true
+    },
+    "t": 1794955771353
+   },
+   "gen-polygon-angles-1asjuy": {
+    "q": {
+     "id": "gen-polygon-angles-1asjuy",
+     "type": "numeric",
+     "topic": "geometry",
+     "difficulty": 3,
+     "meta": {
+      "n": 20,
+      "kind": "diagonals",
+      "gen": "polygon-angles"
+     },
+     "prompt": "How many diagonals does a convex polygon with 20 sides have?",
+     "answer": 170,
+     "explanation": "<p>Each vertex connects by a diagonal to <i>n</i> &minus; 3 others, and each diagonal is counted twice: <span class='frac'><span>20 &times; 17</span><span>2</span></span> = <b>170</b>.</p>",
+     "generated": true
+    },
+    "t": 1794955771353
+   },
+   "gen-prime-factor-qc-1otn8f": {
+    "q": {
+     "id": "gen-prime-factor-qc-1otn8f",
+     "type": "qc",
+     "topic": "arithmetic",
+     "difficulty": 3,
+     "meta": {
+      "kind": "mult",
+      "gen": "prime-factor-qc",
+      "k": 10
+     },
+     "info": "<i>n</i> is a positive integer.",
+     "quantityA": "The number of distinct prime factors of <i>n</i>",
+     "quantityB": "The number of distinct prime factors of 10<i>n</i>",
+     "answer": [
+      3
+     ],
+     "explanation": "<p>If <i>n</i> = 10, both quantities equal 2. If <i>n</i> = 1, Quantity A is 0 and Quantity B is 2. Since 10<i>n</i> has every prime factor of <i>n</i> and possibly more, B &ge; A, but the two can be equal. <b>The relationship cannot be determined</b>.</p>",
+     "generated": true
+    },
+    "t": 1795026468552
+   },
+   "gen-sd-qc-1prlrw": {
+    "q": {
+     "id": "gen-sd-qc-1prlrw",
+     "type": "qc",
+     "topic": "data",
+     "difficulty": 3,
+     "meta": {
+      "S": [
+       1,
+       23,
+       23,
+       27,
+       29
+      ],
+      "T": [
+       23,
+       23,
+       27
+      ],
+      "kind": "removeext",
+      "swap": true,
+      "gen": "sd-qc"
+     },
+     "info": "Data set <i>S</i>: 1, 23, 23, 27, 29<br><i>T</i> is formed by removing the least and greatest values from <i>S</i>.",
+     "quantityA": "The standard deviation of <i>T</i>",
+     "quantityB": "The standard deviation of <i>S</i>",
+     "answer": [
+      1
+     ],
+     "explanation": "<p>Removing the most extreme values reduces the spread. (Population SDs: <i>S</i> &asymp; 10.07, <i>T</i> &asymp; 1.89.)</p><p><b>Quantity B is greater</b>.</p>",
+     "generated": true
+    },
+    "t": 1795026468553
+   },
+   "gen-gcd-lcm-1uoqbb": {
+    "q": {
+     "id": "gen-gcd-lcm-1uoqbb",
+     "type": "mc-single",
+     "topic": "arithmetic",
+     "difficulty": 2,
+     "meta": {
+      "a": 70,
+      "b": 21,
+      "kind": "lcm",
+      "gen": "gcd-lcm"
+     },
+     "prompt": "What is the least common multiple of 70 and 21?",
+     "explanation": "<p>70 = 7 &times; 10 and 21 = 7 &times; 3, where 10 and 3 share no common factor. GCD = 7. LCM = 7 &times; 10 &times; 3 = 210.</p><p>The answer is <b>210</b>.</p>",
+     "options": [
+      "7",
+      "91",
+      "105",
+      "210",
+      "1470"
+     ],
+     "answer": [
+      3
+     ],
+     "generated": true
+    },
+    "t": 1795026468553
+   },
+   "gen-triangle-third-side-1v6dyp": {
+    "q": {
+     "id": "gen-triangle-third-side-1v6dyp",
+     "type": "mc-multi",
+     "topic": "geometry",
+     "difficulty": 3,
+     "meta": {
+      "a": 10,
+      "b": 13,
+      "opts": [
+       3,
+       3.5,
+       22,
+       23,
+       23.5,
+       24
+      ],
+      "gen": "triangle-third-side"
+     },
+     "prompt": "Two sides of a triangle have lengths 10 and 13. Which of the following could be the length of the third side?<br>Indicate <u>all</u> such lengths.",
+     "options": [
+      "3",
+      "3.5",
+      "22",
+      "23",
+      "23.5",
+      "24"
+     ],
+     "answer": [
+      1,
+      2
+     ],
+     "explanation": "<p>By the triangle inequality, the third side must be greater than 13 &minus; 10 = 3 and less than 10 + 13 = 23. The endpoints themselves are not allowed, because they would give a flat (degenerate) triangle.</p><p>Valid choices: <b>3.5, 22</b>.</p>",
+     "generated": true
+    },
+    "t": 1795026468553
+   },
+   "gen-dice-probability-1wowxr": {
+    "q": {
+     "id": "gen-dice-probability-1wowxr",
+     "type": "fraction",
+     "topic": "data",
+     "difficulty": 3,
+     "meta": {
+      "d": 3,
+      "gen": "dice-probability"
+     },
+     "prompt": "Two fair six-sided dice, with faces numbered 1 through 6, are rolled. Given that the sum is at least 10, what is the probability that the two dice show the same number?",
+     "answer": [
+      1,
+      3
+     ],
+     "explanation": "<p>Restrict to the 6 equally likely outcomes in which the sum is at least 10. Of these, 2 have the two dice show the same number.</p><p>Probability = <span class='frac'><span>2</span><span>6</span></span> = <b><span class='frac'><span>1</span><span>3</span></span></b>. Ordered pairs matter: (2, 5) and (5, 2) are different outcomes.</p>",
+     "generated": true
+    },
+    "t": 1795026468553
+   },
+   "gen-units-digit-2hx2ng": {
+    "q": {
+     "id": "gen-units-digit-2hx2ng",
+     "type": "mc-single",
+     "topic": "arithmetic",
+     "difficulty": 3,
+     "meta": {
+      "b1": 17,
+      "e1": 39,
+      "b2": 4,
+      "e2": 31,
+      "gen": "units-digit"
+     },
+     "prompt": "What is the units digit of 17<sup>39</sup> + 4<sup>31</sup>?",
+     "explanation": "<p>The units digits of powers repeat every 4. 17<sup>39</sup> ends in 3 (cycle 7, 9, 3, 1, remainder 3). 4<sup>31</sup> ends in 4 (cycle 4, 6, 4, 6, remainder 3).</p><p>3 + 4 = 7, so the units digit is <b>7</b>.</p>",
+     "options": [
+      "3",
+      "4",
+      "7",
+      "8",
+      "9"
+     ],
+     "answer": [
+      2
+     ],
+     "generated": true
+    },
+    "t": 1795029224888
+   },
+   "tc020": {
+    "q": {
+     "id": "tc020",
+     "type": "tc",
+     "topic": "tc",
+     "difficulty": 3,
+     "text": "Critics who expected the director's adaptation to be {1} were surprised to find that, far from slavishly reproducing the novel, it rearranged the plot and invented several characters.",
+     "options": [
+      [
+       "iconoclastic",
+       "heterodox",
+       "inchoate",
+       "reverential",
+       "idiosyncratic"
+      ]
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "The critics were \"surprised\" to find it was not a slavish reproduction, so they had expected a faithful, deferential treatment: reverential. Iconoclastic, heterodox, and idiosyncratic describe what the film actually turned out to be, so they would remove the surprise; inchoate means unformed."
+    },
+    "t": 1795029503798
+   },
+   "tc037": {
+    "q": {
+     "id": "tc037",
+     "type": "tc",
+     "topic": "tc",
+     "difficulty": 2,
+     "text": "The biographer avoids both {1} and denigration: she neither glosses over her subject's failings nor {2} his genuine achievements.",
+     "options": [
+      [
+       "hagiography",
+       "criticism",
+       "objectivity"
+      ],
+      [
+       "exaggerates",
+       "catalogues",
+       "belittles"
+      ]
+     ],
+     "answer": [
+      0,
+      2
+     ],
+     "explanation": "The colon maps each extreme onto a clause. Glossing over failings is the fault of hagiography (worshipful biography), and denigration corresponds to belittling achievements. Criticism is close to denigration, so it does not supply the opposite extreme; avoiding objectivity is not a virtue; exaggerating achievements would be a hagiographer's fault, not a denigrator's."
+    },
+    "t": 1795029503798
+   },
+   "tc040": {
+    "q": {
+     "id": "tc040",
+     "type": "tc",
+     "topic": "tc",
+     "difficulty": 2,
+     "text": "Because the new instrument is far more sensitive than its predecessors, astronomers expect it to {1} a debate that earlier observations were too {2} to settle.",
+     "options": [
+      [
+       "resolve",
+       "prolong",
+       "ignite"
+      ],
+      [
+       "definitive",
+       "numerous",
+       "imprecise"
+      ]
+     ],
+     "answer": [
+      0,
+      2
+     ],
+     "explanation": "Greater sensitivity lets the instrument settle the debate: resolve. Earlier, less sensitive observations failed because they were imprecise. Prolong and ignite do not follow from better data; definitive observations would have settled the debate, and \"too numerous\" makes no sense."
+    },
+    "t": 1795029503798
+   },
+   "tc060": {
+    "q": {
+     "id": "tc060",
+     "type": "tc",
+     "topic": "tc",
+     "difficulty": 2,
+     "text": "The negotiator's {1} manner (she rarely spoke, and never more than necessary) was often taken for {2}. Those who worked with her, however, knew that her silence was strategic: it {3} her counterparts into revealing more than they intended.",
+     "options": [
+      [
+       "garrulous",
+       "bombastic",
+       "laconic"
+      ],
+      [
+       "eloquence",
+       "timidity",
+       "candor"
+      ],
+      [
+       "deterred",
+       "lured",
+       "bullied"
+      ]
+     ],
+     "answer": [
+      2,
+      1,
+      1
+     ],
+     "explanation": "Rarely speaking and never more than necessary is laconic. \"However... strategic\" implies observers wrongly read the silence as weakness: timidity. Strategic silence lured counterparts into over-sharing. Garrulous and bombastic contradict silence; eloquence and candor are not misreadings of silence; deterred reverses the effect and bullied does not fit silence."
+    },
+    "t": 1795029503798
+   },
+   "p13q1": {
+    "q": {
+     "id": "p13q1",
+     "type": "rc-single",
+     "topic": "rc",
+     "difficulty": 2,
+     "prompt": "Which of the following best states the main point of the passage?",
+     "options": [
+      "Understanding the serial context of nineteenth-century novels illuminates features once regarded as flaws, though it does not settle questions of the novels’ merit.",
+      "Twentieth-century critics were correct that serial novels generally lack overall design.",
+      "Commercial pressure damaged most novels that were published in installments.",
+      "Nineteenth-century serial novels are best read in installments by modern readers.",
+      "Writers of serial novels planned their works meticulously in advance."
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "The passage accepts the scholarly reconstruction as “valuable” but warns that it “should not become a blanket defense.” The serial context is “a necessary starting point for judging these novels, not a substitute for judgment.” The second choice is the view the newer scholarship challenges. The third and fifth choices distort details, since the passage refers to “some” serial novels and “some writers.”"
+    },
+    "pid": "p13",
+    "t": 1795029503798
+   },
+   "p13q3": {
+    "q": {
+     "id": "p13q3",
+     "type": "rc-multi",
+     "topic": "rc",
+     "difficulty": 2,
+     "prompt": "According to the passage, recent scholarship explains which of the following features of serial novels as responses to the conditions of installment publication? Consider each of the choices separately and select all that apply.",
+     "options": [
+      "Recapitulations of earlier events",
+      "Recurring catchphrases attached to minor characters",
+      "Abrupt cliffhangers"
+     ],
+     "answer": [
+      0,
+      1,
+      2
+     ],
+     "explanation": "Recapitulations and recurring catchphrases “served to orient readers who had last encountered the story weeks before.” The cliffhanger was “a deliberate device for sustaining interest across the interval between installments.” All three are explained by the serial format."
+    },
+    "pid": "p13",
+    "t": 1795029503798
+   },
+   "p13q4": {
+    "q": {
+     "id": "p13q4",
+     "type": "rc-select",
+     "topic": "rc",
+     "difficulty": 3,
+     "prompt": "Select the sentence in the passage that distinguishes between accounting for a literary feature and vindicating it.",
+     "answer": [
+      10
+     ],
+     "explanation": "“To explain why a feature was present is not to establish that it was successful, and some serial novels were in fact shaped by commercial pressure in ways that their own authors regretted.” Its first clause separates explaining a feature from justifying it."
+    },
+    "pid": "p13",
+    "t": 1795029503798
+   },
+   "se034": {
+    "q": {
+     "id": "se034",
+     "type": "se",
+     "topic": "se",
+     "difficulty": 3,
+     "text": "The essay's argument is more {1} than its breezy style suggests: beneath the jokes lies a careful, closely reasoned case.",
+     "options": [
+      "facile",
+      "rigorous",
+      "glib",
+      "entertaining",
+      "cogent",
+      "controversial"
+     ],
+     "answer": [
+      1,
+      4
+     ],
+     "explanation": "\"Careful, closely reasoned\" defines the blank, contrasted with a \"breezy style\": rigorous and cogent. Facile and glib form a pair, but they describe what the breezy style misleadingly suggests. Entertaining describes the style, not the argument; controversial has no partner."
+    },
+    "t": 1795029503798
+   },
+   "se017": {
+    "q": {
+     "id": "se017",
+     "type": "se",
+     "topic": "se",
+     "difficulty": 2,
+     "text": "The professor's lectures were notoriously {1}, so packed with tangents and qualifications that students struggled to identify the main point.",
+     "options": [
+      "pithy",
+      "succinct",
+      "prolix",
+      "abstruse",
+      "verbose",
+      "engaging"
+     ],
+     "answer": [
+      2,
+      4
+     ],
+     "explanation": "Lectures packed with tangents are long-winded: prolix and verbose. Pithy and succinct form a pair meaning concise, the opposite. Abstruse (hard to understand) is tempting since students struggled, but it describes difficulty of content, not wordiness, and has no partner."
+    },
+    "t": 1795029503798
+   },
+   "p18q1": {
+    "q": {
+     "id": "p18q1",
+     "type": "rc-single",
+     "topic": "rc",
+     "difficulty": 3,
+     "prompt": "In the argument, the two portions in boldface play which of the following roles?",
+     "options": [
+      "The first is the argument’s main conclusion; the second is evidence offered in support of that conclusion.",
+      "The first is a claim that the argument rejects as false; the second is the argument’s main conclusion.",
+      "The first is a finding that supports an interpretation the argument endorses; the second is a consideration that weighs against that interpretation.",
+      "The first is a finding that the argument seeks to explain; the second is evidence offered in support of the argument’s prediction.",
+      "The first and the second are both offered as evidence for the analysts’ conclusion."
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "The first boldface is a fact the argument accepts and explains through falling rents rather than a “durable niche.” The second is a premise (“Since …”) supporting the main conclusion that the number of bookstores “is likely to decline.” The argument rejects the analysts’ interpretation rather than endorsing it, and the second boldface is a premise, not the conclusion."
+    },
+    "pid": "p18",
+    "t": 1795029503798
+   },
+   "p07q1": {
+    "q": {
+     "id": "p07q1",
+     "type": "rc-single",
+     "topic": "rc",
+     "difficulty": 2,
+     "prompt": "The second sentence of the passage (“The finding seems paradoxical …”) primarily serves to",
+     "options": [
+      "cast doubt on the reliability of the sociologists’ finding",
+      "explain why the finding might at first appear counterintuitive",
+      "present the author’s resolution of an apparent paradox",
+      "provide evidence that close friends are more motivated to help than acquaintances are",
+      "introduce a finding that contradicts the one reported in the first sentence"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "The sentence explains why the finding looks puzzling: friends are “presumably more motivated to help.” The author never doubts the finding, and the resolution comes in later sentences. “Presumably” marks an assumption, not evidence, and no contradicting finding is introduced."
+    },
+    "pid": "p07",
+    "t": 1795029503798
    }
   },
   "gre.seenPrompts": {
    "i12": 1,
-   "i17": 1
+   "i17": 1,
+   "i07": 1
   },
   "gre.vocabp": {
    "intemperance": {
@@ -5889,8 +11733,89 @@
    "cursory": {
     "n": 2,
     "s": 1
+   },
+   "hyperbole": {
+    "n": 1,
+    "s": 1
+   },
+   "inscrutable": {
+    "n": 1,
+    "s": 0
+   },
+   "multifarious": {
+    "n": 1,
+    "s": 1
+   },
+   "laud": {
+    "n": 1,
+    "s": 1
+   },
+   "complement": {
+    "n": 1,
+    "s": 1
+   },
+   "endemic": {
+    "n": 1,
+    "s": 1
+   },
+   "censure": {
+    "n": 1,
+    "s": 1
+   },
+   "reproach": {
+    "n": 1,
+    "s": 1
+   },
+   "pellucid": {
+    "n": 1,
+    "s": 1
+   },
+   "collusion": {
+    "n": 1,
+    "s": 1
+   },
+   "perigee": {
+    "n": 1,
+    "s": 1
+   },
+   "rarefy": {
+    "n": 1,
+    "s": 0
+   },
+   "edacious": {
+    "n": 1,
+    "s": 0
+   },
+   "obstreperous": {
+    "n": 1,
+    "s": 0
+   },
+   "arrest": {
+    "n": 1,
+    "s": 1
+   },
+   "antithesis": {
+    "n": 1,
+    "s": 1
+   },
+   "judicious": {
+    "n": 1,
+    "s": 1
+   },
+   "sanatorium": {
+    "n": 1,
+    "s": 1
+   },
+   "obdurate": {
+    "n": 1,
+    "s": 0
+   },
+   "condemn": {
+    "n": 1,
+    "s": 1
    }
   },
-  "gre.active": null
+  "gre.active": null,
+  "gre.studyLast": "conv-numbers"
  }
 }
