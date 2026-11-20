@@ -1,18 +1,2084 @@
 {
  "ts": {
   "gre.c": 99,
-  "gre.history": 1795029503801,
-  "gre.stats": 1795029503798,
-  "gre.seen": 1795029224889,
-  "gre.mistakes": 1795029503799,
-  "gre.seenPrompts": 1794944417611,
+  "gre.history": 1795141936459,
+  "gre.stats": 1795128824859,
+  "gre.seen": 1795128824860,
+  "gre.mistakes": 1795128824860,
+  "gre.seenPrompts": 1795122360307,
   "gre.vocabp": 1795030127478,
-  "gre.active": 1795029503801,
+  "gre.active": 1795128824868,
   "gre.studyLast": 1794953163161
  },
  "data": {
   "gre.c": 1,
   "gre.history": [
+   {
+    "id": "mwo1i5cucrjvv",
+    "mode": "full",
+    "title": "Full-Length Practice Test",
+    "date": 1795128824860,
+    "quit": false,
+    "sections": [
+     {
+      "measure": "AW",
+      "title": "Analytical Writing",
+      "prompt": {
+       "id": "i38",
+       "type": "recommend",
+       "prompt": "Large corporations should be required to publicly disclose the salaries of all of their employees.",
+       "instructions": "Write a response in which you discuss your views on the policy and explain your reasoning for the position you take. In developing and supporting your position, you should consider the possible consequences of implementing the policy and explain how these consequences shape your position."
+      },
+      "essay": "In a world where there are multi-billion dollar corporations such as Apple, Nvidia, and Tesla, there might be a sentiment that these companies should be required to publicly disclose the salaries of all of their employees. I strongly disagree with this idea and believe that public or private companies who's revenue is coming not from tax payers, but instead from customers, should have the ability to keep it private if they want to.\n\nFirstly, this idea is harmful for a whole host of privacy concerns. Money is the one thing that people typically wish to keep private, and for good reason. Many of the world's crimes are financially motivated including the drug industry, the human trafficing industry, and many others. People are driven by the motive of money more than anything because money means power. Those with ill intent don't necessarily care that they make the money in a way with integrity. When the salaries of all employees are put out there for full display, some of these people could be targetted by criminals and negatively impacted in various ways. Aside from criminal activity, it is an unpleasant experiene sharing the money you make with others as it can lead to fits of jealousy and boasting. These are things explicitly called deadly sins in the bible, as they can rip relationships and friendships apart. If we can keep people protected from these sub-optimal experiences, why not? What is there to gain from disclosing the salaries of these employees? The policy aims to target the large corporate entity, but instead, will hurt the individual employee the most.\n\nSecondly, the argument calls only for large corporations to disclose the salaries of their employees and not for small ones to do the same. Why is there a differentiation between small and large companies and who decides when a company has become large enough to have to follow this rule? Whatever this set threshold of size would be arbitrary with a small group of people getting to decide what is big enough. This blatanly unfair to the large corporations. Although they may have more people to help with the work that comes with disclosing these financials, it seems like an unfair standard that some must follow and others do not. The extra work and transparency can even lead to companies looking to aim just below the size thresholds in order to save the labor, time, and money needed to fulfill this requirement. \n\nLastly, a supporter of this cause may point to the government and question why they have to disclose the salaries of their employees but other corporations do not. Perhaps this serves as precident that large entitities should follow suit. I would counter this on the basis of two points. First, the government primarily discloses their spending on headcount because it is the money of the tax payer. Their capital is not earned through selling a product to customer and making business deals. Instead, they are funded by average working people, paying a portion of their salary, so that the government can provide services and govern the country. If a citizen is funding the revenue from their tax dollars, they ought to know how that money is being spent. Conversly, for a large corporation, the stakeholders are typically not the ones directly funding the company. It would be fair to argue that investors should have access to the payroll information, but to the general public is a grealty different ask. Second, even the government typically does not disclose the full payroll to the public. For example in Ontario, the Sunshine List only discloses the salaries of government workers making over 100,000 CAD per year. For a large sum of money being paid to specific people, this makes sense to ensure there is no unfairness of wage distribution. If the government only discloses a partial part of their payroll, why should large corporations have to disclose the totality of it? \n\nOverall, the notion of public disclosure for salaries of large corporations simply does not make sense. It does not protect the privacy of these corporations employees, it is an unfair policy, and would hold these corporations to even a higher standard than the government, which is funded by the tax payer. Companies should be able to govern their companies in the best way they see fit. If that includes public salary disclosure, so be it; however, it should not be a blanket rule enforced on the entire market. ",
+      "limit": 1800,
+      "remaining": 96.49000000001405,
+      "elapsed": 1703.509999999993,
+      "items": [],
+      "done": true,
+      "selfScore": 4
+     },
+     {
+      "answers": [
+       [
+        2
+       ],
+       [
+        0,
+        2
+       ],
+       [
+        0,
+        1
+       ],
+       [
+        1,
+        2,
+        0
+       ],
+       [
+        2
+       ],
+       [
+        0,
+        1,
+        2
+       ],
+       [
+        10
+       ],
+       [
+        4
+       ],
+       [
+        1,
+        2
+       ],
+       [
+        1,
+        4
+       ],
+       [
+        0
+       ],
+       [
+        2
+       ]
+      ],
+      "marked": [
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       true,
+       true,
+       false,
+       false
+      ],
+      "times": [
+       59.99099999999999,
+       179.01599999999985,
+       26.985999999999994,
+       27.511000000000006,
+       147.98999999999992,
+       143.9830000000001,
+       106.51200000000003,
+       19.508999999999997,
+       82.99800000000005,
+       55.00500000000002,
+       122.505,
+       88.496
+      ],
+      "checked": [
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false
+      ],
+      "cur": 11,
+      "elapsed": 1069.005999999997,
+      "remaining": 10.994000000002517,
+      "measure": "V",
+      "idx": 1,
+      "level": 2,
+      "title": "Verbal Reasoning",
+      "items": [
+       {
+        "q": {
+         "id": "tc022",
+         "type": "tc",
+         "topic": "tc",
+         "difficulty": 3,
+         "text": "Although her interest in the project never {1}, the composer's progress on it slowed to a crawl as her teaching duties multiplied.",
+         "options": [
+          [
+           "intensified",
+           "materialized",
+           "crystallized",
+           "resurfaced",
+           "flagged"
+          ]
+         ],
+         "answer": [
+          4
+         ],
+         "explanation": "\"Although\" contrasts her interest with the slowing progress: the work slowed, yet her interest did not decline. Flagged (weakened) fits. Intensified would make the contrast pointless; materialized, crystallized, and resurfaced would imply she was never interested at all, which does not fit the contrast."
+        }
+       },
+       {
+        "q": {
+         "id": "tc037",
+         "type": "tc",
+         "topic": "tc",
+         "difficulty": 2,
+         "text": "The biographer avoids both {1} and denigration: she neither glosses over her subject's failings nor {2} his genuine achievements.",
+         "options": [
+          [
+           "hagiography",
+           "criticism",
+           "objectivity"
+          ],
+          [
+           "exaggerates",
+           "catalogues",
+           "belittles"
+          ]
+         ],
+         "answer": [
+          0,
+          2
+         ],
+         "explanation": "The colon maps each extreme onto a clause. Glossing over failings is the fault of hagiography (worshipful biography), and denigration corresponds to belittling achievements. Criticism is close to denigration, so it does not supply the opposite extreme; avoiding objectivity is not a virtue; exaggerating achievements would be a hagiographer's fault, not a denigrator's."
+        }
+       },
+       {
+        "q": {
+         "id": "tc034",
+         "type": "tc",
+         "topic": "tc",
+         "difficulty": 2,
+         "text": "Although the treaty was hailed as a {1} breakthrough, its provisions proved so {2} that within a year both nations were ignoring them.",
+         "options": [
+          [
+           "historic",
+           "minor",
+           "tentative"
+          ],
+          [
+           "rigorous",
+           "unenforceable",
+           "durable"
+          ]
+         ],
+         "answer": [
+          0,
+          1
+         ],
+         "explanation": "\"Hailed as a... breakthrough\" requires a word of high praise: historic. \"Although\" sets up a contrast, and nations ignoring the provisions shows they were unenforceable. Rigorous and durable would not explain why they were ignored; minor and tentative do not fit \"hailed.\""
+        }
+       },
+       {
+        "q": {
+         "id": "tc050",
+         "type": "tc",
+         "topic": "tc",
+         "difficulty": 1,
+         "text": "The candidate's speeches were notably {1}, often running past two hours. Her advisers urged her to be more {2}, warning that audiences would grow {3} if she did not shorten them.",
+         "options": [
+          [
+           "terse",
+           "verbose",
+           "inaudible"
+          ],
+          [
+           "expansive",
+           "emphatic",
+           "concise"
+          ],
+          [
+           "restive",
+           "enthralled",
+           "sympathetic"
+          ]
+         ],
+         "answer": [
+          1,
+          2,
+          0
+         ],
+         "explanation": "Speeches \"running past two hours\" are verbose; advisers urging her to \"shorten them\" want her to be concise; the warning is that audiences would become impatient: restive. Terse and expansive reverse the logic; enthralled and sympathetic are not consequences one warns about."
+        }
+       },
+       {
+        "q": {
+         "id": "p10q1",
+         "type": "rc-single",
+         "topic": "rc",
+         "difficulty": 2,
+         "prompt": "Which of the following best expresses the main idea of the passage?",
+         "options": [
+          "Signature evidence remains the most reliable available source for measuring early modern literacy.",
+          "Literacy in early modern England was far more widespread than any historian has recognized.",
+          "Because reading and writing were taught in sequence, signature counts are a problematic measure of literacy, and even their use for tracking trends is open to doubt.",
+          "Records of book ownership provide a better index of early modern literacy than signatures do.",
+          "Girls and the children of laborers were generally excluded from schooling in early modern England."
+         ],
+         "answer": [
+          2
+         ],
+         "explanation": "The passage presents the signature method and the critics’ point that reading was taught before writing. It then argues that the fallback defense, that signature counts at least track trends, is also weak. The first choice is the view the author argues against, and the second is too extreme. The passage says book ownership records are skewed, not better. It says many poorer children left school early, not that they were excluded from it."
+        },
+        "pid": "p10"
+       },
+       {
+        "q": {
+         "id": "p10q2",
+         "type": "rc-multi",
+         "topic": "rc",
+         "difficulty": 3,
+         "prompt": "The critics described in the second paragraph would most likely agree with which of the following? Consider each of the choices separately and select all that apply.",
+         "options": [
+          "Signature counts overstate the literacy of the wealthy.",
+          "Some people who could not sign their names were nonetheless able to read.",
+          "Signature evidence understates reading ability more severely for some social groups than for others."
+         ],
+         "answer": [
+          1,
+          2
+         ],
+         "explanation": "The critics say such individuals “might read the Bible or a printed ballad with ease yet be unable to sign a register,” which supports the second choice. They also say signature counts understate reading ability “among precisely those groups whom historians have described as least literate,” which supports the third. Nothing suggests that signatures overstate anyone’s literacy, since a person who could sign had normally already learned to read."
+        },
+        "pid": "p10"
+       },
+       {
+        "q": {
+         "id": "p10q3",
+         "type": "rc-select",
+         "topic": "rc",
+         "difficulty": 3,
+         "prompt": "Select the sentence in the passage in which the author identifies a possible flaw in the reasoning of those who defend signature evidence.",
+         "answer": [
+          12
+         ],
+         "explanation": "“This defense is weaker than it appears, however, for the bias need not have been constant: if the age at which writing was taught, or the length of time poorer children remained in school, changed over the period, then apparent trends in signature rates might reflect changes in schooling rather than in the spread of reading.” The earlier sentences in that paragraph state the defenders’ position. This one gives the author’s objection to it."
+        },
+        "pid": "p10"
+       },
+       {
+        "q": {
+         "id": "p10q4",
+         "type": "rc-single",
+         "topic": "rc",
+         "difficulty": 3,
+         "prompt": "The defenders’ argument that signature counts “can still reveal trends over time” depends on which of the following assumptions?",
+         "options": [
+          "Records of book ownership are entirely without value as evidence of literacy.",
+          "Most people who could sign their names could also read.",
+          "Reading was taught before writing in every school of the period.",
+          "Literary references to reading are less numerous than surviving signatures.",
+          "The degree to which signature counts understate reading ability remained roughly the same throughout the period studied."
+         ],
+         "answer": [
+          4
+         ],
+         "explanation": "A biased measure can show trends only if the bias is “consistent,” meaning roughly constant over time. The author attacks exactly this assumption by pointing out that “the bias need not have been constant.” The first choice is too strong, since the defenders say only that the records are skewed. The other choices are not needed for a trend-based inference."
+        },
+        "pid": "p10"
+       },
+       {
+        "q": {
+         "id": "se038",
+         "type": "se",
+         "topic": "se",
+         "difficulty": 3,
+         "text": "Because the evidence for the hypothesis remains {1}, most researchers treat it as a promising lead rather than an established fact.",
+         "options": [
+          "compelling",
+          "inconclusive",
+          "incontrovertible",
+          "abundant",
+          "fabricated",
+          "equivocal"
+         ],
+         "answer": [
+          1,
+          5
+         ],
+         "explanation": "Treating something as a lead rather than a fact means the evidence does not settle the question: inconclusive and equivocal. Compelling and incontrovertible form a loose pair suggesting strong evidence, which would make it an established fact. Fabricated would make it no lead at all; abundant lacks a partner."
+        }
+       },
+       {
+        "q": {
+         "id": "se034",
+         "type": "se",
+         "topic": "se",
+         "difficulty": 3,
+         "text": "The essay's argument is more {1} than its breezy style suggests: beneath the jokes lies a careful, closely reasoned case.",
+         "options": [
+          "facile",
+          "rigorous",
+          "glib",
+          "entertaining",
+          "cogent",
+          "controversial"
+         ],
+         "answer": [
+          1,
+          4
+         ],
+         "explanation": "\"Careful, closely reasoned\" defines the blank, contrasted with a \"breezy style\": rigorous and cogent. Facile and glib form a pair, but they describe what the breezy style misleadingly suggests. Entertaining describes the style, not the argument; controversial has no partner."
+        }
+       },
+       {
+        "q": {
+         "id": "p21q1",
+         "type": "rc-single",
+         "topic": "rc",
+         "difficulty": 2,
+         "prompt": "If the statements above are true, which of the following must also be true?",
+         "options": [
+          "At least one person who began a career as a member of the orchestra has never taught at the conservatory.",
+          "Every teacher at the conservatory plays a string instrument.",
+          "Some of the orchestra’s conductors played string instruments when they were members of the orchestra.",
+          "No member of the orchestra who plays a wind instrument teaches at the conservatory.",
+          "Every member of the orchestra teaches at the conservatory."
+         ],
+         "answer": [
+          0
+         ],
+         "explanation": "Some conductors began as orchestra members, and no conductor has ever taught at the conservatory. Those conductors are therefore people who began as members and never taught there. The second choice reverses the conditional. Nothing establishes the third, fourth, or fifth choice, since the statements say nothing about which instruments conductors played or about whether non-string members teach."
+        },
+        "pid": "p21"
+       },
+       {
+        "q": {
+         "id": "p07q1",
+         "type": "rc-single",
+         "topic": "rc",
+         "difficulty": 2,
+         "prompt": "The second sentence of the passage (“The finding seems paradoxical …”) primarily serves to",
+         "options": [
+          "cast doubt on the reliability of the sociologists’ finding",
+          "explain why the finding might at first appear counterintuitive",
+          "present the author’s resolution of an apparent paradox",
+          "provide evidence that close friends are more motivated to help than acquaintances are",
+          "introduce a finding that contradicts the one reported in the first sentence"
+         ],
+         "answer": [
+          1
+         ],
+         "explanation": "The sentence explains why the finding looks puzzling: friends are “presumably more motivated to help.” The author never doubts the finding, and the resolution comes in later sentences. “Presumably” marks an assumption, not evidence, and no contradicting finding is introduced."
+        },
+        "pid": "p07"
+       }
+      ],
+      "limit": 1080,
+      "done": true
+     },
+     {
+      "answers": [
+       [
+        1
+       ],
+       [
+        0
+       ],
+       [
+        0
+       ],
+       [
+        2
+       ],
+       [
+        4
+       ],
+       [
+        0,
+        4
+       ],
+       [
+        4
+       ],
+       [
+        4
+       ],
+       [
+        1
+       ],
+       "6",
+       "4",
+       [
+        2,
+        3
+       ]
+      ],
+      "marked": [
+       false,
+       false,
+       false,
+       true,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false
+      ],
+      "times": [
+       130.513,
+       117.491,
+       51.001,
+       245.50500000000005,
+       76.49499999999995,
+       69.99200000000002,
+       70.01299999999999,
+       69.48999999999998,
+       46.99599999999999,
+       107.50800000000001,
+       100.502,
+       50.504
+      ],
+      "checked": [
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false
+      ],
+      "cur": 11,
+      "elapsed": 1142.5089999999975,
+      "remaining": 117.49100000000291,
+      "measure": "Q",
+      "idx": 1,
+      "level": 2,
+      "title": "Quantitative Reasoning",
+      "items": [
+       {
+        "q": {
+         "id": "gen-prime-factor-qc-1qcj9",
+         "type": "qc",
+         "topic": "arithmetic",
+         "difficulty": 1,
+         "meta": {
+          "X": 122,
+          "Y": 260,
+          "kind": "prime",
+          "gen": "prime-factor-qc"
+         },
+         "quantityA": "The number of distinct prime factors of 122",
+         "quantityB": "The number of distinct prime factors of 260",
+         "answer": [
+          1
+         ],
+         "explanation": "<p>122 = 2 &times; 61, which gives 2. 260 = 2<sup>2</sup> &times; 5 &times; 13, which gives 3.</p><p><b>Quantity B is greater</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-sd-qc-2vkln",
+         "type": "qc",
+         "topic": "data",
+         "difficulty": 2,
+         "meta": {
+          "S": [
+           1,
+           2,
+           11,
+           12,
+           19
+          ],
+          "T": [
+           1,
+           2,
+           11,
+           12,
+           19,
+           9
+          ],
+          "kind": "addmean",
+          "swap": false,
+          "gen": "sd-qc"
+         },
+         "info": "Data set <i>S</i>: 1, 2, 11, 12, 19<br><i>T</i> consists of the values of <i>S</i> together with one additional value, 9.",
+         "quantityA": "The standard deviation of <i>S</i>",
+         "quantityB": "The standard deviation of <i>T</i>",
+         "answer": [
+          0
+         ],
+         "explanation": "<p>Adding a value equal to the mean adds a zero deviation and increases the count, so the standard deviation decreases. (Population SDs: <i>S</i> &asymp; 6.72, <i>T</i> &asymp; 6.14.)</p><p><b>Quantity A is greater</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-geometry-qc-3n96v",
+         "type": "qc",
+         "topic": "geometry",
+         "difficulty": 2,
+         "meta": {
+          "kind": "circumference",
+          "d": 11,
+          "B": 34,
+          "gen": "geometry-qc"
+         },
+         "quantityA": "The circumference of a circle with diameter 11",
+         "quantityB": "34",
+         "answer": [
+          0
+         ],
+         "explanation": "<p>A = 11&pi; &asymp; 34.558.</p><p><b>Quantity A is greater</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-prime-factor-qc-4om8x",
+         "type": "qc",
+         "topic": "arithmetic",
+         "difficulty": 3,
+         "meta": {
+          "kind": "square",
+          "gen": "prime-factor-qc"
+         },
+         "info": "<i>n</i> is a positive integer.",
+         "quantityA": "The number of distinct prime factors of <i>n</i><sup>2</sup>",
+         "quantityB": "The number of distinct prime factors of <i>n</i>",
+         "answer": [
+          2
+         ],
+         "explanation": "<p>Squaring changes only the exponents in the prime factorization, never which primes appear. The quantities are <b>equal</b> for every <i>n</i> (both are 0 when <i>n</i> = 1).</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-units-digit-5gqn0",
+         "type": "mc-single",
+         "topic": "arithmetic",
+         "difficulty": 2,
+         "meta": {
+          "b": 88,
+          "e": 82,
+          "gen": "units-digit"
+         },
+         "prompt": "What is the units digit of 88<sup>82</sup>?",
+         "explanation": "<p>Only the units digit 8 matters. Its powers end in a repeating cycle of length 4: 8, 4, 2, 6.</p><p>82 leaves remainder 2 when divided by 4, so the units digit is <b>4</b>.</p>",
+         "options": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4"
+         ],
+         "answer": [
+          4
+         ],
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-quadratic-roots-6160s",
+         "type": "mc-multi",
+         "topic": "algebra",
+         "difficulty": 2,
+         "meta": {
+          "A": 1,
+          "B": 2,
+          "C": -63,
+          "gen": "quadratic-roots"
+         },
+         "prompt": "Which of the following are solutions of the equation <i>x</i><sup>2</sup> + 2<i>x</i> &minus; 63 = 0?<br>Indicate <u>all</u> such values.",
+         "options": [
+          "&minus;9",
+          "&minus;<span class='frac'><span>1</span><span>9</span></span>",
+          "<span class='frac'><span>1</span><span>7</span></span>",
+          "2",
+          "7",
+          "9"
+         ],
+         "answer": [
+          0,
+          4
+         ],
+         "explanation": "<p>Factor: (<i>x</i> &minus; 7)(<i>x</i> + 9) = 0.</p><p>The solutions are <b>7 and &minus;9</b>. The signs flip relative to the numbers in the factors, which is the trap in the negated options.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-normal-distribution-7hten",
+         "type": "mc-single",
+         "topic": "data",
+         "difficulty": 1,
+         "meta": {
+          "mu": 50,
+          "sg": 8,
+          "lo": -2,
+          "hi": 2,
+          "N": 0,
+          "p": 95,
+          "gen": "normal-distribution"
+         },
+         "prompt": "The values of a large population are approximately normally distributed with mean 50 and standard deviation 8. Approximately what percent of the values are between 34 and 66?",
+         "options": [
+          "2.5%",
+          "13.5%",
+          "32%",
+          "81.5%",
+          "95%"
+         ],
+         "answer": [
+          4
+         ],
+         "explanation": "<p>Convert to standard deviations from the mean: 34 is &minus;2 SD; 66 is +2 SD.</p><p>Using the approximate normal percentages (34% between the mean and 1 SD, 13.5% between 1 and 2 SD, 2.5% beyond 2 SD on each side), the region holds about 95%, so the answer is <b>95%</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-units-digit-8xwcv",
+         "type": "mc-single",
+         "topic": "arithmetic",
+         "difficulty": 1,
+         "meta": {
+          "b": 9,
+          "e": 95,
+          "gen": "units-digit"
+         },
+         "prompt": "What is the units digit of 9<sup>95</sup>?",
+         "explanation": "<p>Only the units digit 9 matters. Its powers end in a repeating cycle of length 4: 9, 1, 9, 1.</p><p>95 leaves remainder 3 when divided by 4, so the units digit is <b>9</b>.</p>",
+         "options": [
+          "0",
+          "1",
+          "2",
+          "5",
+          "9"
+         ],
+         "answer": [
+          4
+         ],
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-units-digit-9h4t",
+         "type": "mc-single",
+         "topic": "arithmetic",
+         "difficulty": 2,
+         "meta": {
+          "b": 77,
+          "e": 84,
+          "gen": "units-digit"
+         },
+         "prompt": "What is the units digit of 77<sup>84</sup>?",
+         "explanation": "<p>Only the units digit 7 matters. Its powers end in a repeating cycle of length 4: 7, 9, 3, 1.</p><p>84 leaves remainder 0 when divided by 4, so the units digit is <b>1</b>.</p>",
+         "options": [
+          "0",
+          "1",
+          "3",
+          "7",
+          "8"
+         ],
+         "answer": [
+          1
+         ],
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-divisor-count-ahsjj",
+         "type": "numeric",
+         "topic": "arithmetic",
+         "difficulty": 2,
+         "meta": {
+          "n": 75,
+          "kind": "all",
+          "gen": "divisor-count"
+         },
+         "prompt": "How many positive divisors does 75 have?",
+         "answer": 6,
+         "explanation": "<p>75 = 3 &times; 5<sup>2</sup>. Add 1 to each exponent and multiply: (1 + 1)(2 + 1) = <b>6</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-rate-work-b1deb",
+         "type": "numeric",
+         "topic": "algebra",
+         "difficulty": 2,
+         "meta": {
+          "r1": 60,
+          "r2": 40,
+          "D": 400,
+          "gen": "rate-work"
+         },
+         "prompt": "Two trains start at the same time from stations 400 miles apart and travel toward each other on parallel tracks at constant speeds of 60 and 40 miles per hour. How many hours after they start will they meet?",
+         "answer": 4,
+         "after": "hours",
+         "explanation": "<p>The distance between them shrinks at 60 + 40 = 100 mph. Time = 400 &divide; 100 = <b>4</b> hours.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-triangle-third-side-c4ewg",
+         "type": "mc-multi",
+         "topic": "geometry",
+         "difficulty": 2,
+         "meta": {
+          "a": 15,
+          "b": 7,
+          "opts": [
+           7,
+           8,
+           15,
+           21.5,
+           22,
+           23
+          ],
+          "gen": "triangle-third-side"
+         },
+         "prompt": "Two sides of a triangle have lengths 15 and 7. Which of the following could be the length of the third side?<br>Indicate <u>all</u> such lengths.",
+         "options": [
+          "7",
+          "8",
+          "15",
+          "21.5",
+          "22",
+          "23"
+         ],
+         "answer": [
+          2,
+          3
+         ],
+         "explanation": "<p>By the triangle inequality, the third side must be greater than 15 &minus; 7 = 8 and less than 15 + 7 = 22. The endpoints themselves are not allowed, because they would give a flat (degenerate) triangle.</p><p>Valid choices: <b>15, 21.5</b>.</p>",
+         "generated": true
+        }
+       }
+      ],
+      "limit": 1260,
+      "done": true
+     },
+     {
+      "answers": [
+       [
+        0
+       ],
+       [
+        4
+       ],
+       [
+        1,
+        2
+       ],
+       [
+        2,
+        1,
+        1
+       ],
+       [
+        2,
+        0,
+        0
+       ],
+       [
+        3
+       ],
+       [
+        0,
+        1
+       ],
+       [
+        9
+       ],
+       [
+        1
+       ],
+       [
+        4,
+        5
+       ],
+       [
+        3,
+        5
+       ],
+       [
+        4,
+        5
+       ],
+       [
+        4
+       ],
+       [
+        4
+       ],
+       [
+        0
+       ]
+      ],
+      "marked": [
+       true,
+       true,
+       true,
+       true,
+       true,
+       false,
+       false,
+       false,
+       false,
+       true,
+       false,
+       false,
+       false,
+       false,
+       false
+      ],
+      "times": [
+       174.50699999999983,
+       141.00400000000008,
+       147.50400000000005,
+       50.501999999999974,
+       34.495999999999995,
+       116.00299999999999,
+       82.006,
+       68.49099999999999,
+       81.49799999999998,
+       40.498,
+       25.497999999999998,
+       19.522,
+       42.99200000000001,
+       29.512,
+       103.99899999999997
+      ],
+      "checked": [
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false
+      ],
+      "cur": 14,
+      "elapsed": 1162.515999999997,
+      "remaining": 217.4840000000018,
+      "measure": "V",
+      "idx": 2,
+      "level": 2,
+      "title": "Verbal Reasoning",
+      "items": [
+       {
+        "q": {
+         "id": "tc016",
+         "type": "tc",
+         "topic": "tc",
+         "difficulty": 2,
+         "text": "The playwright was famously {1} about his methods; in fifty years of interviews he revealed almost nothing about how he wrote.",
+         "options": [
+          [
+           "reticent",
+           "voluble",
+           "forthcoming",
+           "boastful",
+           "indecisive"
+          ]
+         ],
+         "answer": [
+          0
+         ],
+         "explanation": "Revealing \"almost nothing\" over fifty years shows he was reticent (reluctant to disclose). Voluble, forthcoming, and boastful all imply talking freely about his methods; indecisive is about making decisions, not disclosure."
+        }
+       },
+       {
+        "q": {
+         "id": "tc013",
+         "type": "tc",
+         "topic": "tc",
+         "difficulty": 2,
+         "text": "Though the museum's director insisted that the restructuring was merely administrative, critics suspected the explanation was {1}, a pretext for dismissing curators who had opposed her.",
+         "options": [
+          [
+           "exhaustive",
+           "cogent",
+           "specious",
+           "ingenuous",
+           "forthright"
+          ]
+         ],
+         "answer": [
+          2
+         ],
+         "explanation": "Critics thought the explanation was a \"pretext,\" plausible on its surface but false: specious. Cogent and forthright would mean the critics believed her; ingenuous means naive or innocent, which does not match a deliberate pretext; exhaustive concerns thoroughness."
+        }
+       },
+       {
+        "q": {
+         "id": "tc045",
+         "type": "tc",
+         "topic": "tc",
+         "difficulty": 3,
+         "text": "That the author's style is {1} should not be mistaken for a lack of ambition; the very plainness of her sentences, stripped of every flourish, is the product of {2} revision.",
+         "options": [
+          [
+           "ornate",
+           "prosaic",
+           "turgid"
+          ],
+          [
+           "desultory",
+           "assiduous",
+           "cursory"
+          ]
+         ],
+         "answer": [
+          1,
+          1
+         ],
+         "explanation": "\"The very plainness of her sentences\" identifies the style as prosaic (plain, unadorned). Writing stripped of every flourish, as a sign of ambition, must come from careful, persistent revision: assiduous. Ornate and turgid contradict plainness; desultory and cursory revision would suggest the lack of ambition the sentence denies."
+        }
+       },
+       {
+        "q": {
+         "id": "tc060",
+         "type": "tc",
+         "topic": "tc",
+         "difficulty": 2,
+         "text": "The negotiator's {1} manner (she rarely spoke, and never more than necessary) was often taken for {2}. Those who worked with her, however, knew that her silence was strategic: it {3} her counterparts into revealing more than they intended.",
+         "options": [
+          [
+           "garrulous",
+           "bombastic",
+           "laconic"
+          ],
+          [
+           "eloquence",
+           "timidity",
+           "candor"
+          ],
+          [
+           "deterred",
+           "lured",
+           "bullied"
+          ]
+         ],
+         "answer": [
+          2,
+          1,
+          1
+         ],
+         "explanation": "Rarely speaking and never more than necessary is laconic. \"However... strategic\" implies observers wrongly read the silence as weakness: timidity. Strategic silence lured counterparts into over-sharing. Garrulous and bombastic contradict silence; eloquence and candor are not misreadings of silence; deterred reverses the effect and bullied does not fit silence."
+        }
+       },
+       {
+        "q": {
+         "id": "tc052",
+         "type": "tc",
+         "topic": "tc",
+         "difficulty": 1,
+         "text": "The scientist was {1} in her methods, repeating each experiment dozens of times. Her rival, by contrast, was notoriously {2}, publishing results after a single trial. Unsurprisingly, his findings were frequently {3} by later researchers.",
+         "options": [
+          [
+           "eccentric",
+           "careless",
+           "meticulous"
+          ],
+          [
+           "scrupulous",
+           "slapdash",
+           "reticent"
+          ],
+          [
+           "refuted",
+           "confirmed",
+           "cited"
+          ]
+         ],
+         "answer": [
+          2,
+          1,
+          0
+         ],
+         "explanation": "Repeating experiments dozens of times is meticulous; \"by contrast,\" the rival who published after one trial was slapdash; \"unsurprisingly,\" such hasty work was often refuted. Careless and scrupulous are on the wrong sides; confirmed would be surprising, and cited is neutral."
+        }
+       },
+       {
+        "q": {
+         "id": "p09q1",
+         "type": "rc-single",
+         "topic": "rc",
+         "difficulty": 2,
+         "prompt": "The primary purpose of the passage is to",
+         "options": [
+          "argue that predictions of widespread reef collapse are entirely unfounded",
+          "describe the process by which corals genetically evolve tolerance of heat",
+          "compare the nutritional value of different species of coral-dwelling algae",
+          "evaluate a proposed mechanism that might mitigate a predicted ecological outcome",
+          "explain why coral bleaching events have become more frequent"
+         ],
+         "answer": [
+          3
+         ],
+         "explanation": "The passage lays out the prediction of reef collapse, presents symbiont shuffling as a reason for less pessimism, and then judges that shuffling “may thus buy some reefs time” but is unlikely to offset warming on its own. The author does not call the prediction unfounded, genetic evolution is mentioned only in passing, and the comparison of algae serves the evaluation rather than being its purpose."
+        },
+        "pid": "p09"
+       },
+       {
+        "q": {
+         "id": "p09q2",
+         "type": "rc-multi",
+         "topic": "rc",
+         "difficulty": 3,
+         "prompt": "According to the passage, which of the following is a reason to doubt that symbiont shuffling will prevent widespread reef decline? Consider each of the choices separately and select all that apply.",
+         "options": [
+          "Corals that host heat-tolerant algae may receive less sugar from their partners.",
+          "Shifts toward heat-tolerant algae after bleaching often do not last.",
+          "Heat-tolerant algae occur in too few coral species to make a difference."
+         ],
+         "answer": [
+          0,
+          1
+         ],
+         "explanation": "The third paragraph gives two reasons. Heat-tolerant algae “supply their hosts with less sugar,” and the changes “prove temporary, reverting within a few years.” The passage never says heat-tolerant algae are limited to a few coral species."
+        },
+        "pid": "p09"
+       },
+       {
+        "q": {
+         "id": "p09q3",
+         "type": "rc-select",
+         "topic": "rc",
+         "difficulty": 2,
+         "prompt": "Select the sentence in the passage that presents evidence suggesting that corals can change the composition of their algal partners.",
+         "answer": [
+          7
+         ],
+         "explanation": "“Some corals that survive a bleaching event are later found to host a higher proportion of heat-tolerant algae than they did before, suggesting that corals might acquire greater resilience by exchanging one set of partners for another.” The sentence before it says the algae vary in heat tolerance, but this sentence gives the observation that the mix of algae can change."
+        },
+        "pid": "p09"
+       },
+       {
+        "q": {
+         "id": "p09q4",
+         "type": "rc-single",
+         "topic": "rc",
+         "difficulty": 3,
+         "prompt": "It can be inferred from the passage that a coral that has acquired a higher proportion of heat-tolerant algae through symbiont shuffling",
+         "options": [
+          "will be immune to future bleaching events",
+          "may be less well positioned to grow and reproduce than it was before",
+          "will pass on its increased heat tolerance genetically to its offspring",
+          "most likely belongs to a species that was previously heat-sensitive",
+          "will retain its new algal partners permanently"
+         ],
+         "answer": [
+          1
+         ],
+         "explanation": "Because heat-tolerant algae supply less sugar, “a coral that gains resilience in this way may grow more slowly and reproduce less.” Immunity is too extreme. Shuffling is contrasted with genetic change in the coral, so genetic inheritance is not implied. Permanence contradicts the point that such shifts often revert."
+        },
+        "pid": "p09"
+       },
+       {
+        "q": {
+         "id": "se019",
+         "type": "se",
+         "topic": "se",
+         "difficulty": 2,
+         "text": "The ambassador's {1} response neither confirmed nor denied the rumors of a secret agreement.",
+         "options": [
+          "candid",
+          "forthright",
+          "equivocal",
+          "belligerent",
+          "tardy",
+          "ambiguous"
+         ],
+         "answer": [
+          2,
+          5
+         ],
+         "explanation": "A response that \"neither confirmed nor denied\" is noncommittal: equivocal and ambiguous. Candid and forthright are a pair meaning frank, which contradicts the evasion. Belligerent and tardy have no partners."
+        }
+       },
+       {
+        "q": {
+         "id": "se007",
+         "type": "se",
+         "topic": "se",
+         "difficulty": 1,
+         "text": "The town's {1} donor, who funded the library, the hospital, and the park, asked that her name appear on none of them.",
+         "options": [
+          "munificent",
+          "parsimonious",
+          "miserly",
+          "wealthy",
+          "anonymous",
+          "generous"
+         ],
+         "answer": [
+          0,
+          5
+         ],
+         "explanation": "Funding three major institutions shows great generosity: munificent and generous. Parsimonious and miserly are a pair meaning stingy, the opposite. Wealthy fits but has no synonym among the choices; anonymous is redundant with the second clause and also lacks a partner."
+        }
+       },
+       {
+        "q": {
+         "id": "se032",
+         "type": "se",
+         "topic": "se",
+         "difficulty": 2,
+         "text": "The memoir's {1} tone (its author never raises her voice, even when describing grave injustices) makes its accusations all the more devastating.",
+         "options": [
+          "strident",
+          "shrill",
+          "bitter",
+          "nostalgic",
+          "measured",
+          "restrained"
+         ],
+         "answer": [
+          4,
+          5
+         ],
+         "explanation": "\"Never raises her voice\" defines a calm, controlled tone: measured and restrained. Strident and shrill form a pair meaning harsh and loud, the opposite. Bitter and nostalgic lack partners and contradict the parenthetical."
+        }
+       },
+       {
+        "q": {
+         "id": "p17q1",
+         "type": "rc-single",
+         "topic": "rc",
+         "difficulty": 3,
+         "prompt": "The researchers’ argument depends on which of the following assumptions?",
+         "options": [
+          "Rates of stomach cancer have been declining worldwide.",
+          "Residents of the community eat more of the fermented vegetable than does any other population in the world.",
+          "Every resident of the community eats the fermented vegetable daily.",
+          "The fermented vegetable provides no health benefits other than protection against stomach cancer.",
+          "The community’s low rate of stomach cancer is not primarily attributable to some other factor, such as a genetic trait common among its residents."
+         ],
+         "answer": [
+          4
+         ],
+         "explanation": "The researchers move from a correlation to a causal claim, so they must assume no other factor, such as genetics, mainly explains the low cancer rate. If one did, the conclusion and the recommendation would fail. The second and third choices are stronger than the argument requires, and the first and fourth have no bearing on it."
+        },
+        "pid": "p17"
+       },
+       {
+        "q": {
+         "id": "p02q1",
+         "type": "rc-single",
+         "topic": "rc",
+         "difficulty": 1,
+         "prompt": "Which of the following best expresses the main idea of the passage?",
+         "options": [
+          "Dutch still lifes were intended primarily as warnings against the austerity of Calvinist doctrine.",
+          "Seventeenth-century Dutch buyers generally preferred maps and tavern scenes to still lifes.",
+          "Art historians have consistently misidentified the symbols that appear in Dutch still lifes.",
+          "The popularity of Dutch still lifes declined once buyers recognized their moral content.",
+          "Evidence about how still lifes were bought and displayed complicates the view that they functioned chiefly as moral allegories."
+         ],
+         "answer": [
+          4
+         ],
+         "explanation": "The passage sets out the allegorical reading and then argues that market evidence “sits uneasily” with it, suggesting owners valued the works for virtuosity and luxury. The first choice gets the allegorical reading wrong. The passage does not say that buyers preferred maps, that historians misidentified symbols, or that the genre lost popularity."
+        },
+        "pid": "p02"
+       },
+       {
+        "q": {
+         "id": "p02q2",
+         "type": "rc-single",
+         "topic": "rc",
+         "difficulty": 1,
+         "prompt": "In the context of the passage, the phrase “not incidentally” serves primarily to",
+         "options": [
+          "signal that the author regards the point that follows as significant and somewhat ironic",
+          "concede a weakness in the author’s own argument",
+          "indicate that the point that follows is a minor digression from the argument",
+          "introduce evidence drawn from a later historical period",
+          "suggest that owners were unaware of the paintings’ moral meaning"
+         ],
+         "answer": [
+          0
+         ],
+         "explanation": "“Not incidentally” stresses a point that matters: the paintings showed off “the very luxury the allegorical reading assumes they condemned.” The irony is that works read as warnings against wealth worked as displays of it. The phrase draws attention to the point instead of downplaying it, and it brings in no concession and no new period."
+        },
+        "pid": "p02"
+       }
+      ],
+      "limit": 1380,
+      "done": true
+     },
+     {
+      "answers": [
+       [
+        3
+       ],
+       [
+        2
+       ],
+       [
+        2
+       ],
+       [
+        3
+       ],
+       [
+        0
+       ],
+       [
+        1
+       ],
+       [
+        1
+       ],
+       [
+        0
+       ],
+       [
+        0
+       ],
+       "165",
+       [
+        1
+       ],
+       [
+        3
+       ],
+       "18",
+       "168",
+       [
+        3
+       ]
+      ],
+      "marked": [
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       true,
+       false,
+       false
+      ],
+      "times": [
+       40.503000000000014,
+       17.004,
+       22.487000000000005,
+       12.511999999999999,
+       35.99499999999999,
+       49.001,
+       70.49300000000002,
+       19.502000000000002,
+       42.509,
+       37.98799999999999,
+       118.52000000000004,
+       66.98600000000002,
+       432.0000000000002,
+       139.49100000000004,
+       96.99300000000002
+      ],
+      "checked": [
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false
+      ],
+      "cur": 14,
+      "elapsed": 1209.000999999996,
+      "remaining": 350.9990000000081,
+      "measure": "Q",
+      "idx": 2,
+      "level": 3,
+      "title": "Quantitative Reasoning",
+      "items": [
+       {
+        "q": {
+         "id": "gen-algebra-qc-def3g",
+         "type": "qc",
+         "topic": "algebra",
+         "difficulty": 3,
+         "meta": {
+          "template": 9,
+          "c": 9,
+          "k": 14,
+          "gen": "algebra-qc"
+         },
+         "info": "<i>x</i> &ne; 0",
+         "quantityA": "<span class='frac'><span><i>x</i></span><span>|<i>x</i>|</span></span>",
+         "quantityB": "0",
+         "answer": [
+          3
+         ],
+         "explanation": "<p>A equals 1 when <i>x</i> &gt; 0 and &minus;1 when <i>x</i> &lt; 0.</p><p><b>The relationship cannot be determined</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-sd-qc-er50g",
+         "type": "qc",
+         "topic": "data",
+         "difficulty": 2,
+         "meta": {
+          "S": [
+           10,
+           12,
+           21,
+           25,
+           26
+          ],
+          "T": [
+           -10,
+           -12,
+           -21,
+           -25,
+           -26
+          ],
+          "kind": "negate",
+          "swap": false,
+          "gen": "sd-qc"
+         },
+         "info": "Data set <i>S</i>: 10, 12, 21, 25, 26<br>Each value of <i>T</i> is the negative of the corresponding value of <i>S</i>.",
+         "quantityA": "The standard deviation of <i>S</i>",
+         "quantityB": "The standard deviation of <i>T</i>",
+         "answer": [
+          2
+         ],
+         "explanation": "<p>Negating every value reflects the data; the distances from the mean are unchanged. (Population SDs: <i>S</i> &asymp; 6.62, <i>T</i> &asymp; 6.62.)</p><p><b>The two quantities are equal</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-prime-factor-qc-fezgy",
+         "type": "qc",
+         "topic": "arithmetic",
+         "difficulty": 3,
+         "meta": {
+          "kind": "square",
+          "gen": "prime-factor-qc"
+         },
+         "info": "<i>n</i> is a positive integer.",
+         "quantityA": "The number of distinct prime factors of <i>n</i><sup>2</sup>",
+         "quantityB": "The number of distinct prime factors of <i>n</i>",
+         "answer": [
+          2
+         ],
+         "explanation": "<p>Squaring changes only the exponents in the prime factorization, never which primes appear. The quantities are <b>equal</b> for every <i>n</i> (both are 0 when <i>n</i> = 1).</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-algebra-qc-gfpad",
+         "type": "qc",
+         "topic": "algebra",
+         "difficulty": 2,
+         "meta": {
+          "template": 13,
+          "c": 4,
+          "k": 20,
+          "gen": "algebra-qc"
+         },
+         "info": "<i>x</i><sup>2</sup> = 16",
+         "quantityA": "<i>x</i>",
+         "quantityB": "4",
+         "answer": [
+          3
+         ],
+         "explanation": "<p><i>x</i> could be 4 (equal) or &minus;4 (B is greater).</p><p><b>The relationship cannot be determined</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-algebra-qc-h3fta",
+         "type": "qc",
+         "topic": "algebra",
+         "difficulty": 3,
+         "meta": {
+          "template": 10,
+          "c": 7,
+          "k": 20,
+          "gen": "algebra-qc"
+         },
+         "info": "<i>x</i> &lt; <i>y</i> &lt; 0",
+         "quantityA": "<span class='frac'><span><i>x</i></span><span><i>y</i></span></span>",
+         "quantityB": "1",
+         "answer": [
+          0
+         ],
+         "explanation": "<p>Both are negative, so <span class='frac'><span><i>x</i></span><span><i>y</i></span></span> is positive, and |<i>x</i>| &gt; |<i>y</i>| makes it greater than 1. (e.g., &minus;6/&minus;3 = 2)</p><p><b>Quantity A is greater</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-arithmetic-sequence-ijxeg",
+         "type": "mc-single",
+         "topic": "algebra",
+         "difficulty": 1,
+         "meta": {
+          "a": 17,
+          "d": 4,
+          "n": 16,
+          "gen": "arithmetic-sequence"
+         },
+         "prompt": "The first term of an arithmetic sequence is 17, and each term after the first is 4 more than the previous term. What is the 16th term?",
+         "explanation": "<p><i>a</i><sub><i>n</i></sub> = <i>a</i><sub>1</sub> + (<i>n</i> &minus; 1)<i>d</i> = 17 + (15)(4) = <b>77</b>. Using <i>n</i> instead of <i>n</i> &minus; 1 is the classic off-by-one error.</p>",
+         "options": [
+          "73",
+          "77",
+          "81",
+          "85",
+          "272"
+         ],
+         "answer": [
+          1
+         ],
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-box-solid-jmtll",
+         "type": "mc-single",
+         "topic": "geometry",
+         "difficulty": 2,
+         "meta": {
+          "l": 12,
+          "w": 4,
+          "h": 4,
+          "kind": "surface",
+          "gen": "box-solid"
+         },
+         "prompt": "What is the total surface area of a rectangular box with dimensions 12 by 4 by 4?",
+         "explanation": "<p>SA = 2(<i>lw</i> + <i>lh</i> + <i>wh</i>) = 2(48 + 48 + 16) = <b>224</b>. (Forgetting the factor of 2 gives 112.)</p>",
+         "options": [
+          "112",
+          "224",
+          "246",
+          "288",
+          "320"
+         ],
+         "answer": [
+          1
+         ],
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-remainder-kzkll",
+         "type": "mc-single",
+         "topic": "arithmetic",
+         "difficulty": 1,
+         "meta": {
+          "N": 513,
+          "m": 9,
+          "gen": "remainder"
+         },
+         "prompt": "What is the remainder when 513 is divided by 9?",
+         "explanation": "<p>513 = 9 &times; 57 + 0, so the remainder is <b>0</b>. (57 is the quotient, not the remainder.)</p>",
+         "options": [
+          "0",
+          "1",
+          "2",
+          "9",
+          "57"
+         ],
+         "answer": [
+          0
+         ],
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-special-right-triangle-li2hx",
+         "type": "mc-single",
+         "topic": "geometry",
+         "difficulty": 2,
+         "meta": {
+          "kind": "30short",
+          "s": 3,
+          "m": 8,
+          "gen": "special-right-triangle"
+         },
+         "prompt": "In a 30&deg;-60&deg;-90&deg; triangle, the side opposite the 30&deg; angle has length 3. What is the length of the side opposite the 60&deg; angle?",
+         "options": [
+          "3&radic;3",
+          "6",
+          "4&radic;3",
+          "5&radic;3",
+          "6&radic;3"
+         ],
+         "answer": [
+          0
+         ],
+         "explanation": "<p>The sides are in the ratio 1 : &radic;3 : 2, so the side opposite 60&deg; is 3&radic;3.</p><p>Answer: <b>3&radic;3</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "ds07-q1",
+         "type": "numeric",
+         "topic": "data",
+         "difficulty": 2,
+         "prompt": "How many employees of Firm F worked remotely in 2021?",
+         "answer": 165,
+         "after": "employees",
+         "explanation": "<p>50% of 330 = <b>165</b>.</p>"
+        },
+        "sid": "ds07"
+       },
+       {
+        "q": {
+         "id": "ds07-q2",
+         "type": "mc-single",
+         "topic": "data",
+         "difficulty": 3,
+         "prompt": "In which year was the increase over the previous year in the <u>number</u> of remote employees the greatest?",
+         "options": [
+          "2019",
+          "2020",
+          "2021",
+          "2022",
+          "The increase was the same in two of these years."
+         ],
+         "answer": [
+          1
+         ],
+         "explanation": "<p>Remote employees: 2018: 20, 2019: 36, 2020: 120, 2021: 165, 2022: 162. The increases were 16, 84, 45, and &minus;3. The greatest was in <b>2020</b>.</p>"
+        },
+        "sid": "ds07"
+       },
+       {
+        "q": {
+         "id": "ds07-q3",
+         "type": "mc-single",
+         "topic": "data",
+         "difficulty": 3,
+         "prompt": "The number of employees who did <u>not</u> work remotely in 2022 was what percent of the number who did not work remotely in 2018?",
+         "options": [
+          "180%",
+          "90%",
+          "120%",
+          "110%",
+          "100%"
+         ],
+         "answer": [
+          3
+         ],
+         "explanation": "<p>Non-remote in 2018: 200 &minus; 20 = 180. Non-remote in 2022: 360 &minus; 162 = 198. 198/180 = 1.1 = <b>110%</b>.</p>"
+        },
+        "sid": "ds07"
+       },
+       {
+        "q": {
+         "id": "gen-ratio-share-mzq4q",
+         "type": "numeric",
+         "topic": "arithmetic",
+         "difficulty": 3,
+         "meta": {
+          "A": 3,
+          "B": 2,
+          "C": 1,
+          "D": 2,
+          "k": 24,
+          "gen": "ratio-share"
+         },
+         "prompt": "In a club, the ratio of members who are adults to members who are children is 3 : 2. After 24 more children join and no one leaves, the ratio becomes 1 : 2. How many adults are in the club?",
+         "answer": 18,
+         "explanation": "<p>Let the counts be 3<i>t</i> adults and 2<i>t</i> children. Then <span class='frac'><span>3<i>t</i></span><span>2<i>t</i> + 24</span></span> = <span class='frac'><span>1</span><span>2</span></span>, so 6<i>t</i> = 2<i>t</i> + 24.</p><p>4<i>t</i> = 24 gives <i>t</i> = 6. The number of adults is 3 &times; 6 = <b>18</b>.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-polygon-angles-nql36",
+         "type": "numeric",
+         "topic": "geometry",
+         "difficulty": 2,
+         "meta": {
+          "n": 30,
+          "kind": "each",
+          "gen": "polygon-angles"
+         },
+         "prompt": "What is the measure, in degrees, of each interior angle of a regular polygon with 30 sides?",
+         "answer": 168,
+         "after": "&deg;",
+         "explanation": "<p>Each exterior angle is 360&deg; &divide; 30 = 12&deg;, so each interior angle is 180&deg; &minus; 12&deg; = <b>168</b>&deg;.</p>",
+         "generated": true
+        }
+       },
+       {
+        "q": {
+         "id": "gen-primes-multi-owzk6",
+         "type": "mc-multi",
+         "topic": "arithmetic",
+         "difficulty": 2,
+         "meta": {
+          "list": [
+           49,
+           87,
+           133,
+           139,
+           143
+          ],
+          "gen": "primes-multi"
+         },
+         "prompt": "Which of the following numbers are prime?<br>Indicate <u>all</u> such numbers.",
+         "options": [
+          "49",
+          "87",
+          "133",
+          "139",
+          "143"
+         ],
+         "answer": [
+          3
+         ],
+         "explanation": "<ul><li>49 = 7 &times; 7, so it is not prime.</li><li>87 = 3 &times; 29, so it is not prime.</li><li>133 = 7 &times; 19, so it is not prime.</li><li>139 is prime (no prime factor up to &radic;139 &asymp; 11).</li><li>143 = 11 &times; 13, so it is not prime.</li></ul>",
+         "generated": true
+        }
+       }
+      ],
+      "limit": 1560,
+      "done": true
+     }
+    ],
+    "scores": {
+     "V": 155,
+     "Q": 170
+    }
+   },
+   {
+    "id": "mwnvia4wqob7w",
+    "mode": "V",
+    "title": "Verbal Reasoning Test",
+    "date": 1795112357228,
+    "quit": true,
+    "sections": [
+     {
+      "answers": [
+       [
+        0
+       ],
+       null,
+       null,
+       null,
+       null,
+       null,
+       null,
+       null,
+       null,
+       null,
+       null,
+       null
+      ],
+      "marked": [
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false
+      ],
+      "times": [
+       62.004000000000005,
+       0,
+       0,
+       0.501,
+       0,
+       0,
+       0,
+       0.505,
+       0,
+       0,
+       0.503,
+       1.488
+      ],
+      "checked": [
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false,
+       false
+      ],
+      "cur": 11,
+      "elapsed": 65.001,
+      "remaining": 1014.9989999999989,
+      "measure": "V",
+      "idx": 1,
+      "level": 2,
+      "title": "Verbal Reasoning",
+      "items": [
+       {
+        "q": {
+         "id": "tc018",
+         "type": "tc",
+         "topic": "tc",
+         "difficulty": 2,
+         "text": "Whereas his predecessor had squandered the foundation's endowment on lavish galas, the new director was almost {1}, scrutinizing every expenditure, however trivial.",
+         "options": [
+          [
+           "profligate",
+           "munificent",
+           "parsimonious",
+           "prodigal",
+           "magnanimous"
+          ]
+         ],
+         "answer": [
+          2
+         ],
+         "explanation": "\"Whereas\" contrasts the new director with a predecessor who \"squandered\" money, and he scrutinizes every expense, so he is extremely stingy: parsimonious. Profligate and prodigal describe the predecessor; munificent and magnanimous suggest generosity."
+        }
+       },
+       {
+        "q": {
+         "id": "tc042",
+         "type": "tc",
+         "topic": "tc",
+         "difficulty": 3,
+         "text": "Scholars have tended to {1} the poet's debt to popular ballads, treating it as a youthful affectation; yet the ballad's rhythms are {2} in even her most austere late lyrics.",
+         "options": [
+          [
+           "overstate",
+           "discount",
+           "celebrate"
+          ],
+          [
+           "discernible",
+           "absent",
+           "parodied"
+          ]
+         ],
+         "answer": [
+          1,
+          0
+         ],
+         "explanation": "Treating the debt as a mere \"youthful affectation\" minimizes it: discount. \"Yet\" introduces the author's rebuttal, that the influence persists into her late work: the rhythms are discernible even there. Overstate and celebrate are the reverse of treating it as a mere affectation; absent would agree with the scholars, removing the \"yet\"; parodied introduces an unsupported idea."
+        }
+       },
+       {
+        "q": {
+         "id": "tc028",
+         "type": "tc",
+         "topic": "tc",
+         "difficulty": 1,
+         "text": "The explorer's mood shifted markedly over the course of the journey: initially {1} about the expedition's chances, he grew {2} as supplies dwindled and the weather worsened.",
+         "options": [
+          [
+           "despairing",
+           "sanguine",
+           "dejected"
+          ],
+          [
+           "confident",
+           "complacent",
+           "despondent"
+          ]
+         ],
+         "answer": [
+          1,
+          2
+         ],
+         "explanation": "\"Shifted markedly\" requires the two moods to contrast; worsening conditions would make him despondent, so at first he must have been hopeful: sanguine. Despairing and dejected leave no shift in mood. Confident and complacent do not fit dwindling supplies and worsening weather."
+        }
+       },
+       {
+        "q": {
+         "id": "tc053",
+         "type": "tc",
+         "topic": "tc",
+         "difficulty": 1,
+         "text": "At first the protest was small and {1}, attracting only a handful of students. As news of the arrests spread, however, it {2} rapidly, and within a week tens of thousands had joined. Officials who had initially {3} the demonstrations were forced to negotiate.",
+         "options": [
+          [
+           "massive",
+           "obscure",
+           "celebrated"
+          ],
+          [
+           "waned",
+           "stagnated",
+           "burgeoned"
+          ],
+          [
+           "organized",
+           "dismissed",
+           "encouraged"
+          ]
+         ],
+         "answer": [
+          1,
+          2,
+          1
+         ],
+         "explanation": "\"Small\" and \"only a handful\" pair with obscure; growth to tens of thousands means it burgeoned; officials \"forced to negotiate\" must earlier have dismissed the protest as unimportant. Massive and celebrated contradict \"small\"; waned and stagnated contradict the growth; officials would not have organized or encouraged a protest they were later forced to negotiate with."
+        }
+       },
+       {
+        "q": {
+         "id": "p13q1",
+         "type": "rc-single",
+         "topic": "rc",
+         "difficulty": 2,
+         "prompt": "Which of the following best states the main point of the passage?",
+         "options": [
+          "Understanding the serial context of nineteenth-century novels illuminates features once regarded as flaws, though it does not settle questions of the novels’ merit.",
+          "Twentieth-century critics were correct that serial novels generally lack overall design.",
+          "Commercial pressure damaged most novels that were published in installments.",
+          "Nineteenth-century serial novels are best read in installments by modern readers.",
+          "Writers of serial novels planned their works meticulously in advance."
+         ],
+         "answer": [
+          0
+         ],
+         "explanation": "The passage accepts the scholarly reconstruction as “valuable” but warns that it “should not become a blanket defense.” The serial context is “a necessary starting point for judging these novels, not a substitute for judgment.” The second choice is the view the newer scholarship challenges. The third and fifth choices distort details, since the passage refers to “some” serial novels and “some writers.”"
+        },
+        "pid": "p13"
+       },
+       {
+        "q": {
+         "id": "p13q2",
+         "type": "rc-single",
+         "topic": "rc",
+         "difficulty": 1,
+         "prompt": "In the context of the passage, the word “number” (in “discussing each number with friends”) most nearly means",
+         "options": [
+          "numerical figure",
+          "installment",
+          "group of readers",
+          "sum paid for a subscription",
+          "musical piece"
+         ],
+         "answer": [
+          1
+         ],
+         "explanation": "The passage is about novels “issued monthly or weekly” in installments. Readers discussed each issue as it appeared, so “number” means a single installment of a serial publication."
+        },
+        "pid": "p13"
+       },
+       {
+        "q": {
+         "id": "p13q3",
+         "type": "rc-multi",
+         "topic": "rc",
+         "difficulty": 2,
+         "prompt": "According to the passage, recent scholarship explains which of the following features of serial novels as responses to the conditions of installment publication? Consider each of the choices separately and select all that apply.",
+         "options": [
+          "Recapitulations of earlier events",
+          "Recurring catchphrases attached to minor characters",
+          "Abrupt cliffhangers"
+         ],
+         "answer": [
+          0,
+          1,
+          2
+         ],
+         "explanation": "Recapitulations and recurring catchphrases “served to orient readers who had last encountered the story weeks before.” The cliffhanger was “a deliberate device for sustaining interest across the interval between installments.” All three are explained by the serial format."
+        },
+        "pid": "p13"
+       },
+       {
+        "q": {
+         "id": "p13q4",
+         "type": "rc-select",
+         "topic": "rc",
+         "difficulty": 3,
+         "prompt": "Select the sentence in the passage that distinguishes between accounting for a literary feature and vindicating it.",
+         "answer": [
+          10
+         ],
+         "explanation": "“To explain why a feature was present is not to establish that it was successful, and some serial novels were in fact shaped by commercial pressure in ways that their own authors regretted.” Its first clause separates explaining a feature from justifying it."
+        },
+        "pid": "p13"
+       },
+       {
+        "q": {
+         "id": "se043",
+         "type": "se",
+         "topic": "se",
+         "difficulty": 3,
+         "text": "The committee's praise for the proposal was {1}, coming only after a long list of objections had been aired.",
+         "options": [
+          "effusive",
+          "grudging",
+          "fulsome",
+          "premature",
+          "anonymous",
+          "reluctant"
+         ],
+         "answer": [
+          1,
+          5
+         ],
+         "explanation": "Praise offered \"only after a long list of objections\" is given unwillingly: grudging and reluctant. Effusive and fulsome form a pair meaning lavish, contradicting the objections. Premature contradicts \"only after\"; anonymous lacks a partner."
+        }
+       },
+       {
+        "q": {
+         "id": "se030",
+         "type": "se",
+         "topic": "se",
+         "difficulty": 2,
+         "text": "Reviewers found the sequel {1}, lacking the wit and invention that had made the original so delightful.",
+         "options": [
+          "insipid",
+          "incisive",
+          "vapid",
+          "piquant",
+          "lengthy",
+          "expensive"
+         ],
+         "answer": [
+          0,
+          2
+         ],
+         "explanation": "A work lacking wit and invention is dull and flavorless: insipid and vapid. Incisive and piquant roughly pair as sharp or stimulating, the opposite. Lengthy and expensive are irrelevant to wit and have no partners."
+        }
+       },
+       {
+        "q": {
+         "id": "p16q1",
+         "type": "rc-single",
+         "topic": "rc",
+         "difficulty": 2,
+         "prompt": "Which of the following, if true, most seriously weakens the city council’s argument?",
+         "options": [
+          "Residents of several neighborhoods have publicly expressed support for brighter street lighting.",
+          "The new lighting consumes less electricity than the lighting it replaced.",
+          "During the same year, the police department doubled the number of officers patrolling the central business district at night.",
+          "The brighter lighting in the central business district cost less to install than city planners had projected.",
+          "Several other cities that installed brighter street lighting saw a decrease in nighttime traffic accidents."
+         ],
+         "answer": [
+          2
+         ],
+         "explanation": "The argument assumes the lighting caused the drop in burglaries. Doubling night patrols in the same district at the same time offers another explanation, which undermines the basis for expecting the same result elsewhere. The other choices, such as residents’ support for the lighting or its cost and energy use, are irrelevant to whether the lighting reduces burglary."
+        },
+        "pid": "p16"
+       },
+       {
+        "q": {
+         "id": "p08q1",
+         "type": "rc-single",
+         "topic": "rc",
+         "difficulty": 1,
+         "prompt": "According to the passage, musicians recording on 78-rpm discs had to",
+         "options": [
+          "record their performances in dance halls rather than in studios",
+          "abandon improvisation altogether",
+          "condense performances that might otherwise have lasted much longer",
+          "use larger discs for longer tunes",
+          "play every tune at a faster tempo than usual"
+         ],
+         "answer": [
+          2
+         ],
+         "explanation": "Musicians who “might stretch a tune across a quarter of an hour had to compress their ideas drastically.” Giving up improvisation altogether goes beyond what the passage says, and nothing is said about recording in dance halls, using larger discs, or playing faster."
+        },
+        "pid": "p08"
+       }
+      ],
+      "limit": 1080,
+      "done": true
+     }
+    ],
+    "scores": {
+     "V": 130
+    }
+   },
    {
     "id": "mwmi4cjdzfqzm",
     "mode": "V",
@@ -9320,56 +11386,56 @@
   ],
   "gre.stats": {
    "tc": {
-    "c": 20,
-    "t": 40
+    "c": 25,
+    "t": 53
    },
    "rc-single": {
-    "c": 32,
-    "t": 37
+    "c": 40,
+    "t": 50
    },
    "rc-select": {
     "c": 5,
-    "t": 10
+    "t": 13
    },
    "rc-multi": {
-    "c": 10,
-    "t": 11
+    "c": 11,
+    "t": 14
    },
    "se": {
-    "c": 11,
-    "t": 22
+    "c": 13,
+    "t": 29
    },
    "qc": {
-    "c": 51,
-    "t": 63
+    "c": 60,
+    "t": 72
    },
    "topic:algebra": {
-    "c": 34,
-    "t": 36
+    "c": 40,
+    "t": 42
    },
    "topic:arithmetic": {
-    "c": 39,
-    "t": 54
+    "c": 49,
+    "t": 64
    },
    "topic:data": {
-    "c": 50,
-    "t": 59
+    "c": 56,
+    "t": 65
    },
    "topic:geometry": {
-    "c": 28,
-    "t": 40
+    "c": 33,
+    "t": 45
    },
    "mc-multi": {
-    "c": 18,
-    "t": 24
+    "c": 21,
+    "t": 27
    },
    "mc-single": {
-    "c": 56,
-    "t": 67
+    "c": 66,
+    "t": 77
    },
    "numeric": {
-    "c": 24,
-    "t": 30
+    "c": 29,
+    "t": 35
    },
    "fraction": {
     "c": 2,
@@ -9388,7 +11454,7 @@
    "se014": 1,
    "se041": 1,
    "p19q1": 2,
-   "p07q1": 1,
+   "p07q1": 2,
    "tc024": 1,
    "tc012": 1,
    "tc047": 1,
@@ -9441,8 +11507,8 @@
    "p11q4": 1,
    "se020": 1,
    "se046": 1,
-   "p16q1": 1,
-   "p08q1": 1,
+   "p16q1": 2,
+   "p08q1": 2,
    "q-a06": 1,
    "q-g07": 1,
    "q-b02": 1,
@@ -9460,14 +11526,14 @@
    "tc044": 1,
    "tc055": 1,
    "tc066": 1,
-   "p10q1": 1,
-   "p10q2": 1,
-   "p10q3": 1,
-   "p10q4": 1,
+   "p10q1": 2,
+   "p10q2": 2,
+   "p10q3": 2,
+   "p10q4": 2,
    "se029": 1,
    "se033": 1,
    "se024": 1,
-   "p21q1": 1,
+   "p21q1": 2,
    "p03q1": 1,
    "p03q2": 1,
    "q-d11": 1,
@@ -9479,9 +11545,9 @@
    "q-b21": 1,
    "q-a24": 2,
    "q-g28": 2,
-   "ds07-q1": 1,
-   "ds07-q2": 1,
-   "ds07-q3": 1,
+   "ds07-q1": 2,
+   "ds07-q2": 2,
+   "ds07-q3": 2,
    "q-b16": 1,
    "q-b26": 1,
    "q-a19": 1,
@@ -9570,10 +11636,10 @@
    "tc046": 1,
    "tc032": 1,
    "tc054": 1,
-   "p13q1": 1,
-   "p13q2": 1,
-   "p13q3": 1,
-   "p13q4": 1,
+   "p13q1": 2,
+   "p13q2": 2,
+   "p13q3": 2,
+   "p13q4": 2,
    "se011": 1,
    "se025": 1,
    "p22q1": 1,
@@ -9583,14 +11649,14 @@
    "tc030": 1,
    "tc049": 1,
    "tc051": 1,
-   "p09q1": 1,
-   "p09q2": 1,
-   "p09q3": 1,
-   "p09q4": 1,
+   "p09q1": 2,
+   "p09q2": 2,
+   "p09q3": 2,
+   "p09q4": 2,
    "se039": 1,
    "se031": 1,
    "se027": 1,
-   "p17q1": 1,
+   "p17q1": 2,
    "p06q1": 1,
    "p06q2": 1,
    "gen-prime-factor-qc-1nvbe": 1,
@@ -9616,7 +11682,7 @@
    "se005": 1,
    "se026": 1,
    "p18q1": 1,
-   "p02q1": 1,
+   "p02q1": 2,
    "gen-prime-factor-qc-c6axs": 1,
    "gen-prime-factor-qc-dzrzu": 1,
    "gen-geometry-qc-ea18c": 1,
@@ -9719,7 +11785,52 @@
    "gen-weighted-average-2j8v3e": 1,
    "gen-stats-multi-2k8o2p": 1,
    "gen-median-mode-2lzqnn": 1,
-   "gen-units-digit-2me8so": 1
+   "gen-units-digit-2me8so": 1,
+   "tc018": 1,
+   "tc042": 1,
+   "tc028": 1,
+   "tc053": 1,
+   "se043": 1,
+   "se030": 1,
+   "tc022": 1,
+   "tc037": 1,
+   "tc034": 1,
+   "tc050": 1,
+   "se038": 1,
+   "se034": 1,
+   "gen-prime-factor-qc-1qcj9": 1,
+   "gen-sd-qc-2vkln": 1,
+   "gen-geometry-qc-3n96v": 1,
+   "gen-prime-factor-qc-4om8x": 1,
+   "gen-units-digit-5gqn0": 1,
+   "gen-quadratic-roots-6160s": 1,
+   "gen-normal-distribution-7hten": 1,
+   "gen-units-digit-8xwcv": 1,
+   "gen-units-digit-9h4t": 1,
+   "gen-divisor-count-ahsjj": 1,
+   "gen-rate-work-b1deb": 1,
+   "gen-triangle-third-side-c4ewg": 1,
+   "tc016": 1,
+   "tc013": 1,
+   "tc045": 1,
+   "tc060": 1,
+   "tc052": 1,
+   "se019": 1,
+   "se007": 1,
+   "se032": 1,
+   "p02q2": 1,
+   "gen-algebra-qc-def3g": 1,
+   "gen-sd-qc-er50g": 1,
+   "gen-prime-factor-qc-fezgy": 1,
+   "gen-algebra-qc-gfpad": 1,
+   "gen-algebra-qc-h3fta": 1,
+   "gen-arithmetic-sequence-ijxeg": 1,
+   "gen-box-solid-jmtll": 1,
+   "gen-remainder-kzkll": 1,
+   "gen-special-right-triangle-li2hx": 1,
+   "gen-ratio-share-mzq4q": 1,
+   "gen-polygon-angles-nql36": 1,
+   "gen-primes-multi-owzk6": 1
   },
   "gre.mistakes": {
    "tc039": {
@@ -10157,7 +12268,7 @@
      "explanation": "“This defense is weaker than it appears, however, for the bias need not have been constant: if the age at which writing was taught, or the length of time poorer children remained in school, changed over the period, then apparent trends in signature rates might reflect changes in schooling rather than in the spread of reading.” The earlier sentences in that paragraph state the defenders’ position. This one gives the author’s objection to it."
     },
     "pid": "p10",
-    "t": 1791919324878
+    "t": 1795125219018
    },
    "se029": {
     "q": {
@@ -10500,7 +12611,7 @@
      "explanation": "The passage is about novels “issued monthly or weekly” in installments. Readers discussed each issue as it appeared, so “number” means a single installment of a serial publication."
     },
     "pid": "p13",
-    "t": 1795029503798
+    "t": 1795112353625
    },
    "tc030": {
     "q": {
@@ -10542,7 +12653,7 @@
      "explanation": "“Some corals that survive a bleaching event are later found to host a higher proportion of heat-tolerant algae than they did before, suggesting that corals might acquire greater resilience by exchanging one set of partners for another.” The sentence before it says the algae vary in heat tolerance, but this sentence gives the observation that the mix of algae can change."
     },
     "pid": "p09",
-    "t": 1793116186925
+    "t": 1795127595577
    },
    "se039": {
     "q": {
@@ -11331,33 +13442,6 @@
     },
     "t": 1795029503798
    },
-   "tc037": {
-    "q": {
-     "id": "tc037",
-     "type": "tc",
-     "topic": "tc",
-     "difficulty": 2,
-     "text": "The biographer avoids both {1} and denigration: she neither glosses over her subject's failings nor {2} his genuine achievements.",
-     "options": [
-      [
-       "hagiography",
-       "criticism",
-       "objectivity"
-      ],
-      [
-       "exaggerates",
-       "catalogues",
-       "belittles"
-      ]
-     ],
-     "answer": [
-      0,
-      2
-     ],
-     "explanation": "The colon maps each extreme onto a clause. Glossing over failings is the fault of hagiography (worshipful biography), and denigration corresponds to belittling achievements. Criticism is close to denigration, so it does not supply the opposite extreme; avoiding objectivity is not a virtue; exaggerating achievements would be a hagiographer's fault, not a denigrator's."
-    },
-    "t": 1795029503798
-   },
    "tc040": {
     "q": {
      "id": "tc040",
@@ -11385,39 +13469,6 @@
     },
     "t": 1795029503798
    },
-   "tc060": {
-    "q": {
-     "id": "tc060",
-     "type": "tc",
-     "topic": "tc",
-     "difficulty": 2,
-     "text": "The negotiator's {1} manner (she rarely spoke, and never more than necessary) was often taken for {2}. Those who worked with her, however, knew that her silence was strategic: it {3} her counterparts into revealing more than they intended.",
-     "options": [
-      [
-       "garrulous",
-       "bombastic",
-       "laconic"
-      ],
-      [
-       "eloquence",
-       "timidity",
-       "candor"
-      ],
-      [
-       "deterred",
-       "lured",
-       "bullied"
-      ]
-     ],
-     "answer": [
-      2,
-      1,
-      1
-     ],
-     "explanation": "Rarely speaking and never more than necessary is laconic. \"However... strategic\" implies observers wrongly read the silence as weakness: timidity. Strategic silence lured counterparts into over-sharing. Garrulous and bombastic contradict silence; eloquence and candor are not misreadings of silence; deterred reverses the effect and bullied does not fit silence."
-    },
-    "t": 1795029503798
-   },
    "p13q1": {
     "q": {
      "id": "p13q1",
@@ -11438,7 +13489,7 @@
      "explanation": "The passage accepts the scholarly reconstruction as “valuable” but warns that it “should not become a blanket defense.” The serial context is “a necessary starting point for judging these novels, not a substitute for judgment.” The second choice is the view the newer scholarship challenges. The third and fifth choices distort details, since the passage refers to “some” serial novels and “some writers.”"
     },
     "pid": "p13",
-    "t": 1795029503798
+    "t": 1795112353625
    },
    "p13q3": {
     "q": {
@@ -11460,7 +13511,7 @@
      "explanation": "Recapitulations and recurring catchphrases “served to orient readers who had last encountered the story weeks before.” The cliffhanger was “a deliberate device for sustaining interest across the interval between installments.” All three are explained by the serial format."
     },
     "pid": "p13",
-    "t": 1795029503798
+    "t": 1795112353625
    },
    "p13q4": {
     "q": {
@@ -11475,30 +13526,7 @@
      "explanation": "“To explain why a feature was present is not to establish that it was successful, and some serial novels were in fact shaped by commercial pressure in ways that their own authors regretted.” Its first clause separates explaining a feature from justifying it."
     },
     "pid": "p13",
-    "t": 1795029503798
-   },
-   "se034": {
-    "q": {
-     "id": "se034",
-     "type": "se",
-     "topic": "se",
-     "difficulty": 3,
-     "text": "The essay's argument is more {1} than its breezy style suggests: beneath the jokes lies a careful, closely reasoned case.",
-     "options": [
-      "facile",
-      "rigorous",
-      "glib",
-      "entertaining",
-      "cogent",
-      "controversial"
-     ],
-     "answer": [
-      1,
-      4
-     ],
-     "explanation": "\"Careful, closely reasoned\" defines the blank, contrasted with a \"breezy style\": rigorous and cogent. Facile and glib form a pair, but they describe what the breezy style misleadingly suggests. Entertaining describes the style, not the argument; controversial has no partner."
-    },
-    "t": 1795029503798
+    "t": 1795112353625
    },
    "se017": {
     "q": {
@@ -11565,13 +13593,410 @@
      "explanation": "The sentence explains why the finding looks puzzling: friends are “presumably more motivated to help.” The author never doubts the finding, and the resolution comes in later sentences. “Presumably” marks an assumption, not evidence, and no contradicting finding is introduced."
     },
     "pid": "p07",
-    "t": 1795029503798
+    "t": 1795125219018
+   },
+   "tc018": {
+    "q": {
+     "id": "tc018",
+     "type": "tc",
+     "topic": "tc",
+     "difficulty": 2,
+     "text": "Whereas his predecessor had squandered the foundation's endowment on lavish galas, the new director was almost {1}, scrutinizing every expenditure, however trivial.",
+     "options": [
+      [
+       "profligate",
+       "munificent",
+       "parsimonious",
+       "prodigal",
+       "magnanimous"
+      ]
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "\"Whereas\" contrasts the new director with a predecessor who \"squandered\" money, and he scrutinizes every expense, so he is extremely stingy: parsimonious. Profligate and prodigal describe the predecessor; munificent and magnanimous suggest generosity."
+    },
+    "t": 1795112353625
+   },
+   "tc042": {
+    "q": {
+     "id": "tc042",
+     "type": "tc",
+     "topic": "tc",
+     "difficulty": 3,
+     "text": "Scholars have tended to {1} the poet's debt to popular ballads, treating it as a youthful affectation; yet the ballad's rhythms are {2} in even her most austere late lyrics.",
+     "options": [
+      [
+       "overstate",
+       "discount",
+       "celebrate"
+      ],
+      [
+       "discernible",
+       "absent",
+       "parodied"
+      ]
+     ],
+     "answer": [
+      1,
+      0
+     ],
+     "explanation": "Treating the debt as a mere \"youthful affectation\" minimizes it: discount. \"Yet\" introduces the author's rebuttal, that the influence persists into her late work: the rhythms are discernible even there. Overstate and celebrate are the reverse of treating it as a mere affectation; absent would agree with the scholars, removing the \"yet\"; parodied introduces an unsupported idea."
+    },
+    "t": 1795112353625
+   },
+   "tc028": {
+    "q": {
+     "id": "tc028",
+     "type": "tc",
+     "topic": "tc",
+     "difficulty": 1,
+     "text": "The explorer's mood shifted markedly over the course of the journey: initially {1} about the expedition's chances, he grew {2} as supplies dwindled and the weather worsened.",
+     "options": [
+      [
+       "despairing",
+       "sanguine",
+       "dejected"
+      ],
+      [
+       "confident",
+       "complacent",
+       "despondent"
+      ]
+     ],
+     "answer": [
+      1,
+      2
+     ],
+     "explanation": "\"Shifted markedly\" requires the two moods to contrast; worsening conditions would make him despondent, so at first he must have been hopeful: sanguine. Despairing and dejected leave no shift in mood. Confident and complacent do not fit dwindling supplies and worsening weather."
+    },
+    "t": 1795112353625
+   },
+   "tc053": {
+    "q": {
+     "id": "tc053",
+     "type": "tc",
+     "topic": "tc",
+     "difficulty": 1,
+     "text": "At first the protest was small and {1}, attracting only a handful of students. As news of the arrests spread, however, it {2} rapidly, and within a week tens of thousands had joined. Officials who had initially {3} the demonstrations were forced to negotiate.",
+     "options": [
+      [
+       "massive",
+       "obscure",
+       "celebrated"
+      ],
+      [
+       "waned",
+       "stagnated",
+       "burgeoned"
+      ],
+      [
+       "organized",
+       "dismissed",
+       "encouraged"
+      ]
+     ],
+     "answer": [
+      1,
+      2,
+      1
+     ],
+     "explanation": "\"Small\" and \"only a handful\" pair with obscure; growth to tens of thousands means it burgeoned; officials \"forced to negotiate\" must earlier have dismissed the protest as unimportant. Massive and celebrated contradict \"small\"; waned and stagnated contradict the growth; officials would not have organized or encouraged a protest they were later forced to negotiate with."
+    },
+    "t": 1795112353625
+   },
+   "se043": {
+    "q": {
+     "id": "se043",
+     "type": "se",
+     "topic": "se",
+     "difficulty": 3,
+     "text": "The committee's praise for the proposal was {1}, coming only after a long list of objections had been aired.",
+     "options": [
+      "effusive",
+      "grudging",
+      "fulsome",
+      "premature",
+      "anonymous",
+      "reluctant"
+     ],
+     "answer": [
+      1,
+      5
+     ],
+     "explanation": "Praise offered \"only after a long list of objections\" is given unwillingly: grudging and reluctant. Effusive and fulsome form a pair meaning lavish, contradicting the objections. Premature contradicts \"only after\"; anonymous lacks a partner."
+    },
+    "t": 1795112353625
+   },
+   "se030": {
+    "q": {
+     "id": "se030",
+     "type": "se",
+     "topic": "se",
+     "difficulty": 2,
+     "text": "Reviewers found the sequel {1}, lacking the wit and invention that had made the original so delightful.",
+     "options": [
+      "insipid",
+      "incisive",
+      "vapid",
+      "piquant",
+      "lengthy",
+      "expensive"
+     ],
+     "answer": [
+      0,
+      2
+     ],
+     "explanation": "A work lacking wit and invention is dull and flavorless: insipid and vapid. Incisive and piquant roughly pair as sharp or stimulating, the opposite. Lengthy and expensive are irrelevant to wit and have no partners."
+    },
+    "t": 1795112353625
+   },
+   "p16q1": {
+    "q": {
+     "id": "p16q1",
+     "type": "rc-single",
+     "topic": "rc",
+     "difficulty": 2,
+     "prompt": "Which of the following, if true, most seriously weakens the city council’s argument?",
+     "options": [
+      "Residents of several neighborhoods have publicly expressed support for brighter street lighting.",
+      "The new lighting consumes less electricity than the lighting it replaced.",
+      "During the same year, the police department doubled the number of officers patrolling the central business district at night.",
+      "The brighter lighting in the central business district cost less to install than city planners had projected.",
+      "Several other cities that installed brighter street lighting saw a decrease in nighttime traffic accidents."
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "The argument assumes the lighting caused the drop in burglaries. Doubling night patrols in the same district at the same time offers another explanation, which undermines the basis for expecting the same result elsewhere. The other choices, such as residents’ support for the lighting or its cost and energy use, are irrelevant to whether the lighting reduces burglary."
+    },
+    "pid": "p16",
+    "t": 1795112353625
+   },
+   "p08q1": {
+    "q": {
+     "id": "p08q1",
+     "type": "rc-single",
+     "topic": "rc",
+     "difficulty": 1,
+     "prompt": "According to the passage, musicians recording on 78-rpm discs had to",
+     "options": [
+      "record their performances in dance halls rather than in studios",
+      "abandon improvisation altogether",
+      "condense performances that might otherwise have lasted much longer",
+      "use larger discs for longer tunes",
+      "play every tune at a faster tempo than usual"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Musicians who “might stretch a tune across a quarter of an hour had to compress their ideas drastically.” Giving up improvisation altogether goes beyond what the passage says, and nothing is said about recording in dance halls, using larger discs, or playing faster."
+    },
+    "pid": "p08",
+    "t": 1795112353625
+   },
+   "tc022": {
+    "q": {
+     "id": "tc022",
+     "type": "tc",
+     "topic": "tc",
+     "difficulty": 3,
+     "text": "Although her interest in the project never {1}, the composer's progress on it slowed to a crawl as her teaching duties multiplied.",
+     "options": [
+      [
+       "intensified",
+       "materialized",
+       "crystallized",
+       "resurfaced",
+       "flagged"
+      ]
+     ],
+     "answer": [
+      4
+     ],
+     "explanation": "\"Although\" contrasts her interest with the slowing progress: the work slowed, yet her interest did not decline. Flagged (weakened) fits. Intensified would make the contrast pointless; materialized, crystallized, and resurfaced would imply she was never interested at all, which does not fit the contrast."
+    },
+    "t": 1795125219018
+   },
+   "p10q2": {
+    "q": {
+     "id": "p10q2",
+     "type": "rc-multi",
+     "topic": "rc",
+     "difficulty": 3,
+     "prompt": "The critics described in the second paragraph would most likely agree with which of the following? Consider each of the choices separately and select all that apply.",
+     "options": [
+      "Signature counts overstate the literacy of the wealthy.",
+      "Some people who could not sign their names were nonetheless able to read.",
+      "Signature evidence understates reading ability more severely for some social groups than for others."
+     ],
+     "answer": [
+      1,
+      2
+     ],
+     "explanation": "The critics say such individuals “might read the Bible or a printed ballad with ease yet be unable to sign a register,” which supports the second choice. They also say signature counts understate reading ability “among precisely those groups whom historians have described as least literate,” which supports the third. Nothing suggests that signatures overstate anyone’s literacy, since a person who could sign had normally already learned to read."
+    },
+    "pid": "p10",
+    "t": 1795125219018
+   },
+   "se038": {
+    "q": {
+     "id": "se038",
+     "type": "se",
+     "topic": "se",
+     "difficulty": 3,
+     "text": "Because the evidence for the hypothesis remains {1}, most researchers treat it as a promising lead rather than an established fact.",
+     "options": [
+      "compelling",
+      "inconclusive",
+      "incontrovertible",
+      "abundant",
+      "fabricated",
+      "equivocal"
+     ],
+     "answer": [
+      1,
+      5
+     ],
+     "explanation": "Treating something as a lead rather than a fact means the evidence does not settle the question: inconclusive and equivocal. Compelling and incontrovertible form a loose pair suggesting strong evidence, which would make it an established fact. Fabricated would make it no lead at all; abundant lacks a partner."
+    },
+    "t": 1795125219018
+   },
+   "tc013": {
+    "q": {
+     "id": "tc013",
+     "type": "tc",
+     "topic": "tc",
+     "difficulty": 2,
+     "text": "Though the museum's director insisted that the restructuring was merely administrative, critics suspected the explanation was {1}, a pretext for dismissing curators who had opposed her.",
+     "options": [
+      [
+       "exhaustive",
+       "cogent",
+       "specious",
+       "ingenuous",
+       "forthright"
+      ]
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Critics thought the explanation was a \"pretext,\" plausible on its surface but false: specious. Cogent and forthright would mean the critics believed her; ingenuous means naive or innocent, which does not match a deliberate pretext; exhaustive concerns thoroughness."
+    },
+    "t": 1795127595577
+   },
+   "tc045": {
+    "q": {
+     "id": "tc045",
+     "type": "tc",
+     "topic": "tc",
+     "difficulty": 3,
+     "text": "That the author's style is {1} should not be mistaken for a lack of ambition; the very plainness of her sentences, stripped of every flourish, is the product of {2} revision.",
+     "options": [
+      [
+       "ornate",
+       "prosaic",
+       "turgid"
+      ],
+      [
+       "desultory",
+       "assiduous",
+       "cursory"
+      ]
+     ],
+     "answer": [
+      1,
+      1
+     ],
+     "explanation": "\"The very plainness of her sentences\" identifies the style as prosaic (plain, unadorned). Writing stripped of every flourish, as a sign of ambition, must come from careful, persistent revision: assiduous. Ornate and turgid contradict plainness; desultory and cursory revision would suggest the lack of ambition the sentence denies."
+    },
+    "t": 1795127595577
+   },
+   "tc052": {
+    "q": {
+     "id": "tc052",
+     "type": "tc",
+     "topic": "tc",
+     "difficulty": 1,
+     "text": "The scientist was {1} in her methods, repeating each experiment dozens of times. Her rival, by contrast, was notoriously {2}, publishing results after a single trial. Unsurprisingly, his findings were frequently {3} by later researchers.",
+     "options": [
+      [
+       "eccentric",
+       "careless",
+       "meticulous"
+      ],
+      [
+       "scrupulous",
+       "slapdash",
+       "reticent"
+      ],
+      [
+       "refuted",
+       "confirmed",
+       "cited"
+      ]
+     ],
+     "answer": [
+      2,
+      1,
+      0
+     ],
+     "explanation": "Repeating experiments dozens of times is meticulous; \"by contrast,\" the rival who published after one trial was slapdash; \"unsurprisingly,\" such hasty work was often refuted. Careless and scrupulous are on the wrong sides; confirmed would be surprising, and cited is neutral."
+    },
+    "t": 1795127595577
+   },
+   "se019": {
+    "q": {
+     "id": "se019",
+     "type": "se",
+     "topic": "se",
+     "difficulty": 2,
+     "text": "The ambassador's {1} response neither confirmed nor denied the rumors of a secret agreement.",
+     "options": [
+      "candid",
+      "forthright",
+      "equivocal",
+      "belligerent",
+      "tardy",
+      "ambiguous"
+     ],
+     "answer": [
+      2,
+      5
+     ],
+     "explanation": "A response that \"neither confirmed nor denied\" is noncommittal: equivocal and ambiguous. Candid and forthright are a pair meaning frank, which contradicts the evasion. Belligerent and tardy have no partners."
+    },
+    "t": 1795127595577
+   },
+   "se007": {
+    "q": {
+     "id": "se007",
+     "type": "se",
+     "topic": "se",
+     "difficulty": 1,
+     "text": "The town's {1} donor, who funded the library, the hospital, and the park, asked that her name appear on none of them.",
+     "options": [
+      "munificent",
+      "parsimonious",
+      "miserly",
+      "wealthy",
+      "anonymous",
+      "generous"
+     ],
+     "answer": [
+      0,
+      5
+     ],
+     "explanation": "Funding three major institutions shows great generosity: munificent and generous. Parsimonious and miserly are a pair meaning stingy, the opposite. Wealthy fits but has no synonym among the choices; anonymous is redundant with the second clause and also lacks a partner."
+    },
+    "t": 1795127595577
    }
   },
   "gre.seenPrompts": {
    "i12": 1,
    "i17": 1,
-   "i07": 1
+   "i07": 1,
+   "i38": 1
   },
   "gre.vocabp": {
    "intemperance": {
